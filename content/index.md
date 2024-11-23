@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is where I will be storing all of my notes for the upcoming school year and beyond.
