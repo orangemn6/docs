@@ -2,4 +2,10 @@
 title: Welcome to My Notes
 ---
 
-This is where I will be storing all of my notes for the upcoming school year and beyond.
+### *Getting organized is a sign of self respect*
+
+This is where I will be storing all of my notes for the upcoming school year and beyond.  
+
+[[school/index.md | School Home]]
+
+[[personal/index.md | Personal Home]]
