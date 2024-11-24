@@ -8,4 +8,4 @@ tags:
 
 I will eventually make a table of contents linking my notes to the different chapters of this book.
 
-[[cell-membrane-transport.md]]: [[biotestbank.pdf#page=137]]
+[[cell-membrane-transport.md]]: [[biotestbank.pdf#page 137]]
