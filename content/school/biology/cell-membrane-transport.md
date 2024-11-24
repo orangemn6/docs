@@ -4,18 +4,16 @@ tags:
   - biology
   - cells
   - school
-  - membrane
 ---
 
-
-## Overview: Life at the Edge
+# Overview: Life at the Edge
 
 - **Plasma Membrane**: Boundary separating the living cell from its environment.
   - Exhibits **selective permeability**: Allows certain substances to cross more easily.
 
 ---
 
-## **Concept 7.1**: Fluid Mosaic Model of Membranes
+# Concept 7.1: Fluid Mosaic Model of Membranes
 
 - **Phospholipids**:
   - Most abundant lipid.
@@ -23,7 +21,7 @@ tags:
 - **Fluid Mosaic Model**:
   - Membrane = Fluid structure with embedded "mosaic" proteins.
 
-### Membrane Models and History
+## Membrane Models and History
 
 - 1935: **Davson-Danielli model**:
   - Phospholipid bilayer sandwiched by globular proteins.
@@ -31,7 +29,7 @@ tags:
   - Membrane = Mosaic of proteins within the bilayer.
   - Hydrophilic regions exposed; hydrophobic regions embedded.
 
-### Membrane Fluidity
+## Membrane Fluidity
 
 - **Lipid Movement**:
   - Lateral movement frequent; flip-flopping rare.
@@ -44,14 +42,14 @@ tags:
 
 ---
 
-## **Concept 7.2**: Selective Permeability
+# Concept 7.2: Selective Permeability
 
-### Lipid Bilayer Permeability
+## Lipid Bilayer Permeability
 
 - **Hydrophobic molecules** (e.g., hydrocarbons): Pass through easily.
 - **Polar molecules** (e.g., sugars): Cross slowly or need assistance.
 
-### Transport Proteins
+## Transport Proteins
 
 - **Channel Proteins**:
   - Provide hydrophilic tunnels.
@@ -62,16 +60,17 @@ tags:
 
 ---
 
-## **Concept 7.3**: Passive Transport
+# Concept 7.3: Passive Transport
 
-- **Diffusion**:
-  - Movement down the concentration gradient without energy use.
-  - At equilibrium: Equal movement in both directions.
-- **Osmosis**:
-  - Diffusion of water across a membrane.
-  - Direction: Low to high solute concentration.
+## Diffusion
+- Movement down the concentration gradient without energy use.
+- At equilibrium: Equal movement in both directions.
 
-### Tonicity and Water Balance
+## Osmosis
+- Diffusion of water across a membrane.
+- Direction: Low to high solute concentration.
+
+## Tonicity and Water Balance
 
 - **Isotonic**: No net water movement.
 - **Hypertonic**: Cell loses water.
@@ -79,19 +78,57 @@ tags:
 
 ---
 
-## **Concept 7.4**: Active Transport
+# Passive Transport (Detailed Notes)
+
+### Diffusion
+- Goes straight through the membrane.
+- **Must be small and nonpolar**, e.g., O₂ and CO₂.
+
+### Osmosis
+- Diffusion of water.
+- Can also use aquaporin.
+
+### Facilitated Diffusion
+- Uses a transport protein.
+- Large and/or polar molecules.
+- Can be a channel or carrier.
+- **Substances only move with their own concentration gradient.**
+- Does not take energy to move with the gradient.
+- **Happens until equilibrium is reached, net movement = 0.**
+
+### Tonicity
+- **Ability of a cell to lose or gain water.**
+- **Plant cells** like to be turgid in hypotonic solutions.
+- **Animal cells** like to be in an isotonic solution (0.9% NaCl).
+
+---
+
+# Concept 7.4: Active Transport
 
 - Moves solutes **against** their gradients using **ATP**.
 - **Sodium-Potassium Pump**:
   - Exchanges 3 Na⁺ out for 2 K⁺ in.
   - Maintains cell's membrane potential (voltage difference).
-- **Electrogenic Pumps**:
-  - Generate voltage.
-  - Examples: Sodium-potassium pump (animals), Proton pump (plants, fungi, bacteria).
+
+## Active Transport (Detailed Notes)
+
+- **Requires energy (ATP).**
+- Can go against the concentration gradient.
+
+### Potassium-Sodium Pump
+1. 3 Na⁺ bind to the inside of the protein.
+2. ATP attaches and breaks, reshaping the protein.
+3. 3 Na⁺ leave, and 2 K⁺ come in, resetting the pump.
+
+### Electrogenic Pumps
+- Generate voltage.
+- Examples:
+  - Sodium-potassium pump (animals).
+  - Proton pump (plants, fungi, bacteria).
 
 ---
 
-## **Concept 7.5**: Bulk Transport
+# Concept 7.5: Bulk Transport
 
 - **Exocytosis**:
   - Vesicles fuse with the membrane to release contents.
@@ -104,7 +141,7 @@ tags:
 
 ---
 
-## Membrane Proteins and Functions
+# Membrane Proteins and Functions
 
 - Types:
   - **Peripheral Proteins**: Bound to membrane surface.
@@ -119,7 +156,7 @@ tags:
 
 ---
 
-## Summary Concepts
+# Summary Concepts
 
 1. **Amphipathic molecules**: Hydrophobic and hydrophilic regions (e.g., phospholipids).
 2. **Membrane fluidity** influenced by:
@@ -133,3 +170,28 @@ tags:
    - Sodium-potassium pump.
    - Proton pump.
 5. **Bulk transport**: Exocytosis and endocytosis manage large molecules.
+
+---
+
+# Osmoregulation
+
+- **Control of water balance.**
+  - Kidneys do this in humans.
+  - Contractile vacuoles do this in protists (e.g., paramecium).
+
+---
+
+# Facilitation Proteins
+
+- Assist molecules across the membrane.
+- Cannot go against the concentration gradient.
+
+## Gated Ion Channels
+- Allow in ions but are locked.
+- Ligands act as the "keys" to open them.
+
+## Symporter
+- 2 ions move in the **same direction**.
+
+## Antiporter
+- 2 ions move in **opposite directions**.
