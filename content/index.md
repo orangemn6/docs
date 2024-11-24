@@ -2,7 +2,7 @@
 title: Welcome to My Notes
 ---
 
-### *Getting organized is a sign of self respect*
+>[!quote] *Getting organized is a sign of self respect*
 
 This is where I will be storing all of my notes for the upcoming school year and beyond.  
 
