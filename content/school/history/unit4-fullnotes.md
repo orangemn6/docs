@@ -6,7 +6,7 @@ tags:
 ---
 This is a comprehensive study guide with all of the notes in raw form. View the broken up, more readable notes here:
 
-[[school/history/unit4.md]]
+[[school/history/unit4-pt1.md]]
 
 ← For easier navigation, use the Document Outline
 
