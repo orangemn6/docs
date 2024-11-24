@@ -2,8 +2,8 @@
 title: Unit 4 - Revolutionary War
 tags:
   - us-history
-  - 2024
   - battles
+  - school
 ---
 
 # Revolutionary War 
