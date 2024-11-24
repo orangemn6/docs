@@ -1,5 +1,8 @@
 ---
 title: Unit 3 - Road to Revolution
+tags:
+  - us-history
+  - 2024
 ---
 
 # Age of Enlightenment
