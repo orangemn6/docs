@@ -63,7 +63,7 @@ tags:
 # Concept 7.3: Passive Transport
 
 ## Diffusion
-- Movement down the concentration gradient without [[energy.md]] use.
+- Movement down the concentration gradient without [[energy.md |energy]] use.
 - At equilibrium: Equal movement in both directions.
 
 ## Osmosis
@@ -93,7 +93,7 @@ tags:
 - Large and/or polar molecules.
 - Can be a channel or carrier.
 - **Substances only move with their own concentration gradient.**
-- Does not take [[energy.md]] to move with the gradient.
+- Does not take [[energy.md |energy]] to move with the gradient.
 - **Happens until equilibrium is reached, net movement = 0.**
 
 ### Tonicity
@@ -112,7 +112,7 @@ tags:
 
 ## Active Transport (Detailed Notes)
 
-- **Requires [[energy.md]] (ATP).**
+- **Requires [[energy.md |energy]] (ATP).**
 - Can go against the concentration gradient.
 
 ### Potassium-Sodium Pump
