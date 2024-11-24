@@ -5,4 +5,4 @@ tags:
   - school
 ---
 
-![biotestbank.pdf]
+![content/biotestbank.pdf]
