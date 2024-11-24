@@ -6,7 +6,7 @@ tags:
   - school
   - membrane
 ---
-[[school/biology]]
+
 
 ## Overview: Life at the Edge
 
