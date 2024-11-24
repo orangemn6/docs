@@ -1,5 +1,5 @@
 ---
-title: Bio Questiom Bank
+title: Bio Question Bank
 tags:
   - biology
   - school
@@ -7,4 +7,4 @@ tags:
 
 I will eventually make a table of contents linking my notes to the different chapters of this book.
 
-[content/biotestbank.pdf]
+[content/assets/biotestbank.pdf]
