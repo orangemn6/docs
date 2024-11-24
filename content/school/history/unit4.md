@@ -6,7 +6,7 @@ tags:
   - battles
 ---
 
-# Revolutionary War Overview
+# Revolutionary War 
 
 ## British Strategy and Challenges
 - **City Captures**: The British had little trouble capturing cities since most were on the coast, allowing the British navy to provide support.
