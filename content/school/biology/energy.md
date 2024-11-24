@@ -12,9 +12,7 @@ ATP stands for Adenosine Triphosphate, which is a **Nucleic Acid** that stores e
 
 ATP is created through the process of cellular respiration, where the equation is:
 $$
-\[
-\text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2 \rightarrow 6\text{CO}_2 + 6\text{H}_2\text{O} + \text{Energy (ATP)}
-\]
+\mathrm{C}_{6}^{}\mathrm{H}_{12}^{}\mathrm{O}_{6}^{} + 6\mathrm{O}_{2}^{} \to 6\mathrm{H}_{2}^{}\mathrm{O}_{}^{} + 6\mathrm{C}_{}^{}\mathrm{O}_{2}^{} + ATP
 $$
 
 
