@@ -6,9 +6,9 @@ title: Welcome to My Notes
 
 This is where I will be storing all of my notes for the upcoming school year and beyond.  
 
-[[school/index.md | School Home]]
+[[school/index.md |School Home]]
 
-[[personal/index.md | Personal Home]]
+[[personal/index.md |Personal Home]]
 
 Each note is deliberately placed in order to keep it both easily accessible and organized. All navigation can be done via the links in the middle of each page, and by using the sidebar on the left. 
 
