@@ -9,6 +9,3 @@ This is where I will be storing all of my notes for the upcoming school year and
 [[school/index.md | School Home]]
 
 [[personal/index.md | Personal Home]]
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkxMzQ4NDZdfQ==
--->
