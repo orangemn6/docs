@@ -17,5 +17,5 @@ Many notes that I take are on paper, and are later [[personal/chatgpt.md |post-p
 
 ## For [[Personal]]
 
-My personal notes are mostly writings about my productivity or collections of things I find on the internet. I aim to keep an obsidian-compliant notebook with linked notes and tags. The [personal/resources.md]] page is where I dump limks I need to look at later. If I am reading an article and something stands out to me, I may make a new note with my thoughts.
+My personal notes are mostly writings about my productivity or collections of things I find on the internet. I aim to keep an obsidian-compliant notebook with linked notes and tags. The [[personal/resources.md |resources]] page is where I dump limks I need to look at later. If I am reading an article and something stands out to me, I may make a new note with my thoughts.
 
