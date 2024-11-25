@@ -9,7 +9,6 @@ This is a comprehensive study guide with all of the notes in raw form. View the 
 [[unit4-pt1]]
 [[unit4-pt2]] 
 
-← For easier navigation, use the Document Outline
 
 Battles: (Attacking force) v. (Defending force); (Victor)
 
@@ -574,7 +573,7 @@ Battles: (Attacking force) v. (Defending force); (Victor)
 - Clinton remained in New York, while Washington struggled to keep the Continental Army together until the Treaty of Paris (1783)
 - Over the course of 1782 and 1783, Benjamin Franklin, Henry Laurens, John Jay, and John Adams negotiated the peace settlement 
 
-- ## Treaty of Paris (1783)
+## Treaty of Paris (1783)
     
 
 - Article 1: Britain acknowledges the United States and the states comprising it to be free, sovereign, and independent states and relinquishes all claims to it
