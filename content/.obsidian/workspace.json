@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88637b98a411b0f4",
+        "id": "731b0ff344dd5725",
         "type": "tabs",
         "children": [
           {
-            "id": "a877d6d90c86e1af",
+            "id": "ac989e31fd235215",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/Resources.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "New tab"
             }
           }
         ]
@@ -163,8 +159,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a877d6d90c86e1af",
+  "active": "ac989e31fd235215",
   "lastOpenFiles": [
+    "Personal.md",
+    "school/biology/cell-membrane-transport.md",
+    "school/compsci/journals/unit4.md",
+    "personal/Resources.md",
     "index.md",
     "school/index.md",
     "personal/notetaking.md"

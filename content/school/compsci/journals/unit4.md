@@ -10,3 +10,5 @@ tags:
 **Assignment Operator: → or equals,** assigns something to a variable
 
 **Variable:**  A keyword that stores information to be used
+
+
