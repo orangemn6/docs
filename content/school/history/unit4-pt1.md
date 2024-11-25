@@ -22,11 +22,6 @@ tags:
   - The British launched a costly frontal assault but ultimately took the hill.
   - Though a tactical victory for the British, it demonstrated that the colonists could put up a strong fight.
 
-## Key British Generals in the New World
-1. **Charles Cornwallis**
-2. **William Howe**
-3. **Henry Clinton**
-
 ---
 
 ## The Continental Army
