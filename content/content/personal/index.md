@@ -1,5 +1,5 @@
 ---
-{"Title":"Personal Notes","publish":true,"PassFrontmatter":true}
+{"Title":"Personal Notes","publish":true,"tags":["personal"],"PassFrontmatter":true}
 ---
 
 
