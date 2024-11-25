@@ -2,7 +2,6 @@
 title: Unit 4 - Revolutionary War Part 1
 tags:
   - us-history
-  - battles
   - school
 ---
 >[!info] Part 2: [[unit4-pt2]]

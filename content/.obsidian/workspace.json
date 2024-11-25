@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "47351516cfa257ca",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school/history/unit4-pt2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for unit4-pt2"
             }
           },
           {
@@ -112,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/Resources.md",
+                "file": "school/history/unit4-pt2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Resources"
+              "title": "Outgoing links from unit4-pt2"
             }
           },
           {
@@ -138,9 +140,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "school/history/unit4-pt2.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of unit4-pt2"
             }
           },
           {
@@ -175,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ed9bc30ae49ddf5",
+  "active": "296956c4c63d2fef",
   "lastOpenFiles": [
     "school/history/unit4-pt2.md",
     "school/history/unit4-pt1.md",
