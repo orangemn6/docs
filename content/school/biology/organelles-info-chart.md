@@ -3,6 +3,8 @@ title: Organelles Info Chart
 tags:
  - biology
  - school
+alias:
+ - organelles
 ---
 
 ## Cell Organelles
