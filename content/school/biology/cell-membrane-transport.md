@@ -72,9 +72,9 @@ tags:
 
 ## Tonicity and Water Balance
 
-- **Isotonic**: No net water movement.
-- **Hypertonic**: Cell loses water.
-- **Hypotonic**: Cell gains water.
+- **Isotonic**: Equal amount of solute on both sides. No net water movement.
+- **Hypertonic**: More solute outside cell Cell loses water.
+- **Hypotonic**: More solute inside cell. Cell gains water.
 
 ---
 
@@ -135,7 +135,7 @@ tags:
 - **Endocytosis**:
   - Membrane forms vesicles to bring materials inside.
   - Types:
-    - **Phagocytosis**: Engulfs large particles.
+    - **Phagocytosis**: Engulfs large solid particles.
     - **Pinocytosis**: Engulfs extracellular fluid.
     - **Receptor-mediated**: Specific ligands trigger vesicle formation.
 
