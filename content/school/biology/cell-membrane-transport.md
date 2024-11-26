@@ -6,6 +6,7 @@ tags:
   - school
 ---
 
+![Flow Chart](membraneflowchart.png)
 # Overview: Life at the Edge
 
 - **Plasma Membrane**: Boundary separating the living cell from its environment.
