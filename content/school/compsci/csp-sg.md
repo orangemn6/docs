@@ -2,7 +2,7 @@
 title: AP CSP Study Guide
 tags: 
   - school
-  - comp-sci
+  - compsci
 ---
 # AP Computer Science Principles Ultimate Guide Notes | Knowt
 Chapter 1: Creative Development
