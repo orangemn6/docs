@@ -6,7 +6,7 @@ tags:
 ---
 [[biotestbank.pdf]]
 
-I will eventually make a table of contents linking my notes to the different chapters of this book.
+This MOC maps the question bank into different chapters of my notes. 
 
 [[organelles-info-chart.md]]: pg 120
 
