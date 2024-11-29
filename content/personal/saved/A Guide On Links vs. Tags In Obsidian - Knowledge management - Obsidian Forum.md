@@ -1,11 +1,12 @@
 ---
-title: "A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum"
-source: "https://forum.obsidian.md/t/a-guide-on-links-vs-tags-in-obsidian/28231"
-date: "2024-11-28T23:37:42-05:00"
+title: A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum
+source: https://forum.obsidian.md/t/a-guide-on-links-vs-tags-in-obsidian/28231
+date: 2024-11-28T23:37:42-05:00
 tags:
-  - "clippings"
+  - clippings
+  - productivity
 ---
-
+[[notetaking]]
 
 The question “should I use tags or links” is asked regularly in the Obsidian discord.
 

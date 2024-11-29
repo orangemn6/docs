@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c810590aaab62b3",
+        "id": "2c4b14dd554f223f",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c83f6545d5a936",
+            "id": "89dd6714726e6354",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "personal/saved/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -189,10 +193,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a4c83f6545d5a936",
+  "active": "89dd6714726e6354",
   "lastOpenFiles": [
-    "personal/saved/index.md",
     "personal/saved/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum.md",
+    "personal/saved/index.md",
     "saved/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum.md",
     "saved",
     "personal/resources.md",
