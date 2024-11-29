@@ -5,7 +5,10 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Backlinks(),
+    Component.RecentNotes({ showTags: false }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/orangemn6",
@@ -32,8 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-    Component.RecentNotes({ showTags: false }),
+    
   ],
 }
 
