@@ -3,11 +3,12 @@ title: My Notes System
 tags:
   - personal
   - productivity
+  - obsidian
 ---
 
 ## Overview
 
-Taking notes is a large part of being a student. An essential part of academics is being able to remember and retain information. This outlines my general methodology for taking notes inside and outside of school.
+Taking notes is a large part of being a student. An essential part of academics is being able to remember and retain information. This outlines my general methodology for taking notes inside and outside of school. All of my notes are taken with the intent to add them to this [[digital-gardening.md |digital garden]]
 
 ## In [[School]]
 
