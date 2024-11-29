@@ -4,6 +4,7 @@ tags:
   - personal
   - links
   - productivity
+  - obsidian
 ---
 ## Obsidian
 
