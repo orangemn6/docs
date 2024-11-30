@@ -4,6 +4,8 @@ tags:
   - personal
 ---
 
-## TODO
+### School
 
-- [ ] Cell Diffusion Research Report
+- [/] Cell Diffusion Research Report
+- [/] Refactor Robot CAD
+- [ ] Research coaxel four bar mechanisms
