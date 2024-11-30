@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "index-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,8 +195,9 @@
   },
   "active": "89dd6714726e6354",
   "lastOpenFiles": [
-    "personal/saved/index.md",
+    "personal/index-personal.md",
     "personal/notetaking.md",
+    "personal/saved/index.md",
     "personal/saved/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum.md",
     "saved/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum.md",
     "saved",
