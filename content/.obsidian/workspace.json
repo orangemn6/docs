@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/saved/index.md",
+                "file": "personal/notetaking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "notetaking"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "89dd6714726e6354",
   "lastOpenFiles": [
-    "personal/notetaking.md",
     "personal/saved/index.md",
+    "personal/notetaking.md",
     "personal/saved/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum.md",
     "saved/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum.md",
     "saved",
