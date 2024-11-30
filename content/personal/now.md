@@ -3,6 +3,7 @@ title: What I'm Working On Now
 tags:
   - personal
 ---
+>[!info] This page is for more general themes. Check my [[todo]] page for a better insight into my tasks.
 
 ## As a student...
 
