@@ -6,8 +6,4 @@ tags:
 
 ### All Tasks
 
-- [ ] Cell Diffusion Research Report
-  - [x] Graph
-  - [ ] Turn in
-- [ ] Refactor Robot CAD
-- [ ] Research coaxel four bar mechanisms
+- [ ] Atomise organelle notes with links
