@@ -13,5 +13,7 @@ This is an ever-growing table of contents of books I have read and want to event
 
 ## To Read
 
+[[smart-notes |How to Take Smart Notes]]
+
 
 ## Done Reading
