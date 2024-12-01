@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/biology/organelles-info-chart.md",
+                "file": "personal/reading-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "organelles-info-chart"
+              "title": "reading-list"
             }
           }
         ]
@@ -195,6 +195,9 @@
   },
   "active": "d00657ac3c1332cb",
   "lastOpenFiles": [
+    "personal/reads/sapiens.md",
+    "personal/reading-list.md",
+    "school/biology/organelles-info-chart.md",
     "school/biology/organelles/Endoplasmic Reticulum (ER).md",
     "school/biology/organelles/Cytoskeleton.md",
     "school/biology/organelles/Cytoplasm.md",
@@ -212,7 +215,6 @@
     "school/biology/organelles/Nucleus.md",
     "school/biology/organelles",
     "Cell Membrane.md",
-    "school/biology/organelles-info-chart.md",
     "Ribosomes.md",
     "Centrioles.md",
     "Golgi Apparatus (Golgi Body).md",
@@ -220,8 +222,6 @@
     "Mitochondria.md",
     "Lysosomes.md",
     "Vesicles.md",
-    "Chloroplasts.md",
-    "Large Central Vacuole.md",
     "personal/reads",
     "saved",
     "content/saved",
