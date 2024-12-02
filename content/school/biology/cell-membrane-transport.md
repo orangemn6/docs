@@ -92,17 +92,13 @@ The endomembrane system is a system of many organelles which are connected by ve
 
 The cytoskeleton provides structural support to the cell. It is dynamic, meaning can be disassembled and then reassembled elsewhere. It created a geodesic frame. It is comprised of three fibers
 
-**Microtubules (Cilia and Flagella are also made of this)**
+*   Microtubules (Cilia and Flagella are also made of this)
+    
+*   Microfilaments
+    
+*   Intermediate Filaments
+    
 
-- The largest component of the cytoskeleton, composed of tubulin protein, which plays a crucial role in intracellular transport, cell division, and forming structures like cilia and flagella. 
-
-**Microfilaments**
-
-- These are the thinnest filaments, primarily made of actin protein, and are involved in cell movement, muscle contraction, and maintaining cell shape. 
-
-**Intermediate Filaments**
-
-- With a diameter between microfilaments and microtubules, these filaments provide structural support and help anchor organelles within the cell. 
 #### Motor Proteins
 
 Motor Proteins are small proteins that use ATP to move things around the cell along the cytoskeleton. Adding and then removing ATP causes their structure to change and it “takes a step.”
@@ -174,6 +170,19 @@ A plant cell prefers a hypotonic environment where it is turgid and pushes again
 
 ![](https://knowt-user-attachments.s3.amazonaws.com/cd0f7fea-e2b8-4fd8-9c8d-0b64213b895d.jpg)
 
+#### Water Potential Equation
+
+Ψ - the symbol for **water potential**, aka where the water is going to go
+
+The formula for water potential is Ψ = Ψs - Ψp
+
+Ψp Is the **pressure** potential, and Ψs is the **solute** potential.
+
+#### Solute Potential Equation
+
+ΨS = -iCRT
+
+i is the ionization constant, which is 1.0 mole for sucrose. C is the molar concentration. R is pressure constant. T is the temperature in Kelvin, which is Celsius + 273. Pure water has 0 moles of glucose, (0 mole concentration) it is as hypotonic as possible..
 
 #### Other Forms of Transport (Often with Proteins)
 
