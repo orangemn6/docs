@@ -1,0 +1,11 @@
+## Tide of the War Turns
+- War becomes unpopular and Britain
+	- Defeat at **Saratoga** persuades king to take more conciliatory measures
+- United States offered **dominion status** within Great Britain, declines
+- Parliament repeals Tea Act of 1773 and repealed laws that blocked trade
+- **American Militia turns efforts towards Indian tribes in the west**
+	- George Rogers Clark captures British fort at Vincennes
+- **Key alliances**: 
+	- Britain ends up needing a new strategy and looks to the south
+	- Spain joins against British to try to recapture Florida 
+	- French alliance gives new life to American effort
