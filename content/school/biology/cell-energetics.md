@@ -13,20 +13,20 @@ The study of how cells accomplish this is called **bioenergetics**.
 
 ### Thermodynamics
 
-Energy cannot be created or destroyed, it can be only be transferred.
+[[energy]] cannot be created or destroyed, it can be only be transferred.
 
-*   **First Law of Thermodynamics**: Cells cannot take energy out of thin air. It must harvest it from somewhere.
+*   **First Law of Thermodynamics**: Cells cannot take [[energy]] out of thin air. It must harvest it from somewhere.
     
-*   **Second Law** **of Thermodynamics: It states that energy transfer leads to less organization. That means the universe tends toward disorder (entropy). In order to power cellular processes, energy input must exceed energy loss to maintain order. Cellular processes that release energy can be coupled with cellular processes that require an input of energy.**
+*   **Second Law** **of Thermodynamics: It states that [[energy]] transfer leads to less organization. That means the universe tends toward disorder (entropy). In order to power cellular processes, [[energy]] input must exceed [[energy]] loss to maintain order. Cellular processes that release [[energy]] can be coupled with cellular processes that require an input of [[energy]].**
     
 
 ### Types of Reactions
 
-*   **Exergonic** reactions are those in which the products have less energy than the reactants.
+*   **Exergonic** reactions are those in which the products have less [[energy]] than the reactants.
     
-*   The course of a reaction can be represented by an energy diagram. You’ll notice that **energy is represented along the y-axis.**
+*   The course of a reaction can be represented by an [[energy]] diagram. You’ll notice that **[[energy]] is represented along the y-axis.**
     
-*   Reactions that require an input of energy are called endergonic reactions. You’ll notice that the products have more energy than the reactants.
+*   Reactions that require an input of [[energy]] are called endergonic reactions. You’ll notice that the products have more [[energy]] than the reactants.
     
 
 Enzymes
@@ -34,9 +34,9 @@ Enzymes
 
 *   A **catalyst** is something that speeds something up.
     
-*   Enzymes are **biological catalysts** that speed up reactions which is by lowering the activation energy and helping the transition state to form.
+*   Enzymes are **biological catalysts** that speed up reactions which is by lowering the activation [[energy]] and helping the transition state to form.
     
-*   Enzymes do NOT change the energy of the starting point or the ending point of the reaction. They only lower the activation energy.
+*   Enzymes do NOT change the [[energy]] of the starting point or the ending point of the reaction. They only lower the activation [[energy]].
     
 
 ### Enzyme Specificity
@@ -52,7 +52,7 @@ Enzymes
     
 *   The enzyme temporarily binds one or more of the substrates to its active site and forms an **enzyme-substrate complex.**
     
-*   Enzymes **Do**: increase the rate of a reaction by lowering the reaction’s activation energy form temporary enzyme-substrate complexes remain unaffected by the reaction
+*   Enzymes **Do**: increase the rate of a reaction by lowering the reaction’s activation [[energy]] form temporary enzyme-substrate complexes remain unaffected by the reaction
     
 *   Enzymes **Don’t**: change the reaction make reactions occur that would otherwise not occur at all
     
@@ -117,13 +117,13 @@ Enzymes
 Reaction Coupling and ATP
 -------------------------
 
-*   The cell gets its energy through adenosine triphosphate (**ATP**).
+*   The cell gets its [[energy]] through adenosine triphosphate (**ATP**).
     
-*   ATP consists of a molecule of adenosine bonded to three phosphates. Enormous amount of energy is packed into those phosphate bonds.
+*   ATP consists of a molecule of adenosine bonded to three phosphates. Enormous amount of [[energy]] is packed into those phosphate bonds.
     
-*   When a cell needs energy, it takes one of these potential-packed molecules of ATP and splits off the third phosphate, forming adenosine diphosphate (ADP) and one loose phosphate (Pi ), while releasing energy in the process. ATP → ADP + Pi + energy
+*   When a cell needs [[energy]], it takes one of these potential-packed molecules of ATP and splits off the third phosphate, forming adenosine diphosphate (ADP) and one loose phosphate (Pi ), while releasing [[energy]] in the process. ATP → ADP + Pi + [[energy]]
     
-*   Organisms can use exergonic processes that increase energy, like breaking down ATP, to power **endergonic reactions,** like building organic macromolecules.
+*   Organisms can use exergonic processes that increase [[energy]], like breaking down ATP, to power **endergonic reactions,** like building organic macromolecules.
     
 
 ### Sources of ATP
@@ -140,7 +140,7 @@ Reaction Coupling and ATP
 Photosynthesis
 --------------
 
-*   **Photosynthesis** is the process by which light energy is converted to chemical energy.
+*   **Photosynthesis** is the process by which light [[energy]] is converted to chemical [[energy]].
     
 *   6CO2 + 6H2O C6H12O6 + 6O2
     
@@ -150,7 +150,7 @@ Photosynthesis
     
 *   There are two stages in photosynthesis: the light reactions (also called the light-dependent reactions) and the dark reactions (also called the light- independent reactions).
     
-    *   The whole process begins when photons (energy units) of sunlight strike a leaf, activating chlorophyll and exciting electrons.
+    *   The whole process begins when photons ([[energy]] units) of sunlight strike a leaf, activating chlorophyll and exciting electrons.
         
     *   The activated chlorophyll molecule then passes these excited electrons down to a series of electron carriers, ultimately producing ATP and NADPH.
         
@@ -171,7 +171,7 @@ Photosynthesis
     
 *   Many light-absorbing pigments participate in photosynthesis. Some of the more important ones are chlorophyll a, chlorophyll b, and carotenoids. These pigments are clustered in the thylakoid membrane into units called antenna complexes.
     
-*   All of the pigments within a unit are able to “gather” light, but they’re not able to “excite” electrons. The other pigments, called antenna pigments, “gather” light and “bounce” energy to the reaction center.
+*   All of the pigments within a unit are able to “gather” light, but they’re not able to “excite” electrons. The other pigments, called antenna pigments, “gather” light and “bounce” [[energy]] to the reaction center.
     
 *   There are two types of reaction centers:
     
@@ -187,7 +187,7 @@ Photosynthesis
 The Light Reactions
 -------------------
 
-*   When a leaf captures sunlight, the energy is sent to **P680, the reaction center for photosystem II.**
+*   When a leaf captures sunlight, the [[energy]] is sent to **P680, the reaction center for photosystem II.**
     
 *   The activated electrons are trapped by P680 and passed to a molecule called the primary acceptor, and then they are passed down to carriers in the electron transport chain.
     
@@ -202,7 +202,7 @@ The Light Reactions
 
 *   The dark reactions use the products of the light reactions—ATP and NADPH—to **make sugar**.
     
-*   We now have energy to make glucose, Their carbon source is CO2. Carbon fixation means is that CO2 from the air is converted into carbohydrates.
+*   We now have [[energy]] to make glucose, Their carbon source is CO2. Carbon fixation means is that CO2 from the air is converted into carbohydrates.
     
 *   This step occurs in the stroma of the leaf. The dark reactions are also called the **Calvin-Benson Cycle**
     
@@ -304,7 +304,7 @@ There are four important tidbits to remember regarding glycolysis:
         
     *   Citrate gets turned into several other things, and because the cycle begins with a four-carbon molecule, oxaloacetate, it eventually gets turned back into oxaloacetate to maintain the cycle by joining with the next acetyl-CoA coming down the pipeline.
         
-*   With each turn of the cycle, three types of energy are produced:
+*   With each turn of the cycle, three types of [[energy]] are produced:
     
     *   1 ATP
         
@@ -319,7 +319,7 @@ There are four important tidbits to remember regarding glycolysis:
 
 ### Electron Transport Chain
 
-*   As electrons are removed from a molecule of glucose, they carry much energy that was originally stored in their chemical bonds.
+*   As electrons are removed from a molecule of glucose, they carry much [[energy]] that was originally stored in their chemical bonds.
     
 *   These electrons are transferred to readied hydrogen carrier molecules.
     
@@ -335,11 +335,11 @@ There are four important tidbits to remember regarding glycolysis:
         
     *   2 FADH2 from the Krebs cycle
         
-*   That gives us a total of 12 electron or energy carriers altogether.
+*   That gives us a total of 12 electron or [[energy]] carriers altogether.
     
 *   These electron carriers—**NADH and FADH2—“shuttle”** electrons to the electron transport chain, the resulting NAD+ and FADH can be recycled to be used as carriers again, and the hydrogen atoms are split into hydrogen ions and electrons.
     
-*   The high-energy electrons from NADH and FADH2 are passed down a series of protein carrier molecules that are embedded in the cristae; thus, it is called the electron transport chain.
+*   The high-[[energy]] electrons from NADH and FADH2 are passed down a series of protein carrier molecules that are embedded in the cristae; thus, it is called the electron transport chain.
     
 *   Some of the carrier molecules in the electron transport chain are NADH dehydrogenase and cytochrome C.
     
@@ -352,11 +352,11 @@ There are four important tidbits to remember regarding glycolysis:
 
 ### Chemiosmosis
 
-*   The energy released from the electron transport chain is used to pump hydrogen ions across the inner mitochondrial membrane from the matrix into the inter-membrane space.
+*   The [[energy]] released from the electron transport chain is used to pump hydrogen ions across the inner mitochondrial membrane from the matrix into the inter-membrane space.
     
 *   The pumping of hydrogen ions into the inter-membrane space creates a pH gradient, or **proton gradient.**
     
-*   The hydrogen ions really want to diffuse back into the matrix. The potential energy established in this gradient is responsible for the production of ATP.
+*   The hydrogen ions really want to diffuse back into the matrix. The potential [[energy]] established in this gradient is responsible for the production of ATP.
     
 *   This pumping of ions and diffusion of ions to create ATP is chemiosmosis
     
@@ -407,9 +407,9 @@ You will also want to make sure you remember the major steps of cell respiration
 
 *   A **cramp** was possibly the consequence of anaerobic respiration.
     
-*   When you exercise, your muscles require a lot of energy.
+*   When you exercise, your muscles require a lot of [[energy]].
     
-*   To get this energy, they convert enormous amounts of glucose to ATP.
+*   To get this [[energy]], they convert enormous amounts of glucose to ATP.
     
 *   As you continue to exercise, your body doesn’t get enough oxygen to keep up with the demand in your muscles. This creates an oxygen debt.
     

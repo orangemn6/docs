@@ -11,3 +11,5 @@ This MOC maps the question bank into different chapters of my notes.
 [[organelles-info-chart.md]]: pg 120
 
 [[cell-membrane-transport.md]]: page 137
+
+[[cell-energetics]]: page 150, 172, 200
