@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e46e67ced2e316",
+        "id": "35c3e882da43583c",
         "type": "tabs",
         "children": [
           {
-            "id": "fcbce9cc2e3b7fb0",
+            "id": "d00657ac3c1332cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/history/Washington in Pennsylvania (December 1776).md",
+                "file": "personal/reading-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Washington in Pennsylvania (December 1776)"
+              "title": "reading-list"
             }
           }
         ]
@@ -193,40 +193,40 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "fcbce9cc2e3b7fb0",
+  "active": "d00657ac3c1332cb",
   "lastOpenFiles": [
-    "school/history/Washington in Pennsylvania.md",
-    "school/history/Valley Forge Winter (1777-1778).md",
-    "school/history/unit4-pt2.md",
-    "school/history/unit4-pt1.md",
-    "school/history/unit3.md",
-    "school/history/First Continental Congress (1774).md",
-    "school/history/Tea Act and Boston Tea Party.md",
-    "school/history/Townshend Acts and Boston Massacre.md",
-    "school/history/Colonial Resistance to British Policies.md",
-    "school/history/French and Indian War.md",
-    "school/history/Governing the Colonies.md",
-    "school/history/Pietism and the Great Awakening.md",
-    "school/history/Age of Enlightenment.md",
-    "school/history/unit4-fullnotes.md",
-    "school/history/Tide of the War Turns.md",
-    "school/history/Thomas Paine’s Common Sense.md",
-    "school/history/The War in the South.md",
-    "school/history/North Carolina into Virginia.md",
-    "school/history/Battle for the Carolinas.md",
-    "school/history/The Endgame.md",
-    "school/history/Key Takeaways.md",
-    "school/history/The British 3-Pronged Attack Plan (1777).md",
-    "school/history/Washington in Pennsylvania (December 1776).md",
-    "school/history/The Continental Army.md",
-    "school/history/Battle of Bunker Hill (June 17, 1775).md",
-    "school/history/British Strategy and Challenges.md",
-    "school/biology/membraneflowchart.png",
+    "personal/reads/sapiens.md",
+    "personal/reading-list.md",
+    "school/biology/organelles-info-chart.md",
+    "school/biology/organelles/Endoplasmic Reticulum (ER).md",
+    "school/biology/organelles/Cytoskeleton.md",
+    "school/biology/organelles/Cytoplasm.md",
+    "school/biology/organelles/Chloroplasts.md",
+    "school/biology/organelles/Centrioles.md",
+    "school/biology/organelles/Cell Wall.md",
+    "school/biology/organelles/Cell Membrane.md",
+    "school/biology/organelles/organelles-master-doc.md",
+    "school/biology/organelles/Golgi Apparatus (Golgi Body).md",
+    "school/biology/organelles/Mitochondria.md",
+    "school/biology/organelles/Ribosomes.md",
+    "school/biology/organelles/Lysosomes.md",
+    "school/biology/organelles/Vesicles.md",
+    "school/biology/organelles/Large Central Vacuole.md",
+    "school/biology/organelles/Nucleus.md",
     "school/biology/organelles",
+    "Cell Membrane.md",
+    "Ribosomes.md",
+    "Centrioles.md",
+    "Golgi Apparatus (Golgi Body).md",
+    "Endoplasmic Reticulum (ER).md",
+    "Mitochondria.md",
+    "Lysosomes.md",
+    "Vesicles.md",
     "personal/reads",
     "saved",
     "content/saved",
     "content",
-    "personal/saved"
+    "personal/saved",
+    "school/biology/membraneflowchart.png"
   ]
 }

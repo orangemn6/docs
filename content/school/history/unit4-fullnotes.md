@@ -27,7 +27,7 @@ Battles: (Attacking force) v. (Defending force); (Victor)
 - The minutemen were not as well-trained as the professional British troops, and scattered and ran 
 - British advance on Concord
 
-## Concord (Apr 19, 1775)
+- ## Concord (Apr 19, 1775)
     
 
 - Thomas Gage (British) v. Minutemen (American); American Victory
