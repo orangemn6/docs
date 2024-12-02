@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/reading-list.md",
+                "file": "school/biology/cell-energetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reading-list"
+              "title": "cell-energetics"
             }
           }
         ]
@@ -195,8 +195,14 @@
   },
   "active": "d00657ac3c1332cb",
   "lastOpenFiles": [
-    "personal/reads/sapiens.md",
+    "school/index.md",
+    "school/biology/cell-energetics.md",
+    "school/history/unit4-pt2.md",
+    "school/history/unit4-pt1.md",
+    "school/history/unit4-fullnotes.md",
+    "school/history/unit3.md",
     "personal/reading-list.md",
+    "personal/reads/sapiens.md",
     "school/biology/organelles-info-chart.md",
     "school/biology/organelles/Endoplasmic Reticulum (ER).md",
     "school/biology/organelles/Cytoskeleton.md",
@@ -216,12 +222,6 @@
     "school/biology/organelles",
     "Cell Membrane.md",
     "Ribosomes.md",
-    "Centrioles.md",
-    "Golgi Apparatus (Golgi Body).md",
-    "Endoplasmic Reticulum (ER).md",
-    "Mitochondria.md",
-    "Lysosomes.md",
-    "Vesicles.md",
     "personal/reads",
     "saved",
     "content/saved",
