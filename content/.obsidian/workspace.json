@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/index.md",
+                "file": "school/biology/Redox Reactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Redox Reactions"
             }
           }
         ]
@@ -195,11 +195,13 @@
   },
   "active": "e8363a97caa285fe",
   "lastOpenFiles": [
-    "school/history.md",
-    "school/compsci.md",
+    "image1.md",
+    "school/biology/Redox Reactions.md",
+    "school/biology/cell-resp-photo-master.md",
     "school/biology.md",
     "school/index.md",
-    "school/biology/cell-resp-photo-master.md",
+    "school/history.md",
+    "school/compsci.md",
     "school/biology/Anaerobic.md",
     "school/biology/Cellular Respiration.md",
     "school/biology/Electron Carriers.md",
@@ -211,7 +213,6 @@
     "school/biology/Phosphorylation.md",
     "school/biology/Prepatory Reaction.md",
     "school/biology/Pyruvate.md",
-    "school/biology/Redox Reactions.md",
     "school/history/unit4-pt1.md",
     "school/history/unit4-pt2.md",
     "school/biology/membraneflowchart.png",
@@ -221,7 +222,6 @@
     "personal/reads/sapiens.md",
     "school/biology/organelles/Endoplasmic Reticulum (ER).md",
     "school/biology/organelles/Cytoskeleton.md",
-    "school/biology/organelles/Cytoplasm.md",
     "school/biology/organelles",
     "personal/reads",
     "saved",
