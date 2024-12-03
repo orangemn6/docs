@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/todo.md",
+                "file": "personal/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "index"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "e0f57a3487681ec0",
   "lastOpenFiles": [
-    "school/biology/cell-membrane-transport.md",
     "index.md",
+    "personal/todo.md",
+    "school/biology/cell-membrane-transport.md",
     "school/biology/bio-q-bank.md",
     "school/biology/biotestbank.pdf",
     "school/biology/cell-energetics.md",
@@ -222,7 +223,6 @@
     "school/biology/organelles/Ribosomes.md",
     "school/biology/organelles/Lysosomes.md",
     "school/biology/organelles/Vesicles.md",
-    "school/biology/organelles/Large Central Vacuole.md",
     "school/biology/organelles",
     "personal/reads",
     "saved",

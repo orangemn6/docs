@@ -8,5 +8,4 @@ tags:
 
 - [x] Finish mapping biology notes into vault 🔽 #todo
 - [ ] Find a project to work on 🔼 #todo 
-	- Research?
-	- 
+- [ ] Integrate spaced repetition into this vault🔼 #todo 
