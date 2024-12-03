@@ -4,8 +4,7 @@ tags:
   - us-history
   - school
 ---
->[!info] Part 2: [[unit4-pt2]]
->Part 3: [[unit4-pt3]]
+>[!info] Part 2: [[unit4-pt2]], Part 3: [[unit4-pt3]]
 
 # Revolutionary War 
 

@@ -4,6 +4,7 @@ tags:
   - school
   - us-history
 ---
+> [!info] [[unit4-pt2]], [[unit4-pt1]]
 ## Articles of Confederation
 
 - First constitution of the united states. Constitution sets up structure, processes, and rules of govt.

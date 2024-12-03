@@ -4,7 +4,7 @@ tags:
   - school
   - us-history
 ---
-> [!info] Part 1 can be found here: [[unit4-pt1]]
+> [!info] Part 1 can be found here: [[unit4-pt1]], [[unit4-pt3]]
 
 # Revolutionary War Part 2
 
