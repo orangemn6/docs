@@ -7,7 +7,7 @@ tags:
 ---
 
 ![Flow Chart](membraneflowchart.png)
-# 🧬 AP Biology Unit 2 Notes
+# 🧬 Biology Unit 2 Notes
 -----------------------------------
 
 [Click Here](https://www.youtube.com/watch?v=8IlzKri08kk) for a video on cell organelles and general structure.
