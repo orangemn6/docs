@@ -1,4 +1,7 @@
 {
   "Appearance-dark@@card-layout-open-dark": false,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker"
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "primary-theme@@zero-tab-anim": true,
+  "primary-theme@@zero-popup-popdown": false,
+  "primary-theme@@zero-popup-blur": true
 }
