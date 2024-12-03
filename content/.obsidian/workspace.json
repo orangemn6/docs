@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1dcca4148acdf33d",
+        "id": "cd846aa895b7ca0d",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f57a3487681ec0",
+            "id": "4268d6928d61d1f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -194,9 +190,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e0f57a3487681ec0",
+  "active": "4268d6928d61d1f9",
   "lastOpenFiles": [
+    "school/compsci/csp-sg.md",
+    "school/compsci/journals/unit4.md",
+    "school/compsci/journals/unit3.md",
+    "school/compsci/journals/unit1-2.md",
     "index.md",
+    "personal/index.md",
     "personal/todo.md",
     "school/biology/cell-membrane-transport.md",
     "school/biology/bio-q-bank.md",
@@ -218,11 +219,6 @@
     "school/biology/organelles/Cell Wall.md",
     "school/biology/organelles/Cell Membrane.md",
     "school/biology/organelles/organelles-master-doc.md",
-    "school/biology/organelles/Golgi Apparatus (Golgi Body).md",
-    "school/biology/organelles/Mitochondria.md",
-    "school/biology/organelles/Ribosomes.md",
-    "school/biology/organelles/Lysosomes.md",
-    "school/biology/organelles/Vesicles.md",
     "school/biology/organelles",
     "personal/reads",
     "saved",
