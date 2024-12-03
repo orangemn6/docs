@@ -6,7 +6,7 @@ tags:
 
 >[!quote] *Getting organized is a sign of self respect*
 
-This is where I will be storing all of my notes for the upcoming school year and beyond. Read about what I'm doing [[personal/now |now]] or jump into onw of the entry points below.
+This is where I will be storing all of my notes for the upcoming school year and beyond. Read about what I'm doing [[personal/now |now]] or jump into one of the entry points below.
 
 [[school/index.md |School Home]]
 
