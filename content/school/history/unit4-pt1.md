@@ -5,7 +5,8 @@ tags:
   - school
 ---
 >[!info] Part 2: [[unit4-pt2]]
->
+>Part 3: [[unit4-pt3]]
+
 # Revolutionary War 
 
 ## British Strategy and Challenges

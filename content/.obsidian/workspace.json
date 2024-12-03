@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/history/unit5-pt1.md",
+                "file": "school/history/unit4-pt1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit5-pt1"
+              "title": "unit4-pt1"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/todo.md"
+                "file": "school/history/unit4-pt1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of todo"
+              "title": "Outline of unit4-pt1"
             }
           },
           {
@@ -196,9 +196,12 @@
   },
   "active": "3cee7dd7fbc495d1",
   "lastOpenFiles": [
+    "school/history/unit4-pt2.md",
+    "school/history/unit4-pt3.md",
+    "school/history/unit4-pt1.md",
+    "school/history/unit4-fullnotes.md",
     "personal/index.md",
     "personal/todo.md",
-    "school/history/unit5-pt1.md",
     "school/compsci/csp-sg.md",
     "school/compsci/journals/unit4.md",
     "school/compsci/journals/unit3.md",
@@ -210,9 +213,6 @@
     "school/biology/cell-energetics.md",
     "school/biology/organelles-info-chart.md",
     "school/index.md",
-    "school/history/unit4-pt2.md",
-    "school/history/unit4-pt1.md",
-    "school/history/unit4-fullnotes.md",
     "school/history/unit3.md",
     "personal/reading-list.md",
     "personal/reads/sapiens.md",

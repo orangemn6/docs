@@ -8,6 +8,7 @@ This is a comprehensive study guide with all of the notes in raw form. View the 
 
 [[unit4-pt1]]
 [[unit4-pt2]] 
+[[unit4-pt3]]
 
 
 Battles: (Attacking force) v. (Defending force); (Victor)

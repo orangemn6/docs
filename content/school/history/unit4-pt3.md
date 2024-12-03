@@ -8,7 +8,7 @@ tags:
 
 - First constitution of the united states. Constitution sets up structure, processes, and rules of govt.
 
-- **In summary, stated that the states have to work together under a weak federal government**
+**In summary, stated that the states have to work together under a weak federal government**
 
 ### Powers of Congress vs States
 
@@ -26,5 +26,15 @@ tags:
 | Direct operations of army and navy    |                                              |
 | Coin money                            |                                              |
 
+### Weaknesses of Articles of Confederation
 
+- **National government cannot impose or collect taxes**
+- National currency is worthless
+	- Each state can create their own coin
+- No central court system
+- No power to regulate trade **among the states**
+- One vote per state
+	- Regardless of population
+- **9/13** states required to pass law
+- Unanimous consent to amend AoC
 
