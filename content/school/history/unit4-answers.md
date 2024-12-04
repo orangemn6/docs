@@ -5,11 +5,19 @@ tags:
   - school
 date: [[2024-12-04]]
 ---
+
 ## FRQ
 
 **How does the Articles of Confederation provide the answer to what the Declaration of Independence argues is the American idea of a good government? Tell what the concept of a good government is and how the articles carves it out.**
 
+The Declaration of Independence defines a "good government" as one deriving its just powers from the consent of the governed and securing the unalienable rights of life, liberty, and the pursuit of happiness. The Articles of Confederation, adopted during the Revolution, reflect this philosophy by emphasizing limited centralized authority and safeguarding the autonomy of the individual states. Rooted in a deep distrust of tyranny, the Articles granted Congress authority over collective matters like war, diplomacy, and trade but left most powers to state governments, ensuring they retained sovereignty. This decentralized system embodied the ideal of a government close to the people and responsive to their needs. However, the Articles also revealed the challenges of this framework, such as the lack of enforcement power for federal laws or taxation, showing that while the concept prioritized liberty and self-governance, its execution proved insufficient for maintaining national unity.
+
+
 **Describe in detail the extent to which the institution of slavery played a role in the American Revolution**
+
+Slavery played a complex and significant role in the American Revolution, shaping political, social, and economic dynamics. Many enslaved individuals sought freedom by taking advantage of the conflict, with thousands escaping bondage or joining British forces after the Crown promised emancipation to those who fought for them. This intensified debates over liberty and equality, exposing contradictions in the rhetoric of freedom used by white revolutionaries who often defended slavery as an economic necessity. Southern colonies, in particular, were deeply invested in slavery and feared that British policies, such as Lord Dunmore’s Proclamation, might undermine the institution. Conversely, the Revolution spurred some Northern states to reevaluate slavery, leading to gradual emancipation laws. While the ideals of the Revolution highlighted the tension between liberty and slavery, the institution persisted, embedded in the new nation’s foundations and exacerbating sectional divisions that would eventually lead to future conflicts.
+
+
 
 ## MCQ
 
@@ -17,7 +25,7 @@ date: [[2024-12-04]]
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Burgoyne_1777.jpg/205px-Burgoyne_1777.jpg) 
 
-- Burgoyne’s 3 pronged attack
+- ==Burgoyne’s 3 pronged attack==
 - The military success of Benedict Arnold while fighting for the United States
 - The effects of the French alliance on the American Revolution
 
@@ -26,7 +34,7 @@ date: [[2024-12-04]]
 - Battle of Lexington
 - Battle of Concord
 - Battle of Quebec
-- Battle of Bunker Hill
+- ==Battle of Bunker Hill==
 - All of the above
 
 **Which of the following is in the correct chronological order?**
@@ -35,7 +43,7 @@ date: [[2024-12-04]]
 - Declaration of Independence, Common Sense, Valley Forge, Treaty of Paris 1783
 - Battle of Saratoga, Valley Forge, Battle of Monmouth, Second Battle of Trenton
 - British conquest of Charleston, Battle of Guilford Courthouse, Battle of King’s Mountain, Seige at Yorktown
-- None of the above
+- ==None of the above==
 
 **Use the following quote to answer the next question**
 
@@ -47,21 +55,21 @@ date: [[2024-12-04]]
 - Thomas Jefferson
 - King George III of Great Britain
 - King Louis XVI of France
-- None of the above
+- ==None of the above==
 
 **The following map can best be used as evidence of:**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/US_Army_52417_Washington%27s_March-1781.gif/220px-US_Army_52417_Washington%27s_March-1781.gif)
 
 - The Continental Army’s use of guerrilla tactics to achieve success
-- How the French alliance contributed to the surrender of Cornwallis
+- ==How the French alliance contributed to the surrender of Cornwallis==
 - How the French successfully threatened the British in New York City
 - The speed at which the Continental army could march
 
 **Britain’s southern strategy relied on support from a key demographic in those colonies. Which of the following effectively neutralized their effect?**
 
 - Battle of Yorktown
-- Battle of King’s Mountain
+- ==Battle of King’s Mountain==
 - Battle of Cowpens
 - Battle of Guilford Courthouse
 - Battle of the Chesapeake
@@ -77,7 +85,7 @@ date: [[2024-12-04]]
 - Thomas Paine
 - Thomas Jefferson
 - Benedict Arnold
-- George Washington
+- ==George Washington==
 - All of the above
 
 **Use the following source to answer the next question:**
@@ -90,7 +98,7 @@ date: [[2024-12-04]]
 - The articles of confederation
 - The Treaty of Paris 1783
 - The British evacuation of New York in 1783
-- None of the above
+- ==None of the above==
 
 **Under the Articles of Confederation, Congress:**
 
@@ -98,7 +106,7 @@ date: [[2024-12-04]]
 - Could regulate intrastate trade
 - Solely had the responsibility to execute its laws
 - Gave greater representation to more populous states
-- None of the above
+- ==None of the above==
 
 **Use the following source to answer the next question:**
 
@@ -122,7 +130,7 @@ And slack their muskets on the field”
 - British march to Concord
 - Burgoyne’s surrender at Saratoga
 - Washington Crossing the Delaware
-- None of the above
+- ==None of the above==
 
 **Use the following source to answer the next question:**
 
@@ -134,7 +142,7 @@ Source: George Washington, May 30, 1779
 
 - Henry Knox
 - Horatio Gates
-- John Sullivan
+- ==John Sullivan==
 - Nathanael Greene
 - None of the Above
 
@@ -144,7 +152,7 @@ Source: George Washington, May 30, 1779
 
 **Which of the following would the source’s author support?**
 
-- Olive Branch Petition
+- ==Olive Branch Petition==
 - Common Sense
 - The Crisis
 - Treaty of Paris 1783
@@ -158,10 +166,10 @@ Source: George Washington, May 30, 1779
 
 - The lasting legacy of the declaration of independence
 - The importance of the Second Continental Congress
-- The Ten Crucial Days
+- ==The Ten Crucial Days==
 - Valley Forge
 
 **Who won the American Revolution?**
 
-- The United States
+- ==The United States==
 - Britain
