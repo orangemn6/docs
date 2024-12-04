@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/history/unit4-pt3.md",
+                "file": "personal/daily/2024-12-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit4-pt3"
+              "title": "2024-12-03"
             }
           }
         ]
@@ -196,10 +196,13 @@
   },
   "active": "a8b4645628474506",
   "lastOpenFiles": [
+    "school/history/unit4-fullnotes.md",
+    "personal/daily/2024-12-03.md",
+    "personal/daily/template.md",
+    "personal/daily",
+    "school/history/unit4-pt1.md",
     "school/history/unit4-pt2.md",
     "school/history/unit4-pt3.md",
-    "school/history/unit4-pt1.md",
-    "school/history/unit4-fullnotes.md",
     "personal/index.md",
     "personal/todo.md",
     "school/compsci/csp-sg.md",
@@ -221,8 +224,6 @@
     "school/biology/organelles/Cytoplasm.md",
     "school/biology/organelles/Chloroplasts.md",
     "school/biology/organelles/Centrioles.md",
-    "school/biology/organelles/Cell Wall.md",
-    "school/biology/organelles/Cell Membrane.md",
     "school/biology/organelles",
     "personal/reads",
     "saved",
