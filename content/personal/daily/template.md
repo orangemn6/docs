@@ -33,6 +33,7 @@ tags:
 - 
 ---
 ### 📈 Statistics
+
 - Happyness:: 
 - Stress::
 - Hours Worked:: 
@@ -40,10 +41,11 @@ tags:
 - Productivity:: 
 ---
 ### Meals
-- 
+
+- *Breakfast:*
+- *Lunch:*
+- *Dinner:*
 ### Memos/Misc
 
 
-
-{{date-1d:YYYY-MM-DD}} | {{date+1d:YYYY-MM-DD}}
 
