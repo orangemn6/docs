@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/index.md",
+                "file": "personal/daily/2024-12-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2024-12-04"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "7a443397353ccadd",
   "lastOpenFiles": [
+    "personal/index.md",
     "personal/daily/2024-12-04.md",
     "personal/kendrick-deluxe-evidence.md",
     "personal/daily/2024-12-03.md",
@@ -220,7 +221,6 @@
     "school/history/unit4-pt1.md",
     "school/history/unit4-pt2.md",
     "school/history/unit4-pt3.md",
-    "personal/index.md",
     "personal/todo.md",
     "school/compsci/csp-sg.md",
     "school/compsci/journals/unit4.md",
