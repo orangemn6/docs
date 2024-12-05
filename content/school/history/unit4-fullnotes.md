@@ -3,6 +3,7 @@ title: Full Unit 4 Study Guide
 tags:
   - us-history
   - school
+date: 2024-11-28T23:37:42-05:00
 ---
 This is a comprehensive study guide with all of the notes in raw form. View the broken up, more readable notes here:
 

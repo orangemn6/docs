@@ -3,8 +3,8 @@ title: Unit 4 Test
 tags:
   - us-history
   - school
+date:
 ---
-date: [[2024-12-04]]
 
 ## FRQ
 

@@ -3,7 +3,7 @@ title: Unit 4 - Revolutionary War Part 3
 tags:
   - school
   - us-history
-date: "[[2024-12-03]]"
+date: 2024-11-28T23:37:42-05:00
 ---
 > [!info] [[unit4-pt2]], [[unit4-pt1]]
 ## Articles of Confederation
