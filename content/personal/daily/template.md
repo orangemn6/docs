@@ -34,7 +34,7 @@ tags:
 ---
 ### 📈 Statistics
 
-- Happyness:: 
+- Happiness:: 
 - Stress::
 - Hours Worked:: 
 - Hours Slept:: 
