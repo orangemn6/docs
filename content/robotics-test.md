@@ -251,3 +251,5 @@ a. Using the strongest materials to build the robot
 b. Prioritizing tasks to maximize points within the match timeframe  
 c. Coding an autonomous program in Java  
 d. Applying for the Control Award during judging
+
+**Extra Credit:** Choose 2 things that you learned that you want to be brought up at our next meeting.

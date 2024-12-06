@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/listens/To Pimp A Butterfly.md",
+                "file": "school/history/unit4-fullnotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Pimp A Butterfly"
+              "title": "unit4-fullnotes"
             }
           }
         ]
@@ -196,15 +196,16 @@
   },
   "active": "6ac2c6f8d9c42006",
   "lastOpenFiles": [
+    "personal/listens/kendrick.md",
+    "personal/daily/2024-12-06.md",
+    "personal/listens/To Pimp A Butterfly.md",
     "personal/listens/Section.80.md",
     "personal/listens/Mr. Morale and the Big Steppers.md",
-    "personal/listens/kendrick.md",
     "personal/listens/index.md",
     "personal/listens/good kid, m.A.A.d city.md",
     "personal/listens/GNX..md",
     "personal/listens/Drake Beef.md",
     "personal/listens/DAMN..md",
-    "personal/listens/To Pimp A Butterfly.md",
     "index.md",
     "robotics-test.md",
     "personal/kendrick-deluxe-evidence.md",
@@ -223,7 +224,6 @@
     "personal/daily",
     "school/history/unit4-pt1.md",
     "school/history/unit4-pt2.md",
-    "personal/todo.md",
     "school/biology/biotestbank.pdf",
     "school/biology/organelles",
     "personal/reads",
