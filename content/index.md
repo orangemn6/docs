@@ -16,4 +16,4 @@ Each note is deliberately placed in this [[personal/digital-gardening |digital g
 
 You can read about how I take notes [[personal/notetaking.md |here]]. Things I want to save to read later are [[personal/saved/index.md|here]].  
 
-Do what you will with these writings, they are mostly for my own usage. 
+Do what you will with these writings, they are mostly for my own usage. I keep my personal daily notes under the tag #daily 

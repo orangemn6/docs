@@ -3,7 +3,6 @@ title: Running List of Evidence for K-Drop
 tags:
   - personal
 ---
-date: [[2024-12-03]]
 
 Tweet referencing 12th and 23rd
 
