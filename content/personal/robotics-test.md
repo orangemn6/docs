@@ -1,4 +1,4 @@
-
+[[personal/index|personal]]
 ## **FTC Robotics Knowledge Test**
 
 ### **Section 1: Mechanisms (20 Points)**

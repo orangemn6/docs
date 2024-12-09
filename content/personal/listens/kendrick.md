@@ -24,3 +24,6 @@ Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter,
 #### [[GNX.]]
 
 #### [[Drake Beef]]
+
+
+# Overall Score: ⭐️⭐️⭐️⭐️⭐️

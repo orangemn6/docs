@@ -1,8 +1,9 @@
 ---
 title: Running List of Evidence for K-Drop
 tags:
-  - personal
+  - listens
 ---
+Evidence for [[kendrick]] drop
 
 Tweet referencing 12th and 23rd
 
