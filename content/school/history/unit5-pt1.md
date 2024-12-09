@@ -4,7 +4,7 @@ tags:
   - school
   - us-history
 ---
->[!info]
+>[!info] [[unit5-pt2|Part 2]]
 ## Problems under the Articles
 
 #### Domestic:
