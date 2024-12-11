@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "47351516cfa257ca",
@@ -196,9 +197,9 @@
   },
   "active": "1e819804f4e94e35",
   "lastOpenFiles": [
+    "school/history/unit5-pt3.md",
     "school/history/unit5-pt2.md",
     "school/history/unit5-pt1.md",
-    "school/history/unit5-pt3.md",
     "school/history/unit4-pt3.md",
     "personal/daily/2024-12-11.md",
     "personal/daily/2024-12-10.md",
