@@ -4,7 +4,7 @@ tags:
   - us-history
   - school
 ---
->[!info] [[unit5-pt1|Part 1]]
+>[!info] [[unit5-pt1|Part 1]] [[unit5-pt3|Part 3]]
 ## Successes under the Articles
 
 Ratifying the **Treaty of Paris**, only after states gave up claims to western lands
