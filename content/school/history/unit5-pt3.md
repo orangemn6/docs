@@ -16,7 +16,7 @@ tags:
 
 ## Article 1
 
-#### S1: **The Legislative Branch** Overview
+#### S1: **The Legislative Branch** 
 
 - Congress is a *bicameral legislature*
 - made up of House of Representatives and Senate
@@ -77,13 +77,20 @@ tags:
 - Leadership makes *$20,000* more
 - You can only hold **one federal position** at a time
 
-#### S7: Power of the Purse
+#### S7: Checks and Balances
 
 - *All bills for raising revenue must originate in the House of Representatives*
 - Senate may **propose amendments** to revenue bills
 - All bills must be *approved by both houses*, and then sent to the President for approval
 - If President vetoes a bill, it is **returned to the house it originated in**
 	- A veto can be overridden by a *2/3 vote*
-#### S8
+- President has 10 days to decide to veto a bill, or else it *automatically becomes law*
+	- If there are less than 10 days left in session, the president can *pocket veto* or veto without action
+
+#### S8: Powers Given to Congress
+
+- There are many listed powers in this section known as *enumerated powers*, as they are explicitly given to Congress
+- **The Elastic Clause**
+	- Allows Congress to stretch its powers when it is deemed "*Necessary and proper*"
 
 #### S9
