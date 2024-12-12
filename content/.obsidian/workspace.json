@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/biology/Chemiosmosis.md",
+                "file": "school/biology/cell-energetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemiosmosis"
+              "title": "cell-energetics"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/biology/Chemiosmosis.md",
+                "file": "school/biology/cell-energetics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chemiosmosis"
+              "title": "Backlinks for cell-energetics"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/biology/Chemiosmosis.md"
+                "file": "school/biology/cell-energetics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chemiosmosis"
+              "title": "Outline of cell-energetics"
             }
           },
           {
@@ -195,14 +195,14 @@
   },
   "active": "25a7892bae54b8cd",
   "lastOpenFiles": [
-    "school/biology/cell-membrane-transport.md",
-    "school/biology/Chemiosmosis.md",
-    "school/biology/cell-energetics.md",
-    "school/biology/Electron Transport Chain.md",
     "school/biology/Anaerobes.md",
-    "school/biology/Formation of Acetyl-CoA.md",
-    "school/biology/Introduction to Aerobic Respiration.md",
     "school/biology/Glycolysis.md",
+    "school/biology/Formation of Acetyl-CoA.md",
+    "school/biology/Electron Transport Chain.md",
+    "school/biology/Chemiosmosis.md",
+    "school/biology/cell-membrane-transport.md",
+    "school/biology/cell-energetics.md",
+    "school/biology/Introduction to Aerobic Respiration.md",
     "school/biology/Cellular Respiration.md",
     "school/biology/Anaerobic Respiration.md",
     "school/biology/Your Muscle Cells Can Ferment.md",
