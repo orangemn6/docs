@@ -9,9 +9,3 @@
 *   This pumping of ions and diffusion of ions to create ATP is chemiosmosis
     
 *   Overall, this process is called oxidative phosphorylation because when electrons are given up it is called “oxidation” and then ADP is “phosphorylated” to make ATP.
-    
-*   You’re also expected to know the following two things for the AP Biology Exam:
-    
-*   Every NADH from [[Glycolysis]] yields 1.5 ATP and all other NADH molecules yield 2.5 ATP.
-    
-*   Every FADH2 yields 1.5 ATP.

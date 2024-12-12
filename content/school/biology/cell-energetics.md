@@ -28,19 +28,12 @@ graph TD
   H --> M[Energy Output]
 ```
 [[Cellular Respiration]]
-    
 
 [[Introduction to Aerobic Respiration]]
-    
-
 [[Glycolysis]]
-
 [[Formation of Acetyl-CoA]]
-
 [[The Krebs Cycle]]
-
 [[Electron Transport Chain]]
-
 [[Chemiosmosis]]
 [[Anaerobic Respiration]]
 [[Your Muscle Cells Can Ferment]]
