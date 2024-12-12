@@ -154,7 +154,7 @@ On the cell membrane there can be proteins. Integral proteins are proteins perma
 
 Understanding the basics of transport is important in AP Biology. On the AP test, they often ask questions about pathways you don’t know, and aren’t expected to know. You will need to be able to apply your understand of transport to understand how this pathway generally works. The Sodium-Potassium pump is shown on the AP exam, so it’s helpful to learn how it works. [Here](https://www.youtube.com/watch?v=7NY6XdPBhxo) is a video for that. I will be uploading a note with an overview of the AP exam and include several other common examples for the AP exam, so you don’t just have to rely on application for some questions.
 
-Diffusion is the random, passive (not energy requiring) movement of molecules across a membrane. They will flow from high to low concentration. Other factors such as higher temperatures or a higher difference in concentrations increase the rate of diffusion.
+Diffusion is the random, passive (not [[energy]] requiring) movement of molecules across a membrane. They will flow from high to low concentration. Other factors such as higher temperatures or a higher difference in concentrations increase the rate of diffusion.
 
 ![](https://knowt-user-attachments.s3.amazonaws.com/f78a5bc2-578d-416e-8086-8b224b2cc667.jpg)
 

@@ -2,7 +2,7 @@
 
 *   Also known as the **citric acid cycle.**
     
-    *   The Krebs cycle begins with each molecule of acetyl-CoA produced from the second stage of aerobic respiration combining with oxaloacetate, a four-carbon molecule, to form a six-carbon molecule, citric acid or citrate.
+    *   The Krebs cycle begins with each molecule of acetyl-CoA produced from the second stage of [[Aerobic Respiration]] combining with oxaloacetate, a four-carbon molecule, to form a six-carbon molecule, citric acid or citrate.
         
     *   In the mitochondria, pyruvate is turned into acetyl- CoA and 1 NADH is made; double this if you are counting per glucose.
         

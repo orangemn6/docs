@@ -1,4 +1,4 @@
-[[personal/index|personal]]---
+[[personal/index|personal]][[personal/index|personal]]---
 title: AP CSP Study Guide
 tags: 
   - school

@@ -14,7 +14,7 @@
 	    
 		- There is a byproduct of co2, which needs to be exhaled (ex. bubbles in beer)
         
-    *   Since these two things are toxic at high concentrations, this process, called fermentation, is done only in emergencies. Aerobic respiration is a better option
+    *   Since these two things are toxic at high concentrations, this process, called fermentation, is done only in emergencies. [[Aerobic Respiration]] is a better option
         
 *   What types of organisms undergo fermentation?
     
