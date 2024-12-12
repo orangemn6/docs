@@ -5,10 +5,8 @@ Cellular Respiration
     
 *   You can break cellular respiration down into two different approaches:
     
-*   aerobic respiration and [[Anaerobic Respiration]].
+*   [[aerobic respiration]] and [[Anaerobic Respiration]].
     
-*   If ATP is made in the presence of oxygen, we call it aerobic respiration. If oxygen
-    
-*   If it isn’t present, we call it [[Anaerobic Respiration]].
+*   If ATP is made in the presence of oxygen, we call it [[aerobic respiration]]. If oxygenit isn’t present, we call it [[Anaerobic Respiration]].
 
 Overarching term that includes [[Glycolysis]],  [[The Krebs Cycle]], and [[Electron Transport Chain]]

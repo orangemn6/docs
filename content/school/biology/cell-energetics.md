@@ -28,8 +28,7 @@ graph TD
   H --> M[Energy Output]
 ```
 [[Cellular Respiration]]
-
-[[Introduction to Aerobic Respiration]]
+[[Aerobic Respiration]]
 [[Glycolysis]]
 [[Formation of Acetyl-CoA]]
 [[The Krebs Cycle]]

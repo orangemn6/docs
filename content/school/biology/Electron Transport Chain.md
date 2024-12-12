@@ -28,4 +28,4 @@
     
 *   The electrons travel down the electron transport chain until they reach the final electron acceptor, oxygen. Oxygen combines with these electrons (and some hydrogens) to form water.
     
-*   This explains the “aerobic” in aerobic respiration. If oxygen weren’t available to accept the electrons, they wouldn’t move down the chain at all, thereby shutting down the whole process of electron transport.
+*   This explains the “aerobic” in [[aerobic respiration]]. If oxygen weren’t available to accept the electrons, they wouldn’t move down the chain at all, thereby shutting down the whole process of electron transport.
