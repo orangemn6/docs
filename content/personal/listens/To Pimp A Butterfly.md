@@ -44,7 +44,7 @@ tags:
 
 [[Mortal Man]]
 
-**Overview**: A genre-blending masterpiece with jazz, funk, and soul influences, this album reflects on race, fame, and personal responsibility. It’s deeply introspective and politically charged, delving into issues like systemic racism and cultural identity.
+**Overview**: A genre-blending masterpiece with jazz, funk, and soul influences, this album reflects on race, fame, and [[personal/index|personal]] responsibility. It’s deeply introspective and politically charged, delving into issues like systemic racism and cultural identity.
 
 
 

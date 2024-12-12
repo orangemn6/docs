@@ -9,7 +9,7 @@ tags:
 
 *What are you excited to learn about in this class?*
 
-I am excited to learn more about how computers work, and what skills I can apply computer science to outside of school. I am also excited to get better at coding and use those logic skills in math and science classes.
+I am excited to learn more about how computers work, and what skills I can apply computer science to outside of [[school/index|school]]. I am also excited to get better at coding and use those logic skills in math and science classes.
 
 **September 10, 2024**
 

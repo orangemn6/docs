@@ -52,7 +52,7 @@ title: Mr. Morale and the Big Steppers
 [[Mirror]]
 
 
-**Overview**: Kendrick's most personal project yet, this double album tackles topics like generational trauma, therapy, fatherhood, infidelity, and self-reflection. It’s raw and vulnerable, offering insights into his struggles with fame and personal growth.
+**Overview**: Kendrick's most [[personal/index|personal]] project yet, this double album tackles topics like generational trauma, therapy, fatherhood, infidelity, and self-reflection. It’s raw and vulnerable, offering insights into his struggles with fame and [[personal/index|personal]] growth.
 
 
-**Themes**: Mental health, personal healing, societal critique, self-improvement.
+**Themes**: Mental health, [[personal/index|personal]] healing, societal critique, self-improvement.

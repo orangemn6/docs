@@ -14,5 +14,5 @@ ChatGPT is a very useful tool leveraging LLMs to intake data and give you result
   
 My main workflow when using chatgpt for notes is turning my handwritten notes into markdown. During class, I write down main details in my notebook to minimize distractions. 
 
-After school, I upload scans of all of my notes into ChatGPT and ask for formatted markdown **without changing the content**. ChatGPT tends to shrink the content in order to save tokens, which isn’t an issue if you use multiple chats. 
+After [[school/index|school]], I upload scans of all of my notes into ChatGPT and ask for formatted markdown **without changing the content**. ChatGPT tends to shrink the content in order to save tokens, which isn’t an issue if you use multiple chats. 
 

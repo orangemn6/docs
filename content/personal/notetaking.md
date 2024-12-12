@@ -8,7 +8,7 @@ tags:
 
 ## Overview
 
-Taking notes is a large part of being a student. An essential part of academics is being able to remember and retain information. This outlines my general methodology for taking notes inside and outside of school. All of my notes are taken with the intent to add them to this [[digital-gardening.md |digital garden]]
+Taking notes is a large part of being a student. An essential part of academics is being able to remember and retain information. This outlines my general methodology for taking notes inside and outside of [[school/index|school]]. All of my notes are taken with the intent to add them to this [[digital-gardening.md |digital garden]]
 
 ## In [[School]]
 
@@ -18,5 +18,5 @@ Many notes that I take are on paper, and are later [[personal/chatgpt.md |post-p
 
 ## For [[Personal]]
 
-My personal notes are mostly writings about my productivity or collections of things I find on the internet. I aim to keep an obsidian-compliant notebook with linked [[A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum|notes and tags]]. The [[personal/resources.md |resources]] page is where I dump links I need to look at later. If I am reading an article and something stands out to me, I may make a new note with my thoughts, while also saving the article to [[personal/saved/index|saved]].
+My [[personal/index|personal]] notes are mostly writings about my productivity or collections of things I find on the internet. I aim to keep an obsidian-compliant notebook with linked [[A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum|notes and tags]]. The [[personal/resources.md |resources]] page is where I dump links I need to look at later. If I am reading an article and something stands out to me, I may make a new note with my thoughts, while also saving the article to [[personal/saved/index|saved]].
 

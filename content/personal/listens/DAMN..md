@@ -38,7 +38,7 @@ tags:
 
 [[DUCKWORTH]]
 
-**Overview**: A more direct and concise album, _DAMN._ examines dualities such as love vs. lust, pride vs. humility, and fear vs. faith. It has a personal and spiritual undertone, questioning destiny, karma, and morality.
+**Overview**: A more direct and concise album, _DAMN._ examines dualities such as love vs. lust, pride vs. humility, and fear vs. faith. It has a [[personal/index|personal]] and spiritual undertone, questioning destiny, karma, and morality.
 
 **Notable Tracks**: _“HUMBLE.,” “DNA.,” “LOVE.”_
 

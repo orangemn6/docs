@@ -1,4 +1,4 @@
----
+[[personal/index|personal]]---
 title: AP CSP Study Guide
 tags: 
   - school
@@ -316,7 +316,7 @@ Chapter 3: Algorithms and Programming
         
     *   Run the air conditioner when the room temperature reaches 78°F
         
-    *   Calculate the shortest route from home to school on your GPS
+    *   Calculate the shortest route from home to [[school/index|school]] on your GPS
         
 *   Algorithms have the potential to solve many problems once the programs are written for them to run.
     

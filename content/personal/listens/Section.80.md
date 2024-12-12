@@ -45,4 +45,4 @@ tags:
 
 **Overview**: Kendrick’s official debut album captures the struggles and experiences of his generation (often referred to as "80s babies") and addresses issues like systemic oppression, drug addiction, and identity. Tracks like _“HiiiPoWeR”_ emphasize empowerment and self-awareness.
 
-**Themes**: Social consciousness, systemic injustice, personal growth.
+**Themes**: Social consciousness, systemic injustice, [[personal/index|personal]] growth.

@@ -10,7 +10,7 @@ tags:
 # 🧬 Biology Unit 2 Notes
 -----------------------------------
 
-[Click Here](https://www.youtube.com/watch?v=8IlzKri08kk) for a video on cell organelles and general structure.
+[Click Here](https://www.youtube.com/watch?v=8IlzKri08kk) for a video on cell [[organelles-info-chart|organelles]] and general structure.
 
 [Click Here](https://www.khanacademy.org/test-prep/mcat/cells/cell-cell-interactions/v/cell-junctions) for a video on intercellular junctions.
 
@@ -34,7 +34,7 @@ Cells need a high surface area to volume ratio for diffusion. Bigger cells has a
         
 *   **Vesicles**
     
-    *   Vesicles are transport organelles, like bags.
+    *   Vesicles are transport [[organelles-info-chart|organelles]], like bags.
         
 *   **Endoplasmic Reticulum**
     
@@ -73,7 +73,7 @@ _Both mitochondria and chloroplasts have DNA and replicate themselves. They also
 
 #### Endomembrane System
 
-The endomembrane system is a system of many organelles which are connected by vesicles.
+The endomembrane system is a system of many [[organelles-info-chart|organelles]] which are connected by vesicles.
 
 *   Nuclear envelope
     
@@ -214,7 +214,7 @@ Plants transport sugar, water, and nutrients through their xylem and phloem. Xyl
 
 Xylem is made of dead cells stacked on top of each other, called sclerenchyma. Xylem flows from roots to shoots.
 
-Phloem is made of (living) parenchyma. The cells need to be living because translocation requires pumping. The parenchyma cells in phloem are called sieve tubes and have no organelles. They all have a companion cell which they share the organelles with. Sieve tubes are stacked on top of each other and have porous sieve plates on each end where they connect to the next tube. This allows nutrients to slow through them. Phloem flows from source to sink. Tubers are used as a source when necessary. 
+Phloem is made of (living) parenchyma. The cells need to be living because translocation requires pumping. The parenchyma cells in phloem are called sieve tubes and have no [[organelles-info-chart|organelles]]. They all have a companion cell which they share the [[organelles-info-chart|organelles]] with. Sieve tubes are stacked on top of each other and have porous sieve plates on each end where they connect to the next tube. This allows nutrients to slow through them. Phloem flows from source to sink. Tubers are used as a source when necessary. 
 
 In symplast transport, things move through the plasmodesmata. It is the simplest way. (Symplast way) The Apoplast method is going through cell walls and cell membranes and can only be done by certain molecules. (O2, CO2, H2O) 
 

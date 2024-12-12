@@ -4,7 +4,7 @@ Brainstorm Activity Part I ( Fill Out)
 
 **What are your potential big ideas?**
 
-1. E-book for high school and college makers spaces
+1. E-book for high [[school/index|school]] and college makers spaces
 2. Designs of things for good (whistle idea) - scoreboard/levels and places to donate
 3. A contest with e-Book to source goods for social impact
 
@@ -26,7 +26,7 @@ Think about your choices and decide which idea you want to pursue/research on wh
 
 3. Who is the target population being served?
 
-4. Why have you chosen to serve them? (Personal connections or statistics?)
+4. Why have you chosen to serve them? ([[personal/index|personal]] connections or statistics?)
 
 5. What other organizations/groups provide this service/need locally? Nationally? (List and include location)
 
