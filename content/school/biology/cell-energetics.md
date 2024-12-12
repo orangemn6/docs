@@ -9,217 +9,53 @@ tags:
 Bioenergetics
 -------------
 
-The study of how cells accomplish this is called **bioenergetics**.
 
-### Thermodynamics
+```mermaid
 
-[[energy]] cannot be created or destroyed, it can be only be transferred.
-
-*   **First Law of Thermodynamics**: Cells cannot take [[energy]] out of thin air. It must harvest it from somewhere.
-    
-*   **Second Law** **of Thermodynamics: It states that [[energy]] transfer leads to less organization. That means the universe tends toward disorder (entropy). In order to power cellular processes, [[energy]] input must exceed [[energy]] loss to maintain order. Cellular processes that release [[energy]] can be coupled with cellular processes that require an input of [[energy]].**
-    
-
-### Types of Reactions
-
-*   **Exergonic** reactions are those in which the products have less [[energy]] than the reactants.
-    
-*   The course of a reaction can be represented by an [[energy]] diagram. You’ll notice that **[[energy]] is represented along the y-axis.**
-    
-*   Reactions that require an input of [[energy]] are called endergonic reactions. You’ll notice that the products have more [[energy]] than the reactants.
-    
-
-Enzymes
--------
-
-*   A **catalyst** is something that speeds something up.
-    
-*   Enzymes are **biological catalysts** that speed up reactions which is by lowering the activation [[energy]] and helping the transition state to form.
-    
-*   Enzymes do NOT change the [[energy]] of the starting point or the ending point of the reaction. They only lower the activation [[energy]].
-    
-
-### Enzyme Specificity
-
-*   Each enzyme catalyzes only one kind of reaction. This is known as **enzyme specificity**.
-    
-*   Enzymes are usually named after the molecules they target. In enzymatic reactions, the targeted molecules are known as **substrates**.
-    
-
-### Enzyme-Substrate Complex
-
-*   During a reaction, the enzyme’s job is to bring the transition state about by helping the substrate(s) get into position. It accomplishes this through a special region on the enzyme known as an **active site.**
-    
-*   The enzyme temporarily binds one or more of the substrates to its active site and forms an **enzyme-substrate complex.**
-    
-*   Enzymes **Do**: increase the rate of a reaction by lowering the reaction’s activation [[energy]] form temporary enzyme-substrate complexes remain unaffected by the reaction
-    
-*   Enzymes **Don’t**: change the reaction make reactions occur that would otherwise not occur at all
-    
-
-### Induced-fit
-
-*   Enzymes and substrates don’t fit together quite so seamlessly. Enzymes have to change its shape slightly to accommodate the shape of the substrates. This is called **induced-fit.**
-    
-*   Because the fit between the enzyme and the substrate must be perfect, enzymes operate only under a strict set of biological conditions.
-    
-
-### Enzymes Don’t Always Work Alone
-
-*   Enzymes sometimes need a little help in catalysing a reaction. Those factors are known as **cofactors**. Cofactors can be either organic molecules called coenzymes or inorganic molecules or ions.
-    
-*   Inorganic cofactors are usually metal ions (Fe2+, Mg2+).
-    
-*   Vitamins are examples of organic coenzymes
-    
-
-### Factors Affecting Reaction Rates
-
-*   Enzymatic reactions can be influenced by a number of factors, such as temperature and pH. The concentrations of enzyme and substrate will also determine the speed of the reaction.
-    
-
-### Temperature
-
-*   The rate of a reaction increases with increasing temperature.
-    
-*   An increase in the temperature of a reaction increases the frequency of collisions among the molecules. But too much heat can damage an enzyme and becomes **denatured**.
-    
-*   Enzyme denaturation is reversible if the original optimal environmental conditions of the enzyme are restored.
-    
-
-### pH
-
-*   Enzymes also function best at a particular pH.
-    
-*   At an incorrect pH, the hydrogen bonds can be **disrupted** and the structure of the enzyme can be altered
-    
-
-### Relative Concentration of Substrates and Products
-
-*   The relative concentration of substrates and products can also affect the **rate** of an enzyme-catalysed reaction.
-    
-*   An increase in substrate concentration will initially speed up the reaction. However, once all of the enzyme in solution is bound by substrate, the reaction can no longer speed up.
-    
-*   This concentration of substrate where all of the enzyme in a reaction is bound by substrate is called the **saturation point.** Additional substrate past this point will no longer increase the speed of the reaction.
-    
-
-### Enzyme Regulation
-
-*   A cell can control enzymatic activity by regulating the conditions that influence the shape of the enzyme.
-    
-*   Enzymes can be turned on or off by things that bind to them. Sometimes these things can bind at the active site, and sometimes they bind at other sites, called **allosteric sites.**
-    
-*   If the substance has a shape that fits the active site of an enzyme it can compete with the substrate and block the substrate from getting into the active site. This is called competitive inhibition. You can always identify a competitive inhibitor based on what happens when you flood the system with lots of substrate.
-    
-*   If the inhibitor binds to an allosteric site, it is an allosteric inhibitor and it is noncompetitive inhibition. A noncompetitive inhibitor generally distorts the enzyme shape so that it cannot function. The substrate can still bind at the active site, but the enzyme will not be able to catalyze the reaction.
-    
-
-Reaction Coupling and ATP
--------------------------
-
-*   The cell gets its [[energy]] through adenosine triphosphate (**ATP**).
-    
-*   ATP consists of a molecule of adenosine bonded to three phosphates. Enormous amount of [[energy]] is packed into those phosphate bonds.
-    
-*   When a cell needs [[energy]], it takes one of these potential-packed molecules of ATP and splits off the third phosphate, forming adenosine diphosphate (ADP) and one loose phosphate (Pi ), while releasing [[energy]] in the process. ATP → ADP + Pi + [[energy]]
-    
-*   Organisms can use exergonic processes that increase [[energy]], like breaking down ATP, to power **endergonic reactions,** like building organic macromolecules.
-    
-
-### Sources of ATP
-
-*   ATP comes from a process called **cellular respiration.**
-    
-*   Cellular respiration is a process of breaking down sugar and making ATP.
-    
-*   In **autotrophs**, the sugar is made during photosynthesis.
-    
-*   In **heterotrophs**, glucose comes from the food we eat.
-    
-
-Photosynthesis
---------------
-
-*   **Photosynthesis** is the process by which light [[energy]] is converted to chemical [[energy]].
-    
-*   6CO2 + 6H2O C6H12O6 + 6O2
-    
-*   You’ll notice from this equation that carbon dioxide and water are the raw materials used to manufacture simple sugars. Oxygen is one of the products of photosynthesis.
-    
-*   There is strong evidence that prokaryotic photosynthesis contributed to the production of oxygen in the atmosphere. Furthermore, prokaryotic photosynthesis pathways laid the evolutionary foundation for eukaryotic photosynthesis to develop.
-    
-*   There are two stages in photosynthesis: the light reactions (also called the light-dependent reactions) and the dark reactions (also called the light- independent reactions).
-    
-    *   The whole process begins when photons ([[energy]] units) of sunlight strike a leaf, activating chlorophyll and exciting electrons.
-        
-    *   The activated chlorophyll molecule then passes these excited electrons down to a series of electron carriers, ultimately producing ATP and NADPH.
-        
-    *   Both of these products, along with carbon dioxide, are then used in the dark reactions (light-independent) to make carbohydrates.
-        
-    *   Along the way, water is also split and oxygen gets released.
-        
-
-### Chloroplast Structure
-
-*   The leaves of plants contain lots of chloroplasts, which are the **primary sites of photosynthesis.**
-    
-*   If you split the membranes of a chloroplast, you’ll find a fluid-filled region called the stroma. Inside the stroma are structures that look like stacks of coins. These structures are the grana.
-    
-*   The many disk-like structures that make up grana are called thylakoids. They contain chlorophyll, a light-absorbing pigment that drives photosynthesis, as well as enzymes involved in the process.
-    
-*   The very inside of a thylakoid is called the thylakoid lumen.
-    
-*   Many light-absorbing pigments participate in photosynthesis. Some of the more important ones are chlorophyll a, chlorophyll b, and carotenoids. These pigments are clustered in the thylakoid membrane into units called antenna complexes.
-    
-*   All of the pigments within a unit are able to “gather” light, but they’re not able to “excite” electrons. The other pigments, called antenna pigments, “gather” light and “bounce” [[energy]] to the reaction center.
-    
-*   There are two types of reaction centers:
-    
-    *   photosystem I (PS I) and photosystem II (PS II). T
-        
-*   The principal difference between the two is that each reaction center has a **specific type of chlorophyll—chlorophyll a—that absorbs a particular wavelength of light.**
-    
-*   Autotrophs are using light and ADP and phosphates (that’s phosphorylation) to produce ATP. An absorption spectrum shows how well a certain pigment absorbs electromagnetic radiation. Light absorbed is plotted as a function of radiation wavelength. This spectrum is the opposite of an emission spectrum, which gives information on which wavelengths are emitted by a pigment.
-    
-*   **Carotenoids** absorb light on the blue-green end of the spectrum, but not on the other end. This is why plants rich in carotenoids are yellow, orange, or red.
-    
-
-The Light Reactions
--------------------
-
-*   When a leaf captures sunlight, the [[energy]] is sent to **P680, the reaction center for photosystem II.**
-    
-*   The activated electrons are trapped by P680 and passed to a molecule called the primary acceptor, and then they are passed down to carriers in the electron transport chain.
-    
-*   To replenish the electrons in the thylakoid, water is split into oxygen, hydrogen ions, and electrons. That process is called photolysis.
-    
-*   The electrons from photolysis replace the missing electrons in photosystem II. As the energized electrons from photosystem II travel down the electron transport chain, they pump hydrogen ions into the thylakoid lumen. A proton gradient is established. As the hydrogen ions move back into the stroma through ATP synthase, ATP is produced.
-    
-*   After the electrons leave photosystem II, they go to photosystem I. The electrons are passed through a second electron transport chain until they reach the final electron acceptor NADP+ to make NADPH. Photosystem I and photosystem II were numbered in order of their discovery, not the order they are used in photosynthesis.
-    
-
-### The Light-Independent Reactions
-
-*   The dark reactions use the products of the light reactions—ATP and NADPH—to **make sugar**.
-    
-*   We now have [[energy]] to make glucose, Their carbon source is CO2. Carbon fixation means is that CO2 from the air is converted into carbohydrates.
-    
-*   This step occurs in the stroma of the leaf. The dark reactions are also called the **Calvin-Benson Cycle**
-    
-
-Plants that live in hot climates have evolved two different ways around this:
-
-*   CAM plants deal with this problem by temporally separating carbon fixation and the Calvin cycle.
-    
-*   They open their stomata at night and incorporate CO2 into organic acids.
-    
-*   During the day, they close their stomata and release CO2 from the organic acids while the light reactions run.
-    
-*   In contrast, C4 plants have slightly different leaf anatomy that allows them to perform CO2 fixation in a different part of the leaf from the rest of the Calvin cycle. This prevents photorespiration.
-    
-*   C4 plants produce a four- carbon molecule as the first product of carbon fixation and perform cyclic electron flow in the light reactions.
-    
-
+graph TD
+  A[Glucose] --> B[Glycolysis]
+  B --> C[Pyruvate]
+  C --> D[Acetyl-CoA]
+  D --> E[Citric Acid Cycle]
+  E --> F[NADH & FADH2]
+  F --> G[Electron Transport Chain]
+  G --> H[ATP]
+  B --> I[NADH] 
+  B --> J[ATP]
+  C --> K[Lactate]
+  I -.-> G
+  F --> L[Water] 
+  H --> M[Energy Output]
+```
+```mermaid
+flowchart TD
+    A[Glucose] --> B[Glycolysis]
+    B --> |2 Pyruvate| C[Pyruvate Oxidation]
+    C --> |2 Acetyl-CoA| D[Citric Acid Cycle]
+    D --> E[Electron Transport Chain & Oxidative Phosphorylation]
+    
+    subgraph Glycolysis
+    B --> |Inputs| B1[1 Glucose\n2 NAD+\n2 ATP]
+    B --> |Outputs| B2[2 Pyruvate\n2 NADH\n4 ATP]
+    end
+    
+    subgraph Pyruvate Oxidation
+    C --> |Inputs| C1[2 Pyruvate\n2 NAD+\n2 CoA]
+    C --> |Outputs| C2[2 Acetyl-CoA\n2 NADH\n2 CO2]
+    end
+    
+    subgraph Citric Acid Cycle
+    D --> |Inputs| D1[2 Acetyl-CoA\n6 NAD+\n2 FAD\n2 ADP]
+    D --> |Outputs| D2[6 NADH\n2 FADH2\n2 ATP\n4 CO2]
+    end
+    
+    subgraph ETC & Oxidative Phosphorylation
+    E --> |Inputs| E1[10 NADH\n2 FADH2\n6 O2]
+    E --> |Outputs| E2[~28 ATP\n6 H2O]
+    end
+    
+    F[Total ATP: ~32 per glucose]
+```
 Cellular Respiration
 --------------------
 
