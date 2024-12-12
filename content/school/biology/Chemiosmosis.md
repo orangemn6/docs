@@ -9,3 +9,5 @@
 *   This pumping of ions and diffusion of ions to create ATP is chemiosmosis
     
 *   Overall, this process is called oxidative phosphorylation because when electrons are given up it is called “oxidation” and then ADP is “phosphorylated” to make ATP.
+
+This is where ATP Synthase takes free electrons and uses them to recharge ADP into ATP through the flow of electrons
