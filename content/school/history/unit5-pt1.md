@@ -4,7 +4,7 @@ tags:
   - school
   - us-history
 ---
->[!info] [[unit5-pt2|Part 2]] [[unit5-pt3|Part 3]]
+>[!info] [[unit5-pt2|Part 2]] [[school/history/unit5-pt3|Part 3]] [[unit5-pt4]]
 ## Problems under the Articles
 
 #### Domestic:

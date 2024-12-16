@@ -4,7 +4,7 @@ tags:
   - us-history
   - school
 ---
->[!info] [[unit5-pt2|Part 2]] [[unit5-pt1|Part 1]] 
+>[!info] [[unit5-pt2|Part 2]] [[unit5-pt1|Part 1]] [[unit5-pt4]]
 
 # The Constitution
 
@@ -94,3 +94,5 @@ tags:
 	- Allows Congress to stretch its powers when it is deemed "*Necessary and proper*"
 
 #### S9
+
+

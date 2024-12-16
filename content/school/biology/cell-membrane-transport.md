@@ -196,7 +196,7 @@ Cells use proteins for moving larger molecules or higher amounts of proteins thr
 
 ![](https://knowt-user-attachments.s3.amazonaws.com/ef53eab2-529f-4574-b89e-5b8bad4882bc.png)
 
-**Cotransport** - A special protein that can transport 2 different types of molecules simultaneously. For example, in the scenario below, the H+ ions ‘want’ to go to the lower concentration within the cell. We take advantage of this and force it to ‘bring along’ a sucrose molecule, which would otherwise require an energy input. Cells do have to use energy to pump out the H+ ions, but it is less than the energy required to pump sucrose.
+**Cotransport** - A special protein that can transport 2 different types of molecules simultaneously. For example, in the scenario below, the H+ ions ‘want’ to go to the lower concentration within the cell. We take advantage of this and force it to ‘bring along’ a sucrose molecule, which would otherwise require an energy input. Cells do have to use energy to pump out the H+ ions, but it is less than the [[energy]] required to pump sucrose.
 
 **Exocytosis + Endocytosis** - the transport of large molecules in/out of a cell with a vesicle
 

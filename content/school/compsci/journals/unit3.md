@@ -44,9 +44,9 @@ The app may be improved by not restarting the test when a question is wrong and 
 
 **User Interface:** Input and Outputs allow a user to interact with a piece of software
 
-**Input:** Data sent to a computer for processing by a program
+**Input:** [[Data]] sent to a computer for processing by a program
 
-**Output:** Any data that is sent from a program to a device.
+**Output:** Any [[Data]] that is sent from a program to a device.
 
 **Most used app: ESPN**
 

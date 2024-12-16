@@ -83,7 +83,7 @@ These impacts are intended because Epic Games purposely released it under a diff
 
 **How do people share data in the real world?**
 
-Upload it to the internet, share it with friends or family or other people on the internet, fans of their content t
+Upload it to [[The Internet]], share it with friends or family or other people on the internet, fans of their content t
 
 **What are the issues with this internet setup?**
 
