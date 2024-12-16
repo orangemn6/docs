@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "718035f1c99eb365",
+        "id": "3b5cceb0298af058",
         "type": "tabs",
         "children": [
           {
-            "id": "ddbe8af6a433f976",
+            "id": "c4bbb7105c2182a7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "school/biology/Phosphorylation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phosphorylation"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index-",
+                "query": "krebs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +194,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ddbe8af6a433f976",
+  "active": "219ff0f2b8e99cdf",
   "lastOpenFiles": [
+    "personal/Free Stuff.md",
+    "personal/Free Music.md",
+    "personal/daily/2024-12-14.md",
+    "personal/daily/2024-12-15.md",
+    "personal/daily/2024-12-13.md",
+    "school/biology/Phosphorylation.md",
+    "personal/Free Shows and Movies.md",
+    "personal/Free Sports Streams.md",
     "school/biology/Electron Transport Chain.md",
     "school/biology/Cellular Respiration.md",
     "school/biology/Glycolysis.md",
@@ -210,13 +223,6 @@
     "personal/daily/2024-12-11.md",
     "school/history/unit5-pt3.md",
     "school/history/unit5-pt2.md",
-    "school/history/unit5-pt1.md",
-    "school/history/unit4-pt3.md",
-    "personal/daily/2024-12-10.md",
-    "personal/daily/2024-12-09.md",
-    "personal/listens/Mr. Morale and the Big Steppers.md",
-    "school/history/unit4-fullnotes.md",
-    "personal/robotics-test.md",
     "personal/listens",
     "personal/daily",
     "school/biology/biotestbank.pdf",

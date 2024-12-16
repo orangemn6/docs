@@ -27,3 +27,12 @@ Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter,
 
 
 # Overall Score: ⭐️⭐️⭐️⭐️⭐️
+
+
+# Concert Links
+
+https://archive.org/details/kendrick-lamar-live-from-paris
+
+https://archive.org/details/kendrick-lamar-live-full-set-the-pop-out-ken-friends-june-19-2024
+
+https://archive.org/details/kendrick-lamar-the-pop-out-ken-friends-full-concert-1080p-hq-audio

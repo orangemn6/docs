@@ -12,6 +12,6 @@ tags:
 
 ## In my free time...
 
-- Watching sports
+- Watching [[Free Stuff]]
 - Working on robotics
 - Making my way through my [[reading-list]]
