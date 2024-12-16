@@ -11,10 +11,14 @@
             "id": "c4bbb7105c2182a7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "school/biology/The Krebs Cycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Krebs Cycle"
             }
           }
         ]
@@ -191,6 +195,13 @@
   },
   "active": "c4bbb7105c2182a7",
   "lastOpenFiles": [
+    "school/biology/Aerobic Respiration.md",
+    "school/biology/Formation of Acetyl-CoA.md",
+    "school/biology/Cellular Respiration.md",
+    "school/biology/energy.md",
+    "school/biology/The Krebs Cycle.md",
+    "school/biology/Anaerobic Respiration.md",
+    "school/biology/Glycolysis.md",
     "personal/daily/2024-12-16.md",
     "Untitled.md",
     "school/biology/Phosphorylation.md",
@@ -202,22 +213,15 @@
     "personal/Free Shows and Movies.md",
     "personal/Free Sports Streams.md",
     "school/biology/Electron Transport Chain.md",
-    "school/biology/Cellular Respiration.md",
-    "school/biology/Glycolysis.md",
-    "school/biology/Aerobic Respiration.md",
     "school/biology/membraneflowchart.png",
     "school/biology/organelles-info-chart.md",
-    "school/biology/The Krebs Cycle.md",
     "school/biology/Your Muscle Cells Can Ferment.md",
     "school/biology/cell-energetics.md",
     "school/biology/Anaerobes.md",
-    "school/biology/Formation of Acetyl-CoA.md",
     "school/biology/Chemiosmosis.md",
     "school/biology/cell-membrane-transport.md",
-    "school/biology/Anaerobic Respiration.md",
     "personal/daily/2024-12-12.md",
     "personal/daily/2024-12-11.md",
-    "school/history/unit5-pt3.md",
     "personal/listens",
     "personal/daily",
     "school/biology/biotestbank.pdf",

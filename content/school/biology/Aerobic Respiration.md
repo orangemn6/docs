@@ -6,6 +6,6 @@ Aerobic respiration consists of four stages containing a series of coupled react
     
 2.  [[Formation of Acetyl-CoA]]
     
-3.  the Krebs (citric acid) cycle
+3.  [[the Krebs cycle]]
     
 4.  oxidative phosphorylation (the [[Electron Transport Chain]] + [[Chemiosmosis]])
