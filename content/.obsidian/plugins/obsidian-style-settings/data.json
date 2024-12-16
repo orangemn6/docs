@@ -2,6 +2,12 @@
   "Appearance-dark@@card-layout-open-dark": false,
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
   "primary-theme@@zero-tab-anim": true,
-  "primary-theme@@zero-popup-popdown": false,
-  "primary-theme@@zero-popup-blur": true
+  "primary-theme@@zero-popup-popdown": true,
+  "primary-theme@@zero-popup-blur": true,
+  "primary-theme@@colorful-folders_text": false,
+  "primary-theme@@alt-folder-icons": true,
+  "primary-theme@@colorful-folders_background": true,
+  "primary-theme@@colorful-folders_inherit-color": false,
+  "primary-theme@@colorful-folders_indentation-guide": false,
+  "primary-theme@@colorful-folders_collapse-indicator": false
 }
