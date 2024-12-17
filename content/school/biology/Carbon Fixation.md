@@ -1,0 +1,2 @@
+## Carbon Fixation  
+[[Carbon Fixation]] is the first step of the [[Calvin Cycle]], where inorganic carbon dioxide is incorporated into an organic molecule. The enzyme [[RuBisCO]] catalyzes the attachment of CO2 to ribulose-1,5-bisphosphate (RuBP), forming two molecules of 3-phosphoglycerate (3-PGA). This process is critical for producing the building blocks of [[Glucose]] and other carbohydrates.

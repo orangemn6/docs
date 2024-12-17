@@ -1,0 +1,2 @@
+## Endergonic Reactions  
+[[Endergonic Reactions]] require [[energy]] input, as their products contain more energy than the reactants. These reactions are essential for building macromolecules, such as synthesizing proteins from amino acids. Energy for endergonic reactions often comes from the hydrolysis of [[ATP]]. Without such energy input, cells could not perform critical functions like growth, repair, or reproduction.

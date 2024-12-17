@@ -1,0 +1,2 @@
+## Reaction Center  
+The [[Reaction Center]] is a specialized pair of [[Chlorophyll a]] molecules within each [[Photosystem]] that receives [[energy]] from [[Antenna Complexes]]. In [[Photosystem II]], the reaction center is called P680, while in [[Photosystem I]], it is P700. These molecules lose high-[[energy]] electrons when excited, initiating the [[Electron Transport Chain]].

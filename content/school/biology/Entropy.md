@@ -1,0 +1,2 @@
+## Entropy  
+[[Entropy]] measures the degree of disorder or randomness in a system. Biological systems constantly fight entropy by investing [[energy]] to build and maintain order. For example, during [[Photosynthesis]], plants use light energy to create highly organized [[Glucose]] molecules from carbon dioxide and water. This fight against entropy is a defining feature of living organisms.

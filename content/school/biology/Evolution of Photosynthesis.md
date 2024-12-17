@@ -1,0 +1,2 @@
+## Evolution of Photosynthesis  
+The [[Evolution of Photosynthesis]] began with ancient cyanobacteria around 3 billion years ago. These organisms introduced oxygen into Earth’s atmosphere through [[Oxygenic Photosynthesis]]. The development of chloroplasts in plants likely resulted from an ancient symbiotic relationship between a eukaryotic cell and a photosynthetic prokaryote, as explained by the [[Endosymbiotic Theory]].

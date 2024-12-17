@@ -1,0 +1,2 @@
+## Second Law of Thermodynamics  
+The [[Second Law of Thermodynamics]] dictates that every [[energy]] transfer increases [[Entropy]] in the universe, leading to less organized systems. In cells, energy input is required to maintain complex structures and perform life processes. For example, [[ATP]] provides the energy needed to organize molecules into macromolecules like proteins and nucleic acids. Without constant energy input, cells would succumb to the natural trend toward disorder.

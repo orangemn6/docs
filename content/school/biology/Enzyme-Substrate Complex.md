@@ -1,0 +1,2 @@
+## Enzyme-Substrate Complex  
+The [[Enzyme-Substrate Complex]] forms when an [[Enzyme]] temporarily binds to its [[Substrate]] at the [[Active Site]]. This complex stabilizes the [[Transition State]], making the reaction more likely to occur. Once the reaction is complete, the enzyme releases the product and is ready to catalyze another reaction. This cycle is central to how [[Enzymes]] work efficiently in cells.

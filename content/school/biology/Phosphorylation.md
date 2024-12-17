@@ -29,7 +29,7 @@ Substrate-Level Phosphorylation
 
 Oxidative Phosphorylation
 
-• Definition: ATP is produced through the [[Electron Transport Chain]] (ETC) and [[Chemiosmosis]], using a proton gradient across a membrane.
+• Definition: ATP is produced through the [[Electron Transport Chain]] (ETC) and [[Chemiosmosis]], using a [[Proton Gradient]] across a membrane.
 
 • Process:
 
@@ -37,12 +37,12 @@ Oxidative Phosphorylation
 
 2. This movement powers the pumping of protons (H⁺) across the inner mitochondrial membrane.
 
-3. Protons flow back into the matrix through ATP synthase, driving the synthesis of ATP from ADP and inorganic phosphate (Pi).
+3. Protons flow back into the matrix through [[ATP Synthase]], driving the synthesis of ATP from ADP and inorganic phosphate (Pi).
 
 • Location: Inner mitochondrial membrane (eukaryotes) or plasma membrane (prokaryotes).
 
 • [[energy]] Source: Requires oxygen as the final electron acceptor, forming water.
 
-• Efficiency: Produces the majority of ATP in [[Cellular Respiration]] (~34 ATP per glucose molecule).
+• Efficiency: Produces the majority of ATP in [[Cellular Respiration]] (~34 ATP per [[Glucose]] molecule).
 
   

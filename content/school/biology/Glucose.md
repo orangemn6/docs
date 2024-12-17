@@ -1,0 +1,2 @@
+## Glucose  
+[[Glucose]] is the primary sugar produced during [[Photosynthesis]]. It is synthesized from the three-carbon molecule [[G3P]] during the [[Calvin Cycle]]. Glucose serves as an [[energy]] source for the plant, is stored as starch, or is used to build cellulose for structural support. It is also the starting molecule for [[Cellular Respiration]] in both plants and animals.

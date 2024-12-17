@@ -1,0 +1,2 @@
+## Photorespiration Avoidance  
+Plants use strategies like [[C4 Pathway]] and [[CAM Pathway]] to minimize [[Photorespiration]] under stress. In [[C4 Plants]], [[Carbon Fixation]] is spatially separated between mesophyll and bundle-sheath cells. [[CAM Plants]] temporally separate [[Carbon Fixation]] by storing CO2 as organic acids at night and using it during the day. These adaptations are especially effective in hot, arid environments.

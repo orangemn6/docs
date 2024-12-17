@@ -1,0 +1,2 @@
+## Substrates  
+[[Substrates]] are the molecules that [[Enzymes]] bind to and modify during a reaction. Each enzyme interacts with its substrate at the [[Active Site]], forming an [[Enzyme-Substrate Complex]]. For instance, during [[Cellular Respiration]], [[Glucose]] is the substrate for the enzyme hexokinase. Substrates are crucial for driving metabolic processes and producing products needed for cellular function.

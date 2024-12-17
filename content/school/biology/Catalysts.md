@@ -1,0 +1,2 @@
+## Catalysts  
+[[Catalysts]] are substances that speed up chemical reactions by lowering the [[Activation Energy]] needed for the reaction to proceed. In biological systems, [[Enzymes]] act as catalysts, enabling reactions to occur more efficiently and under mild conditions. Catalysts are not consumed in the reaction, meaning they can be reused repeatedly. Their role is crucial for maintaining the speed and regulation of cellular processes.

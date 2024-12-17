@@ -1,0 +1,2 @@
+## Energy Diagram  
+An [[Energy Diagram]] visually represents the [[energy]] changes in a chemical reaction. The y-axis indicates the energy level, while the x-axis shows the reaction's progress. In an [[Exergonic Reaction]], the energy decreases as the reaction proceeds, while in an [[Endergonic Reaction]], the energy increases. These diagrams help illustrate concepts like the [[Activation Energy]] barrier and how [[Enzymes]] lower it.

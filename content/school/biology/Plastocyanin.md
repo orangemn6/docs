@@ -1,0 +1,2 @@
+## Plastocyanin  
+[[Plastocyanin]] is a copper-containing protein that acts as a mobile electron carrier in the [[Electron Transport Chain]]. It transfers electrons from the [[Cytochrome Complex]] to [[Photosystem I]]. This step is crucial for re-energizing electrons during the [[Light-Dependent Reactions]].

@@ -1,0 +1,2 @@
+## Calvin Cycle  
+The [[Calvin Cycle]], also known as the light-independent reactions or [[Carbon Fixation]], occurs in the [[Stroma]] of the [[Chloroplast]]. It uses ATP and NADPH from the [[Light-Dependent Reactions]] to convert carbon dioxide into [[Glucose]]. The cycle has three main stages: [[Carbon Fixation]], reduction, and regeneration of RuBP. The enzyme [[RuBisCO]] catalyzes the first step, binding CO2 to RuBP. This cycle produces G3P, a three-carbon sugar that can be used to form glucose and other carbohydrates.

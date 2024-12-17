@@ -4,7 +4,7 @@
     
 *   When you exercise, your muscles require a lot of [[energy]].
     
-*   To get this [[energy]], they convert enormous amounts of glucose to ATP.
+*   To get this [[energy]], they convert enormous amounts of [[Glucose]] to ATP.
     
 *   As you continue to exercise, your body doesn’t get enough oxygen to keep up with the demand in your muscles. This creates an oxygen debt.
     

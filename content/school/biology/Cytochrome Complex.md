@@ -1,0 +1,2 @@
+## Cytochrome Complex  
+The [[Cytochrome Complex]] is a protein complex within the [[Electron Transport Chain]] that plays a key role in creating the [[Proton Gradient]]. It accepts electrons from [[Plastoquinone]] and passes them to [[Plastocyanin]]. Simultaneously, it pumps protons into the [[Thylakoid Lumen]] using the [[energy]] from electron transfer. This process is essential for ATP production.

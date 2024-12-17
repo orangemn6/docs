@@ -1,0 +1,2 @@
+## First Law of Thermodynamics  
+The [[First Law of Thermodynamics]] states that [[energy]] cannot be created or destroyed, only transformed. For cells, this means energy must be harvested from the environment, such as sunlight for [[Autotrophs]] or chemical bonds in food for [[Heterotrophs]]. During processes like [[Photosynthesis]] and [[Cellular Respiration]], energy is converted between forms, such as light energy to chemical energy or chemical energy to usable [[ATP]]. This law underscores the importance of energy conservation in all biological activities.

@@ -1,0 +1,2 @@
+## Activation Energy  
+[[Activation Energy]] is the minimum amount of [[energy]] needed for a chemical reaction to occur. [[Enzymes]] lower this barrier, enabling reactions to happen more quickly and with less energy input. For example, during [[Photosynthesis]], enzymes help split water molecules by reducing the activation energy required. This efficiency is essential for maintaining life processes under normal biological conditions.

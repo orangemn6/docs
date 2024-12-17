@@ -1,0 +1,2 @@
+## Oxygen as a Byproduct  
+[[Oxygen]] is a byproduct of [[Photolysis]] during the [[Light-Dependent Reactions]]. As water molecules are split, oxygen is released into the atmosphere, contributing to the Earth's breathable air. This process, which began with early photosynthetic organisms like cyanobacteria, is responsible for the oxygenation of Earth’s atmosphere billions of years ago.

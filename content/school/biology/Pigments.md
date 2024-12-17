@@ -1,0 +1,2 @@
+## Pigments  
+[[Pigments]] are molecules that absorb specific wavelengths of light and are critical to [[Photosynthesis]]. [[Chlorophyll a]] and [[Chlorophyll b]] are the primary pigments, absorbing light in the red and blue-violet regions of the spectrum. [[Carotenoids]] are accessory pigments that absorb additional wavelengths, particularly in the blue-green range, and protect against oxidative damage. The arrangement of pigments into [[Antenna Complexes]] allows plants to maximize light absorption.

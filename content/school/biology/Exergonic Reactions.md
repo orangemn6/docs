@@ -1,0 +1,2 @@
+## Exergonic Reactions  
+[[Exergonic Reactions]] release [[energy]] as they proceed, resulting in products with less energy than the reactants. These reactions are critical for processes like [[ATP Hydrolysis]], where the release of energy powers cellular functions. For example, the breakdown of [[Glucose]] during [[Cellular Respiration]] is an exergonic reaction that fuels many metabolic pathways. Exergonic reactions are often coupled with [[Endergonic Reactions]] to ensure efficient energy use.

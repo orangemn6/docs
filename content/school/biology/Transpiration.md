@@ -1,0 +1,2 @@
+## Transpiration  
+[[Transpiration]] is the process of water evaporation through the [[Stomata]] of plants. It helps pull water and nutrients up from the roots through the xylem, supporting plant hydration and nutrient transport. However, excessive transpiration can lead to water loss, especially in hot, dry conditions, forcing plants to close their [[Stomata]] and potentially limiting [[Photosynthesis]].

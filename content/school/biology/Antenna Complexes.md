@@ -1,0 +1,2 @@
+## Antenna Complexes  
+[[Antenna Complexes]] are groups of [[Pigments]], including [[Chlorophyll]] and [[Carotenoids]], located in the [[Thylakoid]] membranes. They capture light [[energy]] and transfer it to the [[Reaction Center]] of a [[Photosystem]]. This efficient [[energy]] transfer ensures that the plant can capture photons across a broad spectrum of light wavelengths.

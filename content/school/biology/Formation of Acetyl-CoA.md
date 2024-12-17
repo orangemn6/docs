@@ -10,6 +10,6 @@
     
 *   From two 3- carbon molecules to now two 2-carbon molecules.
     
-*   The extra carbons leave the cell in the form of CO2. Once again, two molecules of NADH are also produced for each glucose you started with.
+*   The extra carbons leave the cell in the form of CO2. Once again, two molecules of NADH are also produced for each [[Glucose]] you started with.
     
 *   This process of turning pyruvic acid into acetyl-CoA is catalyzed by an enzyme complex called the pyruvate dehydrogenase complex (PDC).

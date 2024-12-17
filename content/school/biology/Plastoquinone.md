@@ -1,0 +1,2 @@
+## Plastoquinone  
+[[Plastoquinone]] is a mobile electron carrier within the [[Electron Transport Chain]]. It transports high-[[energy]] electrons from [[Photosystem II]] to the [[Cytochrome Complex]]. As it shuttles electrons, it helps pump protons from the [[Stroma]] into the [[Thylakoid Lumen]], contributing to the [[Proton Gradient]] that drives [[ATP Synthase]].

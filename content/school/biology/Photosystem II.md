@@ -1,0 +1,2 @@
+## Photosystem II  
+[[Photosystem II]] (PSII) is the first protein-pigment complex in the [[Light-Dependent Reactions]], absorbing light [[energy]] most efficiently at 680 nm. It initiates the process by exciting electrons, which are transferred down the [[Electron Transport Chain]]. [[Photolysis]] of water occurs at PSII to replenish lost electrons, producing oxygen and protons in the [[Thylakoid Lumen]]. PSII is essential for creating the [[Proton Gradient]] used to generate [[ATP]] through [[ATP Synthase]].

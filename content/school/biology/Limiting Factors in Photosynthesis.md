@@ -1,0 +1,2 @@
+## Limiting Factors in Photosynthesis  
+[[Photosynthesis]] is influenced by several limiting factors, including light intensity, carbon dioxide concentration, and temperature. Low light reduces the efficiency of the [[Light-Dependent Reactions]], while insufficient CO2 limits the [[Calvin Cycle]]. Extreme temperatures can denature [[Enzymes]] like [[RuBisCO]] or close [[Stomata]], further hindering [[Photosynthesis]].

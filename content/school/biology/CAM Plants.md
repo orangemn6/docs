@@ -1,0 +1,2 @@
+## CAM Plants  
+[[CAM Plants]] (Crassulacean Acid Metabolism) are another adaptation to arid environments. These plants temporally separate [[Carbon Fixation]] from the [[Calvin Cycle]]. At night, they open their [[Stomata]] to fix CO2 into organic acids, which are stored in vacuoles. During the day, they close their [[Stomata]] to conserve water and release CO2 from the acids for use in the [[Calvin Cycle]]. Examples of CAM plants include cacti, pineapples, and succulents.

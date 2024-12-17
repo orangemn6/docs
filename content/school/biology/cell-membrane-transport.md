@@ -30,7 +30,7 @@ Cells need a high surface area to volume ratio for diffusion. Bigger cells has a
         
 *   **Lysosome**
     
-    *   Lysosomes are sacs of hydrolytic enzymes that digest macromolecules. The enzymes work best at a pH of 5. If they get out into the rest of the cells it will denature. However, if enough escape, apoptosis (suicide) will occur. Lysosomes are how cells kill themselves.
+    *   Lysosomes are sacs of hydrolytic enzymes that digest macromolecules. The [[Enzymes]] work best at a pH of 5. If they get out into the rest of the cells it will denature. However, if enough escape, apoptosis (suicide) will occur. Lysosomes are how cells kill themselves.
         
 *   **Vesicles**
     
@@ -59,7 +59,7 @@ Cells need a high surface area to volume ratio for diffusion. Bigger cells has a
         
 *   **Chloroplasts**
     
-    *   Chloroplasts do photosynthesis. It is semi-autonomous.
+    *   Chloroplasts do [[Photosynthesis]]. It is semi-autonomous.
 ![chloroplast chart](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chloroplast_diagram.svg/1052px-Chloroplast_diagram.svg.png)        
 
 _Both mitochondria and chloroplasts have DNA and replicate themselves. They also both make ATP. They are double membrane bound._
@@ -182,7 +182,7 @@ The formula for water potential is Ψ = Ψs - Ψp
 
 ΨS = -iCRT
 
-i is the ionization constant, which is 1.0 mole for sucrose. C is the molar concentration. R is pressure constant. T is the temperature in Kelvin, which is Celsius + 273. Pure water has 0 moles of glucose, (0 mole concentration) it is as hypotonic as possible..
+i is the ionization constant, which is 1.0 mole for sucrose. C is the molar concentration. R is pressure constant. T is the temperature in Kelvin, which is Celsius + 273. Pure water has 0 moles of [[Glucose]], (0 mole concentration) it is as hypotonic as possible..
 
 #### Other Forms of Transport (Often with Proteins)
 
@@ -196,7 +196,7 @@ Cells use proteins for moving larger molecules or higher amounts of proteins thr
 
 ![](https://knowt-user-attachments.s3.amazonaws.com/ef53eab2-529f-4574-b89e-5b8bad4882bc.png)
 
-**Cotransport** - A special protein that can transport 2 different types of molecules simultaneously. For example, in the scenario below, the H+ ions ‘want’ to go to the lower concentration within the cell. We take advantage of this and force it to ‘bring along’ a sucrose molecule, which would otherwise require an energy input. Cells do have to use energy to pump out the H+ ions, but it is less than the [[energy]] required to pump sucrose.
+**Cotransport** - A special protein that can transport 2 different types of molecules simultaneously. For example, in the scenario below, the H+ ions ‘want’ to go to the lower concentration within the cell. We take advantage of this and force it to ‘bring along’ a sucrose molecule, which would otherwise require an [[energy]] input. Cells do have to use energy to pump out the H+ ions, but it is less than the [[energy]] required to pump sucrose.
 
 **Exocytosis + Endocytosis** - the transport of large molecules in/out of a cell with a vesicle
 
@@ -222,7 +222,7 @@ Plants have proton (H+) pumps to pump protons from high to low concentration wit
 
 ![](https://knowt-user-attachments.s3.amazonaws.com/f6f6250e-7c3e-46ec-a585-d2d24875d7a4.jpg)
 
-**Transpiration** is the movement of water through a plant and its xylem, from absorption to evaporation. Plants lose large amounts of water in their leaves through transpiration’s bulk transport. 
+**[[Transpiration]]** is the movement of water through a plant and its xylem, from absorption to evaporation. Plants lose large amounts of water in their leaves through transpiration’s bulk transport. 
 
 **Root pressure** is a weak form of transport used by smaller plants. Roots are hypertonic, so water will flow into them. The increase of water pushes itself further up the plant and eventually out the leaves. This only works for shorter distances.
 

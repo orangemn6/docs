@@ -27,7 +27,7 @@ graph TD
   F --> L[Water] 
   H --> M[Energy Output]
 ```
-![[[[Cellular Respiration]]]]
+[[Cellular Respiration]]
 [[Aerobic Respiration]]
 [[Glycolysis]]
 [[Formation of Acetyl-CoA]]

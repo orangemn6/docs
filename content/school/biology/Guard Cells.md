@@ -1,0 +1,2 @@
+## Guard Cells  
+[[Guard Cells]] are specialized cells surrounding each stoma that control its opening and closing. They swell with water to open the stoma or shrink to close it, depending on environmental signals. Their function is critical for maintaining the balance between gas exchange for [[Photosynthesis]] and water conservation during [[Transpiration]].

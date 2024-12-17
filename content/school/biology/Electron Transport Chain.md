@@ -1,6 +1,6 @@
 ### Electron Transport Chain
 
-*   As electrons are removed from a molecule of glucose, they carry much [[energy]] that was originally stored in their chemical bonds.
+*   As electrons are removed from a molecule of [[Glucose]], they carry much [[energy]] that was originally stored in their chemical bonds.
     
 *   These electrons are transferred to readied hydrogen carrier molecules.
     
@@ -28,4 +28,5 @@
     
 *   The electrons travel down the electron transport chain until they reach the final electron acceptor, oxygen. Oxygen combines with these electrons (and some hydrogens) to form water.
     
-*   This explains the “aerobic” in [[aerobic respiration]]. If oxygen weren’t available to accept the electrons, they wouldn’t move down the chain at all, thereby shutting down the whole process of electron transport.
+*   This explains the “aerobic” in [[aerobic respiration]]. If oxygen weren’t available to accept the electrons, they wouldn’t move down the chain at all, thereby shutting down the whole process of electron transport.## Electron Transport Chain  
+The [[Electron Transport Chain]] (ETC) is a series of proteins embedded in the [[Thylakoid]] membrane that transfer electrons during the [[Light-Dependent Reactions]]. As electrons move through the chain, [[energy]] is released and used to pump protons from the [[Stroma]] into the [[Thylakoid Lumen]], creating a [[Proton Gradient]]. Key components include plastoquinone (PQ), the [[Cytochrome Complex]], and [[Plastocyanin]] (PC). The ETC links [[Photosystem II]] to [[Photosystem I]], enabling ATP and NADPH production for the [[Calvin Cycle]].

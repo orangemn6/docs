@@ -6,7 +6,7 @@
         
     *   The mitochondrial production of acetyl- CoA and [[The Krebs Cycle]] cease too.
         
-    *   [[Glycolysis]], however, can continue to run. This means that glucose can be broken down to give net two ATP. Only two instead of 30!
+    *   [[Glycolysis]], however, can continue to run. This means that [[Glucose]] can be broken down to give net two ATP. Only two instead of 30!
         
     *   [[Glycolysis]] also gives two pyruvates and two NADH. The pyruvate and NADH make a deal with each other, and pyruvate helps NADH get recycled back into NAD+ and takes its electrons.
         
