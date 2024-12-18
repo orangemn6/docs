@@ -1,0 +1,4 @@
+## ATP  
+Adenosine triphosphate (**ATP**) is the primary [[energy]] carrier in living cells. It consists of an adenine base, a ribose sugar, and three phosphate groups, with energy stored in the bonds between these phosphates. During [[Photosynthesis]], ATP is produced in the [[Light-Dependent Reactions]] within the [[Chloroplast]] as a result of the electron transport chain and the [[Proton Gradient]].  
+
+ATP provides the energy necessary for many cellular processes, including the [[Calvin Cycle]] in [[Photosynthesis]], where it is used to convert carbon dioxide into glucose. The energy is released when one phosphate group is cleaved from ATP, converting it into [[ADP]] (adenosine diphosphate). This process is reversible, and cells can regenerate ATP from ADP through processes like [[cellular respiration]] and [[photophosphorylation]] in plants.  

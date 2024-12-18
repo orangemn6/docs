@@ -11,10 +11,14 @@
             "id": "8804ca4111cc9488",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "school/biology/ATP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ATP"
             }
           }
         ]
@@ -189,8 +193,23 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8804ca4111cc9488",
+  "active": "29607a31f8caf494",
   "lastOpenFiles": [
+    "school/biology/Chlorophyll.md",
+    "school/biology/ATP.md",
+    "school/biology/Grana.md",
+    "school/biology/Chloroplast.md",
+    "school/biology/Reaction Center.md",
+    "school/biology/Your Muscle Cells Can Ferment.md",
+    "school/biology/Transpiration.md",
+    "school/biology/Thylakoid.md",
+    "school/biology/Thermodynamics.md",
+    "school/biology/The Krebs Cycle.md",
+    "school/biology/Stroma.md",
+    "school/biology/Substrates.md",
+    "school/biology/Photorespiration.md",
+    "school/biology/RuBisCO.md",
+    "school/biology/Carbon Fixation.md",
     "school/biology/Photosystem II.md",
     "school/biology/Photosystem I.md",
     "school/biology/Photosynthesis.md",
@@ -200,23 +219,8 @@
     "school/biology/Glucose.md",
     "school/biology/Oxygen as a Byproduct.md",
     "school/biology/Photorespiration Avoidance.md",
-    "school/biology/Transpiration.md",
     "school/biology/Guard Cells.md",
     "school/biology/Stomata.md",
-    "school/biology/G3P (Glyceraldehyde-3-Phosphate).md",
-    "school/biology/Regeneration Phase of Calvin Cycle.md",
-    "school/biology/Reduction Phase of Calvin Cycle.md",
-    "school/biology/Carbon Fixation.md",
-    "school/biology/NADP+ and NADPH.md",
-    "school/biology/Proton Gradient.md",
-    "school/biology/Plastocyanin.md",
-    "school/biology/Cytochrome Complex.md",
-    "school/biology/Plastoquinone.md",
-    "school/biology/Reaction Center.md",
-    "school/biology/Antenna Complexes.md",
-    "school/biology/Pigments.md",
-    "school/biology/Photolysis.md",
-    "school/biology/CAM Plants.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",

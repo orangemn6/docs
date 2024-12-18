@@ -1,0 +1,4 @@
+## Grana  
+Grana are stacks of [[Thylakoid]] located within the [[Chloroplast]], resembling piles of coins. These structures are essential for the [[Light-Dependent Reactions]] of [[Photosynthesis]] as they house pigments like [[Chlorophyll]] and proteins involved in capturing light energy. The grana maximize the surface area available for light absorption and the operation of the [[Electron Transport Chain]].  
+
+The close arrangement of thylakoids in grana allows for efficient interaction between photosystems and other components necessary for ATP and [[NADPH]] production. Grana are interconnected by stromal lamellae, thin structures that link stacks and facilitate the distribution of energy across the chloroplast. Their structural design is key to optimizing the energy capture and conversion processes of photosynthesis.  
