@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5cceb0298af058",
+        "id": "8c4b229fb870876f",
         "type": "tabs",
         "children": [
           {
-            "id": "8804ca4111cc9488",
+            "id": "118e8c7966128632",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "school/biology/Photosynthesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Photosynthesis"
             }
           }
         ]
@@ -189,13 +193,26 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8804ca4111cc9488",
+  "active": "118e8c7966128632",
   "lastOpenFiles": [
-    "personal/daily/2024-12-18.md",
-    "school/biology/ATP.md",
-    "school/biology/Chlorophyll.md",
-    "school/biology/Grana.md",
     "school/biology/Chloroplast.md",
+    "school/biology/Cytochrome Complex.md",
+    "school/biology/Chlorophyll.md",
+    "school/biology/Chemiosmosis.md",
+    "school/biology/Cellular Respiration.md",
+    "school/biology/cell-membrane-transport.md",
+    "school/biology/cell-energetics.md",
+    "school/biology/Catalysts.md",
+    "school/biology/Carbon Fixation.md",
+    "school/biology/CAM Plants.md",
+    "school/biology/Calvin Cycle.md",
+    "school/biology/C4 Plants.md",
+    "school/biology/Bioenergetics.md",
+    "school/biology/bio-q-bank.md",
+    "school/biology/ATP Synthase.md",
+    "school/biology/ATP.md",
+    "personal/daily/2024-12-18.md",
+    "school/biology/Grana.md",
     "school/biology/Reaction Center.md",
     "school/biology/Your Muscle Cells Can Ferment.md",
     "school/biology/Transpiration.md",
@@ -204,19 +221,6 @@
     "school/biology/The Krebs Cycle.md",
     "school/biology/Stroma.md",
     "school/biology/Substrates.md",
-    "school/biology/Photorespiration.md",
-    "school/biology/RuBisCO.md",
-    "school/biology/Carbon Fixation.md",
-    "school/biology/Photosystem II.md",
-    "school/biology/Photosystem I.md",
-    "school/biology/Photosynthesis.md",
-    "school/biology/Photosynthesis MOC.md",
-    "school/biology/Evolution of Photosynthesis.md",
-    "school/biology/Limiting Factors in Photosynthesis.md",
-    "school/biology/Glucose.md",
-    "school/biology/Oxygen as a Byproduct.md",
-    "school/biology/Photorespiration Avoidance.md",
-    "school/biology/Guard Cells.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",
