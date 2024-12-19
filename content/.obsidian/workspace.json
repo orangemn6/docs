@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/biology/Chlorophyll.md",
+                "file": "school/biology/Calvin Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chlorophyll"
+              "title": "Calvin Cycle"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/biology/Chlorophyll.md",
+                "file": "school/biology/Calvin Cycle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chlorophyll"
+              "title": "Backlinks for Calvin Cycle"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/history/unit5-pt4.md",
+                "file": "school/biology/Calvin Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from unit5-pt4"
+              "title": "Outgoing links from Calvin Cycle"
             }
           },
           {
@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/history/unit5-pt4.md"
+                "file": "school/biology/Calvin Cycle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of unit5-pt4"
+              "title": "Outline of Calvin Cycle"
             }
           },
           {
@@ -157,8 +157,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "5d5fd09595ba18a3",
@@ -181,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "school/biology/Chlorophyll.md",
+                "file": "school/biology/Calvin Cycle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,12 +203,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6218921214915305,
+                  "scale": 0.4496163003252106,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Chlorophyll"
+              "title": "Graph of Calvin Cycle"
             }
           }
         ],
@@ -236,14 +235,19 @@
   },
   "active": "c804007c413d5405",
   "lastOpenFiles": [
-    "school/biology/Electromagnetic Spectrum.md",
     "school/biology/Calvin Cycle.md",
+    "school/biology/Photosystem I.md",
+    "school/biology/Photosystem.md",
+    "school/biology/Lumen.md",
+    "school/biology/Photosynthesis MOC.md",
+    "school/biology/Chlorophyll.md",
+    "school/biology/Photosynthesis.md",
+    "school/biology/Electromagnetic Spectrum.md",
     "school/biology/Regeneration Phase of Calvin Cycle.md",
     "school/biology/Reduction Phase of Calvin Cycle.md",
     "school/biology/Photophosphorylation.md",
     "school/biology/RuBP.md",
     "school/biology/Carbon Fixation.md",
-    "school/biology/Photosynthesis.md",
     "school/biology/Chloroplast.md",
     "school/biology/Veins.md",
     "school/biology/Structure of Leaf.md",
@@ -257,11 +261,6 @@
     "school/biology/Heterotrophs.md",
     "school/biology/Autotrophs.md",
     "school/biology/Light-Dependent Reactions.md",
-    "school/biology/NADPH.md",
-    "school/biology/G3P.md",
-    "school/biology/Enzyme.md",
-    "personal/daily/2024-12-19.md",
-    "school/history/unit5-sg.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",

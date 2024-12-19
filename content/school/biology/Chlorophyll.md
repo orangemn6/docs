@@ -1,4 +1,5 @@
 ## Chlorophyll  
 [[Chlorophyll]] is the primary pigment involved in [[Photosynthesis]], responsible for capturing light energy from the sun. It is located within the [[Thylakoid]] membranes of the [[Chloroplast]] and exists in several forms, with [[Chlorophyll a]] being the most critical for light absorption. This pigment primarily absorbs blue-violet and red wavelengths of light while reflecting green, which gives plants their characteristic color.  
 
-[[Chlorophyll b]] and other [[Accessory Pigments]] complement chlorophyll a by expanding the range of light wavelengths that can be utilized. The energy absorbed by chlorophyll molecules excites electrons, initiating the [[Electron Transport Chain]] in the [[Light-Dependent Reactions]]. Chlorophyll’s ability to harness light energy makes it fundamental to converting solar energy into chemical energy in the form of [[ATP]] and [[NADPH]].  
+[[Chlorophyll b]] and other [[Accessory Pigments]] complement chlorophyll a by expanding the range of light wavelengths that can be utilized. The energy absorbed by chlorophyll molecules excites electrons, initiating the [[Electron Transport Chain]] in the [[Light-Dependent Reactions]]. Chlorophyll’s ability to harness light energy makes it fundamental t o converting solar energy into chemical energy in the form of [[ATP]] and [[NADPH]].  
+  
