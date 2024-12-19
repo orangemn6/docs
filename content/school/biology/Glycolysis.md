@@ -8,7 +8,7 @@ On its own, it is a form of [[Anaerobic Respiration]]
         
     *   This breakdown of glucose also results in the net production of two molecules of ATP and two molecules of NADH.
         
-    *   Glucose + 2 ATP + 2NAD+ → 2 Pyruvic acid + 4 ATP + 2NADH
+    *   [[Glucose]] + 2 ATP + 2NAD+ → 2 Pyruvic acid + 4 ATP + 2NADH
         
     *   Glycolysis also creates two NADH, which result from the transfer of electrons to the carrier NAD+, which then becomes NADH.
         

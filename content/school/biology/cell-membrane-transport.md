@@ -57,12 +57,12 @@ Cells need a high surface area to volume ratio for diffusion. Bigger cells has a
     *   Mitochondria is the powerhouse of the cell (sorry had to) and makes [[ATP]]. It is semi-autonomous.
 ![mitochondria chart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw5JYz7Mzr90R3GBO64f65OA_s7KXvZ3EzQ&s)
         
-*   **Chloroplasts**
+*   **[[Chloroplast|chloroplasts]]**
     
-    *   Chloroplasts do [[[[Photosynthesis]]]]. It is semi-autonomous.
+    *   [[Chloroplast|chloroplasts]] do [[[[[[Photosynthesis]]]]]]. It is semi-autonomous.
 ![chloroplast chart](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chloroplast_diagram.svg/1052px-Chloroplast_diagram.svg.png)        
 
-_Both mitochondria and chloroplasts have DNA and replicate themselves. They also both make [[ATP]]. They are double membrane bound._
+_Both mitochondria and [[Chloroplast|chloroplasts]] have DNA and replicate themselves. They also both make [[ATP]]. They are double membrane bound._
 
 **Peroxisomes**
 

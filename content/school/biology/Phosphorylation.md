@@ -37,7 +37,7 @@ Oxidative Phosphorylation
 
 2. This movement powers the pumping of protons (H⁺) across the inner mitochondrial membrane.
 
-3. Protons flow back into the matrix through [[ATP Synthase]], driving the synthesis of ATP from ADP and inorganic phosphate (Pi).
+3. Protons flow back into the matrix through [[ATP Synthase]], driving the synthesis of [[ATP]] from ADP and inorganic phosphate (Pi).
 
 • Location: Inner mitochondrial membrane (eukaryotes) or plasma membrane (prokaryotes).
 
