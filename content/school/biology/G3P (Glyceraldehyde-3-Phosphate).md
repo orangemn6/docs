@@ -1,2 +1,0 @@
-## G3P (Glyceraldehyde-3-Phosphate)  
-[[G3P]] is a three-carbon sugar produced during the [[Calvin Cycle]]. It is the primary product of [[Photosynthesis]] and serves as a precursor for [[Glucose]] and other carbohydrates. For every three molecules of CO2 fixed in the [[Calvin Cycle]], one G3P molecule exits the cycle, while the rest are used to regenerate RuBP.

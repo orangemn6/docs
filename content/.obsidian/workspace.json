@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/history/unit5-sg.md",
+                "file": "school/biology/G3P.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit5-sg"
+              "title": "G3P"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "118e8c7966128632",
   "lastOpenFiles": [
-    "school/biology/Calvin Cycle.md",
+    "school/biology/Enzyme.md",
+    "personal/daily/2024-12-19.md",
     "school/history/unit5-sg.md",
+    "school/biology/Calvin Cycle.md",
     "school/biology/Photosynthesis.md",
     "school/biology/Chloroplast.md",
     "school/biology/Cytochrome Complex.md",
@@ -219,8 +221,6 @@
     "school/biology/Your Muscle Cells Can Ferment.md",
     "school/biology/Transpiration.md",
     "school/biology/Thylakoid.md",
-    "school/biology/Thermodynamics.md",
-    "school/biology/The Krebs Cycle.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",

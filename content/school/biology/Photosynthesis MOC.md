@@ -83,7 +83,7 @@
 
 [[Regeneration Phase of Calvin Cycle]]  
 
-[[G3P (Glyceraldehyde-3-Phosphate)]]  
+[[G3P]]  
 
 [[Stomata]]  
 
