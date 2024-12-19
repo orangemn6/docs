@@ -75,7 +75,7 @@
 
 [[Proton Gradient]]  
 
-[[NADP+ and NADPH]]  
+[[NADP+]]  
 
 [[Carbon Fixation]]  
 

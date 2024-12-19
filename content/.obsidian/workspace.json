@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/biology/G3P.md",
+                "file": "school/biology/NADP+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "G3P"
+              "title": "NADP+"
             }
           }
         ]
@@ -195,12 +195,15 @@
   },
   "active": "118e8c7966128632",
   "lastOpenFiles": [
+    "school/biology/NADPH.md",
+    "school/biology/NADP+.md",
+    "school/biology/Photosynthesis.md",
+    "school/biology/Chloroplast.md",
+    "school/biology/G3P.md",
     "school/biology/Enzyme.md",
     "personal/daily/2024-12-19.md",
     "school/history/unit5-sg.md",
     "school/biology/Calvin Cycle.md",
-    "school/biology/Photosynthesis.md",
-    "school/biology/Chloroplast.md",
     "school/biology/Cytochrome Complex.md",
     "school/biology/Chlorophyll.md",
     "school/biology/Chemiosmosis.md",
@@ -218,9 +221,6 @@
     "personal/daily/2024-12-18.md",
     "school/biology/Grana.md",
     "school/biology/Reaction Center.md",
-    "school/biology/Your Muscle Cells Can Ferment.md",
-    "school/biology/Transpiration.md",
-    "school/biology/Thylakoid.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",
