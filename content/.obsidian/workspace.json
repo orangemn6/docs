@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetic Spectrum.md",
+                "file": "school/biology/Chlorophyll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electromagnetic Spectrum"
+              "title": "Chlorophyll"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetic Spectrum.md",
+                "file": "school/biology/Chlorophyll.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Electromagnetic Spectrum"
+              "title": "Backlinks for Chlorophyll"
             }
           },
           {
@@ -157,7 +157,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5d5fd09595ba18a3",
@@ -180,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Electromagnetic Spectrum.md",
+                "file": "school/biology/Chlorophyll.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Electromagnetic Spectrum"
+              "title": "Graph of Chlorophyll"
             }
           }
         ],
@@ -229,13 +230,14 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obisidian-note-linker:Note Linker": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "c804007c413d5405",
   "lastOpenFiles": [
+    "school/biology/Electromagnetic Spectrum.md",
     "school/biology/Calvin Cycle.md",
-    "Electromagnetic Spectrum.md",
     "school/biology/Regeneration Phase of Calvin Cycle.md",
     "school/biology/Reduction Phase of Calvin Cycle.md",
     "school/biology/Photophosphorylation.md",
