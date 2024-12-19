@@ -30,7 +30,7 @@ Cells need a high surface area to volume ratio for diffusion. Bigger cells has a
         
 *   **Lysosome**
     
-    *   Lysosomes are sacs of hydrolytic enzymes that digest macromolecules. The [[Enzymes]] work best at a pH of 5. If they get out into the rest of the cells it will denature. However, if enough escape, apoptosis (suicide) will occur. Lysosomes are how cells kill themselves.
+    *   Lysosomes are sacs of hydrolytic [[Enzymes|Enzyme]] that digest macromolecules. The [[Enzymes]] work best at a pH of 5. If they get out into the rest of the cells it will denature. However, if enough escape, apoptosis (suicide) will occur. Lysosomes are how cells kill themselves.
         
 *   **Vesicles**
     
@@ -40,7 +40,7 @@ Cells need a high surface area to volume ratio for diffusion. Bigger cells has a
     
     *   The ER makes for half the membranes in the cell.
         
-        *   The smooth ER does not have ribosomes attached to it. It makes lipids for the body. The enzymes in the smooth ER break down toxins like barbiturates and alcohol.
+        *   The smooth ER does not have ribosomes attached to it. It makes lipids for the body. The [[Enzymes|Enzyme]] in the smooth ER break down toxins like barbiturates and alcohol.
             
         *   The rough ER has ribosomes, so it makes membranes with proteins in them, like glycoproteins (marker protein).
             
@@ -54,19 +54,19 @@ Cells need a high surface area to volume ratio for diffusion. Bigger cells has a
         
 *   **Mitochondria**
     
-    *   Mitochondria is the powerhouse of the cell (sorry had to) and makes ATP. It is semi-autonomous.
+    *   Mitochondria is the powerhouse of the cell (sorry had to) and makes [[ATP]]. It is semi-autonomous.
 ![mitochondria chart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw5JYz7Mzr90R3GBO64f65OA_s7KXvZ3EzQ&s)
         
 *   **Chloroplasts**
     
-    *   Chloroplasts do [[Photosynthesis]]. It is semi-autonomous.
+    *   Chloroplasts do [[[[Photosynthesis]]]]. It is semi-autonomous.
 ![chloroplast chart](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chloroplast_diagram.svg/1052px-Chloroplast_diagram.svg.png)        
 
-_Both mitochondria and chloroplasts have DNA and replicate themselves. They also both make ATP. They are double membrane bound._
+_Both mitochondria and chloroplasts have DNA and replicate themselves. They also both make [[ATP]]. They are double membrane bound._
 
 **Peroxisomes**
 
-*   Peroxisomes help in performing various metabolic functions. Some break down fatty acids and others detoxify the cell from things like alcohol. An intermediate product of this process is hydrogen peroxide, even though it is poisonous. So, it has an enzyme (catalase) that turns H2O2 into water.
+*   Peroxisomes help in performing various metabolic functions. Some break down fatty acids and others detoxify the cell from things like alcohol. An intermediate product of this process is hydrogen peroxide, even though it is poisonous. So, it has an [[Enzymes|Enzyme]] (catalase) that turns H2O2 into water.
     
 
 ### Other Cell Structures
@@ -210,7 +210,7 @@ Cells use proteins for moving larger molecules or higher amounts of proteins thr
 
 ### Movement in Plants
 
-Plants transport sugar, water, and nutrients through their xylem and phloem. Xylem transports water, called “xylem sap.” Phloem transports sugars and nutrients, called “phloem sap.” The movement of sugar in phloem is called translocation. The “vein” of a plant, a vascular bundle, is like a hose filled with smaller hoses. Vascular bundles have both xylem and phloem. 
+Plants transport sugar, water, and nutrients through their xylem and phloem. Xylem transports water, called “xylem sap.” Phloem transports sugars and nutrients, called “phloem sap.” The movement of sugar in phloem is called translocation. The “[[Veins|vein]]” of a plant, a vascular bundle, is like a hose filled with smaller hoses. Vascular bundles have both xylem and phloem. 
 
 Xylem is made of dead cells stacked on top of each other, called sclerenchyma. Xylem flows from roots to shoots.
 
@@ -222,7 +222,7 @@ Plants have proton (H+) pumps to pump protons from high to low concentration wit
 
 ![](https://knowt-user-attachments.s3.amazonaws.com/f6f6250e-7c3e-46ec-a585-d2d24875d7a4.jpg)
 
-**[[Transpiration]]** is the movement of water through a plant and its xylem, from absorption to evaporation. Plants lose large amounts of water in their leaves through transpiration’s bulk transport. 
+**[[Transpiration]]** is the movement of water through a plant and its xylem, from absorption to evaporation. Plants lose large amounts of water in their leaves through [[Transpiration]]’s bulk transport. 
 
 **Root pressure** is a weak form of transport used by smaller plants. Roots are hypertonic, so water will flow into them. The increase of water pushes itself further up the plant and eventually out the leaves. This only works for shorter distances.
 

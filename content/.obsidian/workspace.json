@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4b229fb870876f",
+        "id": "0b408052b1c0c85c",
         "type": "tabs",
         "children": [
           {
-            "id": "118e8c7966128632",
+            "id": "c804007c413d5405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/biology/NADP+.md",
+                "file": "school/biology/Photosynthesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NADP+"
+              "title": "Photosynthesis"
+            }
+          },
+          {
+            "id": "4792f73f24794ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/biology/Photophosphorylation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Photophosphorylation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "47351516cfa257ca",
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/history/unit5-pt4.md",
+                "file": "school/biology/Photophosphorylation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for unit5-pt4"
+              "title": "Backlinks for Photophosphorylation"
             }
           },
           {
@@ -172,8 +188,46 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "a6f0efe9a1e2bc48",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "school/biology/Photophosphorylation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6929034504954142,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Photophosphorylation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,34 +247,34 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "118e8c7966128632",
+  "active": "4792f73f24794ec6",
   "lastOpenFiles": [
-    "school/biology/NADPH.md",
-    "school/biology/NADP+.md",
-    "school/biology/Photosynthesis.md",
     "school/biology/Chloroplast.md",
+    "school/biology/Photophosphorylation.md",
+    "school/biology/Photosynthesis.md",
+    "school/biology/Veins.md",
+    "school/biology/Structure of Leaf.md",
+    "school/biology/Mesophyll.md",
+    "school/biology/Stomata.md",
+    "school/biology/Epidermis.md",
+    "school/biology/Cuticle.md",
+    "Leaves.md",
+    "school/biology/NADP+.md",
+    "school/biology/Endosymbiotic Theory.md",
+    "school/biology/Heterotrophs.md",
+    "school/biology/Autotrophs.md",
+    "school/biology/Light-Dependent Reactions.md",
+    "school/biology/Calvin Cycle.md",
+    "school/biology/NADPH.md",
     "school/biology/G3P.md",
     "school/biology/Enzyme.md",
     "personal/daily/2024-12-19.md",
     "school/history/unit5-sg.md",
-    "school/biology/Calvin Cycle.md",
     "school/biology/Cytochrome Complex.md",
     "school/biology/Chlorophyll.md",
     "school/biology/Chemiosmosis.md",
     "school/biology/Cellular Respiration.md",
     "school/biology/cell-membrane-transport.md",
-    "school/biology/cell-energetics.md",
-    "school/biology/Catalysts.md",
-    "school/biology/Carbon Fixation.md",
-    "school/biology/CAM Plants.md",
-    "school/biology/C4 Plants.md",
-    "school/biology/Bioenergetics.md",
-    "school/biology/bio-q-bank.md",
-    "school/biology/ATP Synthase.md",
-    "school/biology/ATP.md",
-    "personal/daily/2024-12-18.md",
-    "school/biology/Grana.md",
-    "school/biology/Reaction Center.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",

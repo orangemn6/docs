@@ -7,7 +7,7 @@ Substrate-Level Phosphorylation
 
 • Definition: ATP is produced directly by the transfer of a phosphate group from a phosphorylated substrate to ADP.
 
-• Process: This transfer is catalyzed by an enzyme.
+• Process: This transfer is catalyzed by an [[Enzymes|Enzyme]].
 
 • Location:
 

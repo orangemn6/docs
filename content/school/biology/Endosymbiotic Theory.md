@@ -1,0 +1,4 @@
+## Endosymbiotic Theory  
+The endosymbiotic theory proposes that certain [[organelles-info-chart|organelles]] within eukaryotic cells, such as [[Mitochondria]] and [[Chloroplast]], originated as free-living prokaryotic organisms. These prokaryotes were engulfed by ancestral eukaryotic cells and established a mutually beneficial relationship, eventually becoming integral parts of the host cell.  
+
+Evidence supporting this theory includes the fact that both mitochondria and chloroplasts have their own circular DNA, similar to prokaryotes, and reproduce independently through a process resembling binary fission. Additionally, their double membranes and ribosomes closely resemble those of bacteria. This theory explains the evolution of complex eukaryotic cells and highlights the interconnectedness of life on Earth.  

@@ -1,0 +1,4 @@
+## Cuticle  
+The cuticle is a waxy, hydrophobic layer that covers the outer surface of the [[Epidermis]] in plants, particularly on leaves and stems. It acts as a protective barrier, reducing water loss through evaporation and providing defense against environmental stressors such as pathogens, UV radiation, and physical damage. The thickness and composition of the cuticle can vary depending on the plant species and its environment, with thicker cuticles often found in arid regions.  
+
+In addition to its role in water conservation, the cuticle supports the plant's ability to regulate gas exchange. While the cuticle itself is impermeable to gases, [[Stomata]] embedded in the [[Epidermis]] allow for the controlled exchange of oxygen, carbon dioxide, and water vapor, ensuring proper functioning of [[Photosynthesis]] and respiration.  

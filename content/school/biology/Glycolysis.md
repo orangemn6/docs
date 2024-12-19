@@ -4,7 +4,7 @@ On its own, it is a form of [[Anaerobic Respiration]]
 
 *   The first stage begins with glycolysis, the splitting of [[Glucose]]
     
-    *   Glucose is a six-carbon molecule that is broken into two three- carbon molecules called pyruvic acid.
+    *   [[Glucose]] is a six-carbon molecule that is broken into two three- carbon molecules called pyruvic acid.
         
     *   This breakdown of glucose also results in the net production of two molecules of ATP and two molecules of NADH.
         
