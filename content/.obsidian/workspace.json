@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b408052b1c0c85c",
+        "id": "c6197f514131807d",
         "type": "tabs",
         "children": [
           {
-            "id": "c804007c413d5405",
+            "id": "63c2aee563386ed8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -227,16 +227,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c804007c413d5405",
+  "active": "63c2aee563386ed8",
   "lastOpenFiles": [
-    "school/history/Test 5 Complete.md",
-    "school/history/Test 5 FRQ.md",
+    "personal/daily/2024-12-20.md",
     "Note Maker GPT Prompt.md",
+    "school/history/unit5-answers-full.md",
+    "school/history/Unit 5 MOC.md",
+    "school/biology/Photolysis.md",
+    "school/biology/Photosystem.md",
+    "school/history/Test 5 FRQ.md",
+    "school/history/Test 5 Complete.md",
+    "school/biology/Mitochondria.md",
+    "school/biology/Chloroplast.md",
+    "school/biology/Light-Dependent Reactions.md",
     "school/biology/Calvin Cycle.md",
     "school/history/unit5-answer-overview.md",
-    "school/history/unit5-answers-full.md",
     "school/biology/Photosystem I.md",
-    "school/biology/Photosystem.md",
     "school/biology/Lumen.md",
     "school/biology/Photosynthesis MOC.md",
     "school/biology/Chlorophyll.md",
@@ -247,14 +253,8 @@
     "school/biology/Photophosphorylation.md",
     "school/biology/RuBP.md",
     "school/biology/Carbon Fixation.md",
-    "school/biology/Chloroplast.md",
     "school/biology/Veins.md",
     "school/biology/Structure of Leaf.md",
-    "school/biology/Mesophyll.md",
-    "school/biology/Stomata.md",
-    "school/biology/Epidermis.md",
-    "school/biology/Cuticle.md",
-    "Leaves.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",
