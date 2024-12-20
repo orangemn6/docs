@@ -11,32 +11,13 @@
             "id": "c804007c413d5405",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/biology/Calvin Cycle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calvin Cycle"
-            }
-          },
-          {
-            "id": "68645b86fefcb7ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Maker GPT Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note Maker GPT Prompt"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "47351516cfa257ca",
@@ -247,10 +227,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "68645b86fefcb7ba",
+  "active": "c804007c413d5405",
   "lastOpenFiles": [
+    "school/history/Test 5 Complete.md",
+    "school/history/Test 5 FRQ.md",
     "Note Maker GPT Prompt.md",
     "school/biology/Calvin Cycle.md",
+    "school/history/unit5-answer-overview.md",
+    "school/history/unit5-answers-full.md",
     "school/biology/Photosystem I.md",
     "school/biology/Photosystem.md",
     "school/biology/Lumen.md",
@@ -271,10 +255,6 @@
     "school/biology/Epidermis.md",
     "school/biology/Cuticle.md",
     "Leaves.md",
-    "school/biology/NADP+.md",
-    "school/biology/Endosymbiotic Theory.md",
-    "school/biology/Heterotrophs.md",
-    "school/biology/Autotrophs.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",
