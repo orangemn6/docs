@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6197f514131807d",
+        "id": "ce0b90e8b66c7022",
         "type": "tabs",
         "children": [
           {
-            "id": "63c2aee563386ed8",
+            "id": "84c6032d2780cc70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "school/history/unit5-pt4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "unit5-pt4"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/biology/Calvin Cycle.md",
+                "file": "school/biology/Photosynthesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Calvin Cycle"
+              "title": "Backlinks for Photosynthesis"
             }
           },
           {
@@ -175,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "school/biology/Calvin Cycle.md",
+                "file": "school/biology/Photosynthesis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Calvin Cycle"
+              "title": "Graph of Photosynthesis"
             }
           }
         ],
@@ -227,8 +231,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "63c2aee563386ed8",
+  "active": "84c6032d2780cc70",
   "lastOpenFiles": [
+    "school/history/Test 5 Complete.md",
+    "school/biology/Photosynthesis.md",
+    "school/biology/Chloroplast.md",
+    "school/history/unit5-sg.md",
     "personal/daily/2024-12-20.md",
     "Note Maker GPT Prompt.md",
     "school/history/unit5-answers-full.md",
@@ -236,9 +244,7 @@
     "school/biology/Photolysis.md",
     "school/biology/Photosystem.md",
     "school/history/Test 5 FRQ.md",
-    "school/history/Test 5 Complete.md",
     "school/biology/Mitochondria.md",
-    "school/biology/Chloroplast.md",
     "school/biology/Light-Dependent Reactions.md",
     "school/biology/Calvin Cycle.md",
     "school/history/unit5-answer-overview.md",
@@ -246,7 +252,6 @@
     "school/biology/Lumen.md",
     "school/biology/Photosynthesis MOC.md",
     "school/biology/Chlorophyll.md",
-    "school/biology/Photosynthesis.md",
     "school/biology/Electromagnetic Spectrum.md",
     "school/biology/Regeneration Phase of Calvin Cycle.md",
     "school/biology/Reduction Phase of Calvin Cycle.md",
@@ -254,7 +259,6 @@
     "school/biology/RuBP.md",
     "school/biology/Carbon Fixation.md",
     "school/biology/Veins.md",
-    "school/biology/Structure of Leaf.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",
