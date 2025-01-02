@@ -1,4 +1,4 @@
-## Photosystem  
+## Photosystem
 A photosystem is a complex of [[proteins]] and [[Pigments]] found in the [[Thylakoid]] Membrane of [[Chloroplast|chloroplasts]] that plays a crucial role in the [[Light-Dependent Reactions]] of [[Photosynthesis]]. Photosystems absorb light energy, which is then used to excite electrons, initiating the process of energy conversion into chemical forms. There are two main types of photosystems:  
 
 - **[[Photosystem II]] (PSII)**:  
@@ -7,6 +7,15 @@ A photosystem is a complex of [[proteins]] and [[Pigments]] found in the [[Thyla
 
 - **[[Photosystem I]] (PSI)**:  
   - PSI absorbs light at a wavelength of 700 nm and is responsible for the [[Reduction Phase of Calvin Cycle|reduction]] of NADP+ to [[NADPH]], which is essential for the [[Calvin Cycle]].  
-  - The excited electrons from PSI travel through another part of the ETC and are transferred to [[NADP+]], forming NADPH, which provides the reducing power needed for [[Carbon Fixation]] in the dark reactions.  
+  - The excited electrons from PSI travel through another part of the [[Electron Transport Chain]] and are transferred to [[NADP+]], forming NADPH, which provides the reducing power needed for [[Carbon Fixation]] in the dark reactions.  
+
+
+**2 Main Components**:
+
+*Light Harvesting Complex or Antenna Complex*
+- Directly absorbs photons
+- Energy transferred via resonance energy transfer
+
+*Reaction Center*
 
 Together, PSII and PSI work in tandem to convert light energy into ATP and NADPH, which are required for the synthesis of sugars during the [[Calvin Cycle]].  
