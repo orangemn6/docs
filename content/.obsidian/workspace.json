@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce0b90e8b66c7022",
+        "id": "65f48f85f9c07a32",
         "type": "tabs",
         "children": [
           {
-            "id": "84c6032d2780cc70",
+            "id": "5b92fdab826cbc51",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "school/biology/Calvin Cycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calvin Cycle"
             }
           }
         ]
@@ -227,8 +231,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "84c6032d2780cc70",
+  "active": "5b92fdab826cbc51",
   "lastOpenFiles": [
+    "personal/daily/2025-01-02.md",
     "personal/One Email Away.md",
     "personal/daily/2025-01-01.md",
     "personal/daily/2024-12-31.md",
@@ -254,7 +259,6 @@
     "personal/daily/2024-12-20.md",
     "Note Maker GPT Prompt.md",
     "school/history/unit5-answers-full.md",
-    "school/biology/Photolysis.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",
