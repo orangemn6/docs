@@ -1,3 +1,4 @@
+#links
 ✅=installed
 ❌=not installed
 Professor Layton Azran Legacy✅

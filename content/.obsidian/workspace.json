@@ -11,10 +11,14 @@
             "id": "bd1b5f9a688b8ceb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "personal/Poem to Me.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Poem to Me"
             }
           }
         ]
@@ -230,11 +234,11 @@
   "active": "bd1b5f9a688b8ceb",
   "lastOpenFiles": [
     "personal/Poem to Her.md",
+    "personal/3DS Games to Play.md",
     "personal/Poem to Me.md",
     "school/Pasted image 20250102102315.png",
     "personal/daily/2025-01-05.md",
     "school/Links For Diagram.md",
-    "personal/3DS Games to Play.md",
     "personal/saved/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum.md",
     "school/biology/Calvin Cycle.md",
     "Links For Diagram.md",
