@@ -7,11 +7,11 @@ tags:
 
 ### ✓ Things I plan to accomplish today
 ##### School
-- [ ] 
+- [x]  ✅ 2025-01-06
 ##### EC & Hobbies
-- [ ] 
+- [x]  ✅ 2025-01-06
 ##### Chores
-- [ ] 
+- [x]  ✅ 2025-01-06
 ---
 ```dataview 
 TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") AS "Last modified" FROM -"personal/daily" SORT file.mtime DESC LIMIT 5 

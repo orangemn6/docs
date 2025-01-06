@@ -10,3 +10,7 @@ The cycle has three main stages: [[Carbon Fixation]], [[Reduction Phase of Calvi
 The [[Enzymes]] [[RuBisCO]] catalyzes the first step, binding CO2 to [[RuBP]]. This cycle produces [[G3P]], a three-carbon sugar that can be used to form [[Glucose]] and other carbohydrates.
 
 The Calvin Cycle regenerates the starting material after molecules enter and leave the cycle, just like the [[The Krebs Cycle]] does in animals. 
+
+In order for one molecule of [[glucose]] to be created you need:
+- 18 [[ATP]]
+- 12 [[NADPH]]
