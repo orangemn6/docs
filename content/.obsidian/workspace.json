@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "05b07becc6d6371f",
+        "id": "92b2e47c138b7232",
         "type": "tabs",
         "children": [
           {
-            "id": "bd1b5f9a688b8ceb",
+            "id": "de6f20cbb159c237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Poem to Me.md",
+                "file": "personal/daily/2025-01-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poem to Me"
+              "title": "2025-01-06"
             }
           }
         ]
@@ -231,11 +231,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bd1b5f9a688b8ceb",
+  "active": "de6f20cbb159c237",
   "lastOpenFiles": [
+    "personal/daily/2025-01-06.md",
+    "personal/Poem to Me.md",
     "personal/Poem to Her.md",
     "personal/3DS Games to Play.md",
-    "personal/Poem to Me.md",
     "school/Pasted image 20250102102315.png",
     "personal/daily/2025-01-05.md",
     "school/Links For Diagram.md",
@@ -260,7 +261,6 @@
     "personal/daily/2024-12-27.md",
     "personal/daily/2024-12-25.md",
     "personal/The 12 Questions.md",
-    "personal/daily/2024-12-24.md",
     "school/biology/membraneflowchart.png",
     "personal/listens",
     "personal/daily",
