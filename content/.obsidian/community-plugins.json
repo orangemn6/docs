@@ -5,5 +5,7 @@
   "obisidian-note-linker",
   "remotely-save",
   "obsidian-tasks-plugin",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "dataview",
+  "obsidian-rollover-daily-todos"
 ]

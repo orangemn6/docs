@@ -1,0 +1,7 @@
+{
+  "templateHeading": "##### School",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": true,
+  "rolloverChildren": false,
+  "rolloverOnFileCreate": true
+}
