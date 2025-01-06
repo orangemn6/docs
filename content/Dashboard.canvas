@@ -1,8 +1,11 @@
 {
 	"nodes":[
-		{"id":"e3adf2a9ccb45e30","type":"text","text":"```tasks\nnot done\n```","x":-460,"y":-400,"width":410,"height":600},
-		{"id":"32126f363f092d0b","type":"text","text":"```dataview \nTABLE dateformat(file.mtime, \"dd.MM.yyyy - HH:mm\") AS \"Last modified\" FROM -\"personal/daily\" SORT file.mtime DESC LIMIT 5 \n```","x":-20,"y":-400,"width":440,"height":600},
-		{"id":"293a46b360125cf1","x":-145,"y":-480,"width":250,"height":60,"type":"text","text":"**DASHBOARD**"}
+		{"id":"e3adf2a9ccb45e30","type":"text","text":"```tasks\nnot done\n```","x":-460,"y":-400,"width":410,"height":700},
+		{"id":"32126f363f092d0b","type":"text","text":"```dataview \nTABLE dateformat(file.mtime, \"dd.MM.yyyy - HH:mm\") AS \"Last modified\" FROM -\"personal/daily\" SORT file.mtime DESC LIMIT 10\n```","x":-20,"y":-400,"width":440,"height":700},
+		{"id":"293a46b360125cf1","type":"text","text":"**DASHBOARD**","x":-145,"y":-480,"width":250,"height":60,"color":"5"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"58372c95b315b6c4","fromNode":"293a46b360125cf1","fromSide":"right","toNode":"32126f363f092d0b","toSide":"top"},
+		{"id":"3d16ec1b61e2172b","fromNode":"293a46b360125cf1","fromSide":"left","toNode":"e3adf2a9ccb45e30","toSide":"top"}
+	]
 }
