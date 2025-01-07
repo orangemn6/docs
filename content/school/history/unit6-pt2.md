@@ -45,3 +45,23 @@ tags:
 - **Preservation of jury findings**: Prohibits courts from overturning a jury's factual determinations except as allowed under common law.
 - Applies to *federal courts and civil cases* (non-criminal disputes) involving money, property, or other private rights.
 - *Does not apply to state courts*, but many states provide similar protections under their constitutions.
+
+## 8th Amendment
+
+- **No excessive bail**: Prevents courts from setting bail amounts that are unreasonably high, ensuring fairness in pretrial detention.
+- **No excessive fines**: Prohibits fines that are disproportionately large in relation to the offense.
+- **No cruel and unusual punishment**: Bans punishment that is considered inhumane, degrading, or grossly disproportionate to the crime.
+
+## 9th Amendment
+
+- **Unenumerated rights**: Affirms that the listing of specific rights in the Constitution does not mean other rights are denied to the people.
+- Protects individual liberties not explicitly mentioned in the Constitution, ensuring the government cannot infringe on those rights simply because they are not listed.
+- Acts as a safeguard to prevent a narrow interpretation of the Bill of Rights.
+- Ensures that the Constitution remains adaptable to recognize rights as society evolves.
+
+## 10th Amendment
+
+- **Federalism**: Reserves powers not delegated to the federal government by the Constitution, nor prohibited to the states, to the states or the people.
+- Reinforces the principle of limited government and state sovereignty.
+- Ensures a balance of power between the federal government and the states.
+- Reflects the framers' intent to limit federal authority and preserve state autonomy.
