@@ -8,22 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "078c1292d04632b4",
+            "id": "6dd4ff47a5058bf5",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -52.549999999999955,
-                  "y": -46.28999999999982,
-                  "zoom": 0
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -237,10 +228,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "078c1292d04632b4",
+  "active": "6dd4ff47a5058bf5",
   "lastOpenFiles": [
-    "personal/saved/Dark Mode vs. Light Mode.md",
     "Dashboard.canvas",
+    "personal/saved/Dark Mode vs. Light Mode.md",
     "personal/daily/2025-01-06.md",
     "school/Spanish Cultural Comparison Script.md",
     "school/biology/Photolysis.md",
