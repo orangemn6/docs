@@ -1,5 +1,6 @@
 ## Calvin Cycle  
 
+Can also be called the C3 Pathway because it starts by making a 3 carbon molecule
 
 The [[Calvin Cycle]], also known as the light independent reactions or [[Carbon Fixation]], occurs in the [[Stroma]] of the [[Chloroplast]]. 
 

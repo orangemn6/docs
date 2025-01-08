@@ -1,7 +1,8 @@
 ## C4 Plants  
+
 [[C4 Plants]] have adapted to hot and dry environments by performing [[Carbon Fixation]] in a specialized way. 
 
-They fix CO2 into a four-carbon compound in [[Mesophyll]] cells, which is then transported to bundle-sheath cells for the [[Calvin Cycle]]. 
+They fix CO2 into a *four-carbon compound* in [[Mesophyll]] cells, which is then transported to bundle-sheath cells for the [[Calvin Cycle]]. 
 
 This spatial separation of processes reduces [[Photorespiration]] by maintaining high CO2 concentrations around [[RuBisCO]]. 
 

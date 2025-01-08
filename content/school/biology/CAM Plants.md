@@ -1,5 +1,6 @@
 ## CAM Plants  
-[[CAM Plants]] (Crassulacean Acid Metabolism) are another adaptation to arid environments. 
+
+[[CAM Plants]] (Crassulacean Acid Metabolism) are another adaptation to arid environments, by separating their processes between night and day
 
 These plants temporally separate [[Carbon Fixation]] from the [[Calvin Cycle]]. 
 
