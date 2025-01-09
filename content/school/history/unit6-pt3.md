@@ -21,3 +21,4 @@
 - Jeferson and Madison opposed the plan, thinking it was an overly broad interpretation of Congress's power
 - **Excise tax**: indirect tax on whiskey when it is shipped
 - **Report on Manufactures** encouraged factories to open in order to strengthen the economy, and encourages americans to buy manufactured goods
+
