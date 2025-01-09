@@ -72,4 +72,18 @@ Farmers inspired by the *French Revolution* mounted a rebellion to protest the W
 Wealthy **French** colony of Saint Domingue is inspired by American Revolution to stage a slave uprising
 - Leads to *abolition* in the colony
 
+### Troubles with Britain
 
+**Britain and France** both try to stop trade to the other as they are both getting supplies from America
+- British navy captures American ships 
+- *Impress* American sailors
+Washington sends *John Jay* to settle the issue, returns with Jay's Treaty
+
+### Jay's Treaty
+
+- Accepts British rights to *stop neutral ships* bound for France
+- British agreed to **give up forts** in Northwest
+- America is number one trader for Britain
+- US had to *pay back all pre-war debts* to Britain
+
+This pisses off both France and Spain
