@@ -32,12 +32,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit6-pt4.md",
+                "file": "school/history/unit6-pt5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit6-pt4"
+              "title": "unit6-pt5"
+            }
+          },
+          {
+            "id": "4d61f0115634bfdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/history/unit 6 moc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unit 6 moc"
             }
           }
         ],
@@ -254,8 +268,11 @@
   },
   "active": "0931a7f42dc7f840",
   "lastOpenFiles": [
+    "school/history/unit5-pt4.md",
+    "school/history/unit6-pt5.md",
     "school/history/unit 6 moc.md",
-    "unit6-pt4.md",
+    "school/history/unit6-pt4.md",
+    "personal/daily/2025-01-11.md",
     "school/history/Unit 5 MOC.md",
     "school/history/unit6-pt3.md",
     "school/biology/Photolysis.md",
@@ -278,9 +295,6 @@
     "school/Links For Diagram.md",
     "personal/daily/template.md",
     "school/biology/Carbon Fixation.md",
-    "school/biology/Veins.md",
-    "school/biology/Structure of Leaf.md",
-    "school/biology/Light-Dependent Reactions.md",
     "school/Pasted image 20250102102315.png",
     "Pasted image 20250102102315.png",
     "school/biology/membraneflowchart.png",
