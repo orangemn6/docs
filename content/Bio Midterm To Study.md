@@ -1,0 +1,9 @@
+Glycolysis
+oxidative phosphorylation 
+Phosphofructokinase
+oxidation/reduction
+endocytosis
+Dehydrogenases
+nuclear matrix/lamina
+alcoholic fermentation
+endergonic and exe

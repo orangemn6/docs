@@ -27,31 +27,31 @@
             }
           },
           {
-            "id": "3ca4a33be98edc7a",
+            "id": "6c54a7426858c4cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit7-pt1.md",
+                "file": "unit7-pt3-teacher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit7-pt1"
+              "title": "unit7-pt3-teacher"
             }
           },
           {
-            "id": "068df95a7499bd38",
+            "id": "26724b7b2fe10999",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit7-pt2.md",
+                "file": "unit7-pt3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit7-pt2"
+              "title": "unit7-pt3"
             }
           }
         ],
@@ -266,10 +266,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "068df95a7499bd38",
+  "active": "26724b7b2fe10999",
   "lastOpenFiles": [
-    "unit7-pt1.md",
+    "unit7-pt3.md",
+    "unit7-pt3-teacher.md",
     "unit7-pt2.md",
+    "Math Midterms To Do.md",
+    "Bio Midterm To Study.md",
+    "personal/daily/2025-01-26.md",
+    "personal/daily/2025-01-21.md",
+    "school/Algebra 2 Midterm Study Guide.md",
+    "personal/daily/2025-01-17.md",
+    "personal/daily/2025-01-19.md",
+    "unit7-pt1.md",
     "Midterm Notes.md",
     "Algebra 2 Midterm Study Guide.md",
     "personal/daily/2025-01-16.md",
@@ -286,15 +295,6 @@
     "school/biology/Photolysis.md",
     "school/biology/Photosystem II.md",
     "school/biology/Non-Cyclic Photosynthesis.md",
-    "personal/daily/2025-01-09.md",
-    "Note Maker GPT Prompt.md",
-    "school/biology/CAM Plants.md",
-    "school/biology/Cyclic Photosynthesis.md",
-    "school/biology/C4 Plants.md",
-    "school/biology/Calvin Cycle.md",
-    "personal/daily/2025-01-07.md",
-    "personal/daily/2025-01-08.md",
-    "school/history/unit6-pt2.md",
     "school/Pasted image 20250102102315.png",
     "Pasted image 20250102102315.png",
     "school/biology/membraneflowchart.png",
