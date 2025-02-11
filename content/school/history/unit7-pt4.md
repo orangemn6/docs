@@ -53,5 +53,36 @@ Despite this, Madison still wins the election and shows that Federalist ideas wi
 - **Tecumseh's Confederacy** 
 	- urged Indian tribes to unite against American encroachment and reject American goods
 - **William Henry Harrison** 
-	- destroyed the town of Prophetstown in a preemptive **Battle of Tippecanoe**
+	- destroyed the town of Prophetstown in a preemptive **Battle of Tippecanoe
+
+## Madison Calls for War with Britain
+- June 1812: Madison asks for a declaration of war on Britain
+- Reasons:
+	- Impressment of sailors
+	- Failure to recognize neutrality
+
+## War of 1812
+- Going into the war the US is weak due to republican policies
+- White House and most of DC is burned
+	- Little to no opposition
+- British troops can now focus on America because Napoleon was defeated
+- Andrew Jackson becomes popular because of army successes
+	- Starts battle even after treaty is signed, ends up winning
+- Sharp increase of nationalism
+- Federalists fall out of favor and cease to be a national party
+	- Era of Good Feelings ensues
+- Monroe wins presidency
+	- Republican party ends up being the only party in power
+
+### Era of good feelings
+- Republicans realize the benefits of a stronger federal government
+- Party splits into 2 factions, one wanting a stronger national government
+- Madison created a new national bank
+	- Controlled state banks and issues a national currency
+	- Charter expired in 1811
+	- Seen as institution of corruption and insiders
+- *Tariff of 1816* passed to protect American manufacturers from cheap British goods
+- Federal road system vetoed by Madison
+	- States granted private charters to build roads
+- 
 
