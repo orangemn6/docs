@@ -84,5 +84,15 @@ Despite this, Madison still wins the election and shows that Federalist ideas wi
 - *Tariff of 1816* passed to protect American manufacturers from cheap British goods
 - Federal road system vetoed by Madison
 	- States granted private charters to build roads
-- 
 
+## Court cases
+
+**Martin vs Hunter** -> US Supreme court is final appeal and handles all interpretations of constitution
+
+**Mcculloch vs Maryland** -> Bank is necessary and proper but states cannot tax federal institutions
+
+**Gibbons vs Ogden** -> Congress has right to regulate interstate commerce which includes transportation
+
+**Fletcher vs Peck** -> limited state power, protected property rights, and promoted economic investments (govt cant negate contract)
+
+**Dartmouth vs Woodward** -> original charter was a contract that could not be changred by the state
