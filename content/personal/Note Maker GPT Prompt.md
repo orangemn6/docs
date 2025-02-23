@@ -1,3 +1,9 @@
+---
+tags:
+  - gpt
+  - personal
+---
+
 For [[chatgpt]]
 
 Here’s a clear and detailed prompt you can use to get this exact output format:

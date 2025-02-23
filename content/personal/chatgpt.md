@@ -5,6 +5,7 @@ tags:
   - personal
   - school
   - links
+  - gpt
 ---
 ### TL;DR
 
