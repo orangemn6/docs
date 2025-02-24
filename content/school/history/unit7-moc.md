@@ -7,7 +7,7 @@ tags:
 ![[unit7-pt2]]
 ![[unit7-pt3]]
 ![[unit7-pt3-teacher]]
-![[unit7-pt4]]
+![[school/history/unit7-pt4]]
 
 
 [[unit7-sg]]
