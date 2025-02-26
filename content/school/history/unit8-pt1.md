@@ -4,13 +4,16 @@
 - Mills and factories
 - Abundant natural resources
 - Eli whitny developed the cotton gin
+- States allowed companies to sell stock
 
 ## Life in Industrial North
-- Artisans struggle to compete with facroties
-	- Artisan repuvlicanism: independence of small scale producers
+- Artisans struggle to compete with factories
+	- Artisan republicanism: independence of small scale producers
 - Trade unions born out of frustrations of low wages
 - Urbanization
-- Canals built to connect waterways
+	- Canals built to connect waterways
+	- Transportation
+		- Steamboats, railways
 - Market revolution:
 	- Manufactured goods cheaper and more widely available
 	- Farms become more commercial
@@ -22,6 +25,8 @@
 	- Profitable slave trade
 - Southern society had classes
 	- Planter elite: 20+ slaves, large plantations, 50% of cotton output, dominate politics
+		- Desperately want the expansion of slavery
+		- Slaves are an asset
 	- Small Planters: 1-5 slaves, few hundred acres of land
 	- Yeoman Farmers: Landowning small farmers, majority of population
 	- Landless whites: Laborers, poor, rural, farmed less productive land
