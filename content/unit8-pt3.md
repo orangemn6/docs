@@ -79,5 +79,17 @@
 	- Briscoe vs Kentycky Bank
 		- Bank owned by the state can issue currency despite constitution disallowing issuing of "bills of credit"
 
+## Martin Van Burens Presidency
 
-
+- Jackson chooses Van Buren as his successor
+	- Chooses to respect 2 term soft limit
+- **Panic of 1837**
+	- Financial crisis that leads to major economic depression that would last through to the 1840s
+		- Doesn't end until California gold rush
+	- Bank of England limits credit given to the US
+	- Everyone had to withdraw gold and silver to pay back
+	- Not enough silver and gold to get to pay back loans
+		- Lending slows
+	- Bank closures
+- Americans blamed Jackson, but it was due to Van Buren's Laissez Faire approach
+- Sets stage for first Whig president
