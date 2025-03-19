@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aacd28ad092de7d4",
+            "id": "2bb4e9235a2641ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/history/unit9-pt1.md",
+                "file": "school/history/unit9-pt2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit9-pt1"
+              "title": "unit9-pt2"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/history/unit9-pt1.md",
+                "file": "school/history/unit9-pt2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for unit9-pt1"
+              "title": "Backlinks for unit9-pt2"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "school/history/unit9-pt1.md",
+                "file": "school/history/unit9-pt2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of unit9-pt1"
+              "title": "Graph of unit9-pt2"
             }
           }
         ],
@@ -233,11 +233,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "aacd28ad092de7d4",
+  "active": "2bb4e9235a2641ff",
   "lastOpenFiles": [
+    "school/history/unit9-moc.md",
+    "school/history/unit9-pt2.md",
+    "school/history/unit9-pt1.md",
     "personal/daily/2025-03-10.md",
     "personal/daily/2025-03-14.md",
-    "school/history/unit9-pt1.md",
     "school/history/unit7-moc.md",
     "school/history/unit8-moc.md",
     "Dashboard.canvas",
@@ -261,9 +263,7 @@
     "school/biology/Pasted image 20250102102315 1.png",
     "school/history/unit7-pt4.md",
     "personal/daily/2025-02-12.md",
-    "school/history/Midterm Notes.md",
     "school/math and spanish",
-    "school/history/unit7-pt3.md",
     "school/biology/Pasted image 20250102102315.png",
     "Pasted image 20250102102315.png",
     "school/biology/membraneflowchart.png",
