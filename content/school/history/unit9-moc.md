@@ -1,2 +1,6 @@
 [[unit9-pt1]]
 [[unit9-pt2]]
+[[unit9-pt3]]
+[[Calhoun Slavery as a Positive Good Accelerated.pdf]]
+[[Edmund Ruffin Political Economy of Slavery.pdf]]
+[[Hammond Mudsill Theory.pdf]]
