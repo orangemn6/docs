@@ -77,6 +77,7 @@
 	- *Fremont* staged a revolt and proclaimed the independence of the *Bear Flag Republic*
 - **Treaty of Guadalupe Hidalgo**
 	- Mexico cedes *Alta California to the US*
+		- Full area known as the **Mexican Cession**
 	- Rio Grande is the southern border of Texas
 	- US pays $15 million and agreed to pay $3.25 million in Mexican debt
 - Polk completes **Manifest Destiny in one term**
