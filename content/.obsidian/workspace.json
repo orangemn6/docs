@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08baa7a590c87249",
+        "id": "8c9632430498fa3e",
         "type": "tabs",
         "children": [
           {
-            "id": "8752651bfdba1daa",
+            "id": "30fa5213f5a600eb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "school/history/Calhoun Slavery as a Positive Good Accelerated.pdf"
+                "file": "mods.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Calhoun Slavery as a Positive Good Accelerated"
+              "icon": "lucide-file",
+              "title": "mods"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "47351516cfa257ca",
@@ -231,8 +232,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8752651bfdba1daa",
+  "active": "30fa5213f5a600eb",
   "lastOpenFiles": [
+    "mcalts.md",
+    "personal/daily/2025-03-30.md",
+    "mods.md",
+    "personal/Free Music.md",
+    "personal/daily/2025-03-29.md",
+    "school/history/Calhoun Slavery as a Positive Good Accelerated.pdf",
     "school/history/unit9-moc.md",
     "school/history/unit9-pt3.md",
     "Dashboard.canvas",
@@ -255,10 +262,6 @@
     "personal/daily/2025-02-13.md",
     "personal/daily/2025-02-19.md",
     "personal/daily/2025-02-18.md",
-    "personal/Humanizer GPT Prompt.md",
-    "school/biology/Bio Midterm To Study 1.md",
-    "school/biology/Links For Diagram 1.md",
-    "personal/Note Maker GPT Prompt.md",
     "school/biology/Pasted image 20250102102315 1.png",
     "school/math and spanish",
     "school/biology/Pasted image 20250102102315.png",
@@ -271,7 +274,6 @@
     "personal/reads",
     "saved",
     "content/saved",
-    "content",
-    "personal/saved"
+    "content"
   ]
 }
