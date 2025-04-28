@@ -49,9 +49,4 @@
 - Southerners began to question whether the Democrats would protect their interests
 - Democrat party is split over slavery and nominates 2 candidates
 
-### The Election of Abraham Lincoln
-- Beats Breckenridge, Bell, and Douglas
-- Lincoln wins every single free state except new jersey
-	- Won the presidency without a single electoral vote from the south and less than 1% of the popular vote
-- South Carolina immediately secedes from the union
 

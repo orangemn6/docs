@@ -1,6 +1,8 @@
 
 ```javascript
 
+//Input comes from a code.org App Lab UI
+//Output is displayed on the same UI
 // Library collection (array of objects)
 var bookList = [];
 

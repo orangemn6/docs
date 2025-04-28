@@ -5,12 +5,12 @@
 
 ### 🔁 **Genetic Recombination**
 
-| Type | What It Means | Example |
-|------|----------------|--------|
-| **Crossing Over** | Recombination between **linked genes** on the same chromosome | AaBb x aabb → more parentals than recombinants |
-| **Independent Assortment** | Recombination between **unlinked genes** (on different chromosomes) | AaBb x aabb → 1:1:1:1 expected |
-| **More recombinants** = genes are farther apart on a chromosome | |
-| **Recombination Frequency Formula** = (recombinants ÷ total offspring) × 100 = % or **map units** |
+| Type                                                                                              | What It Means                                                       | Example                                        |     |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------- | --- |
+| **Crossing Over**                                                                                 | Recombination between **linked genes** on the same chromosome       | AaBb x aabb → more parentals than recombinants |     |
+| **Independent Assortment**                                                                        | Recombination between **unlinked genes** (on different chromosomes) | AaBb x aabb → 1:1:1:1 expected                 |     |
+| **More recombinants** = genes are farther apart on a chromosome                                   |                                                                     |                                                |     |
+| **Recombination Frequency Formula** = (recombinants ÷ total offspring) × 100 = % or **map units** |                                                                     |                                                |     |
 
 - **Max recombination frequency** = **50%** = unlinked  
 - If genes are **linked**, recombination frequency is **<50%**  
