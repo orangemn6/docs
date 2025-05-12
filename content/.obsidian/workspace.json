@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "unit11-moc"
             }
+          },
+          {
+            "id": "ce8da9efabf6c6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit12-pt1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unit12-pt1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,10 +248,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bbebe479837c38fb",
+  "active": "ce8da9efabf6c6af",
   "lastOpenFiles": [
-    "unit11-pt4.md",
     "unit11-moc.md",
+    "unit12-pt1.md",
+    "unit11-pt4.md",
     "unit11-pt3.md",
     "unit11-pt2.md",
     "personal/daily/2025-04-14.md",
@@ -261,7 +277,6 @@
     "personal/Free Music.md",
     "personal/daily/2025-03-29.md",
     "school/history/Calhoun Slavery as a Positive Good Accelerated.pdf",
-    "school/history/unit9-pt3.md",
     "Dashboard.canvas",
     "school/biology/Pasted image 20250102102315 1.png",
     "school/math and spanish",
