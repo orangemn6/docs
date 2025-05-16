@@ -41,3 +41,10 @@
 - Congress fell 1 vote short after 11 weeks in order to remove Johnson
 - Dissenting Republicans felt the precedent woul.d be too dangerous abnd would be damaging to checks and balances
 - Ulysses S Grant beats Johnson in the 1868 election
+
+## Limits of Reform
+- 15th amendment allowed all males to vote no matter what 
+- Made slaves full citizens
+- African Americans voted in large numbers in 1870, aligning themselves with the Republican Party
+- **Civil Rights Act of 1875**: Full and equal access to jury service and to transportation and public accomodations regardless of race
+- Womens rights were not yet considered as much as men.
