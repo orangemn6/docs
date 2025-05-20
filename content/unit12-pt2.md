@@ -48,3 +48,5 @@
 - African Americans voted in large numbers in 1870, aligning themselves with the Republican Party
 - **Civil Rights Act of 1875**: Full and equal access to jury service and to transportation and public accomodations regardless of race
 - Womens rights were not yet considered as much as men.
+	- Did not find support among radical republicans as women would not vote for them
+- Crumbles from pressure from the Southern Democrats in Southern states and eventually the north gives up
