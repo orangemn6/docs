@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit11-moc.md",
+                "file": "school/history/unit12-pt4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit11-moc"
+              "title": "unit12-pt4"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit12-pt1.md",
+                "file": "school/history/unit12-pt1.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit12-pt2.md",
+                "file": "school/history/unit12-pt2.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unit12-pt3.md",
+                "file": "school/history/unit12-pt3.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,8 +63,7 @@
               "title": "unit12-pt3"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,24 +275,27 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2828deccc68a2f19",
+  "active": "bbebe479837c38fb",
   "lastOpenFiles": [
-    "unit12-pt1.md",
-    "unit12-pt2.md",
-    "unit12-pt3.md",
-    "unit11-moc.md",
-    "unit11-pt4.md",
-    "unit11-pt3.md",
-    "unit11-pt2.md",
+    "school/history/unit12-moc.md",
+    "school/history/unit12-pt3.md",
+    "school/history/unit11-moc.md",
+    "school/history/unit12-pt4.md",
+    "school/history/unit12-pt1.md",
+    "school/history/unit12-pt2.md",
+    "school/biology/ATP.md",
+    "school/history/unit11-pt4.md",
+    "school/history/unit11-pt3.md",
+    "school/history/unit11-pt2.md",
     "personal/daily/2025-04-14.md",
     "personal/daily/2025-04-30.md",
-    "unit11-pt1.md",
+    "school/history/unit11-pt1.md",
     "school/history/unit10-moc.md",
     "school/history/unit10-pt4.md",
     "school/history/unit10-pt3.md",
-    "genetics-sg.md",
-    "CSP PPR.md",
-    "AP CSP Performance Task.md",
+    "school/biology/genetics-sg.md",
+    "school/compsci/CSP PPR.md",
+    "school/compsci/AP CSP Performance Task.md",
     "school/history/unit10-pt2.md",
     "school/history/unit10-pt2-brus.md",
     "school/history/unit10-pt1.md",
@@ -301,9 +303,6 @@
     "personal/daily/2025-04-02.md",
     "personal/daily/2025-04-01.md",
     "school/history/unit9-moc.md",
-    "mods.md",
-    "mcalts.md",
-    "personal/daily/2025-03-30.md",
     "school/history/Calhoun Slavery as a Positive Good Accelerated.pdf",
     "Dashboard.canvas",
     "school/biology/Pasted image 20250102102315 1.png",
