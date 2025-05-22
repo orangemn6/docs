@@ -31,3 +31,12 @@
 		- Money was taken out of payment for the year
 	- **debt peonage** occured from **crop lien** which caused exploitation and cycle of poverty
 
+## Jim Crow Laws
+
+- Enforced social segregation
+	- Further legitimized by **Plessy vs Ferguson**
+	- Separate but Equal doctrine, allowed to separate
+- Overturned by **Brown vs Board**
+	- Unanimous decision that segregation of schools is unconstutional
+- Tried to limit voting successfully of African Americans
+	- Poll tax, literacy tests, grandfather clauses
