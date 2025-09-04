@@ -3,7 +3,7 @@ title: DAMN.
 tags:
   - listens/album
 ---
-### By [[Kendrick|Kendrick Lamar]]
+### By [[kendrick|Kendrick Lamar]]
 
 ![](https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png)
 
@@ -38,7 +38,7 @@ tags:
 
 [[DUCKWORTH]]
 
-**Overview**: A more direct and concise album, _DAMN._ examines dualities such as love vs. lust, pride vs. humility, and fear vs. faith. It has a [[personal/index|personal]] and spiritual undertone, questioning destiny, karma, and morality.
+**Overview**: A more direct and concise album, _DAMN._ examines dualities such as love vs. lust, pride vs. humility, and fear vs. faith. It has a [[personal/misc/index|personal]] and spiritual undertone, questioning destiny, karma, and morality.
 
 **Notable Tracks**: _“HUMBLE.,” “DNA.,” “LOVE.”_
 

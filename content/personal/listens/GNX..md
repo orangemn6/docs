@@ -3,7 +3,7 @@ title: GNX.
 tags:
   - listens/album
 ---
-### By [[Kendrick|Kendrick Lamar]]
+### By [[kendrick|Kendrick Lamar]]
 
 ![](https://upload.wikimedia.org/wikipedia/en/9/93/Kendrick_Lamar_-_GNX.png)
 

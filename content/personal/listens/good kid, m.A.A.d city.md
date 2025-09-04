@@ -3,7 +3,7 @@ title: good kid, m.A.A.d city
 tags:
   - listens/album
 ---
-### By [[Kendrick|Kendrick Lamar]]
+### By [[kendrick|Kendrick Lamar]]
 
 ![](https://rustandwax.com/cdn/shop/products/e81f0700-2292-4d60-a1ea-a2924b020f15.jpg?v=1600206793&width=400)
 
