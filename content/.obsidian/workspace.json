@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d0436d3a8609cca",
+        "id": "9bedad51a152c815",
         "type": "tabs",
         "children": [
           {
-            "id": "6b9dac6f3d8ec604",
+            "id": "20a7bdb56460dbf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/grade-11/AP GoPo/Unit 1 9-3-25.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unit 1 9-3-25"
+              "title": "New tab"
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/grade-11/AP GoPo/Unit 1 9-3-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unit 1 9-3-25"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/grade-11/AP GoPo/Unit 1 9-3-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unit 1 9-3-25"
+              "title": "Outgoing links"
             }
           },
           {
@@ -129,7 +123,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -218,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,11 +227,32 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obisidian-note-linker:Note Linker": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6b9dac6f3d8ec604",
+  "active": "29607a31f8caf494",
   "lastOpenFiles": [
+    "school/grade-10/history/Test 5 FRQ.md",
+    "school/grade-11/AP GoPo/Unit 1 9-3-25.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "Dashboard.canvas",
     "school/compsci/journals/unit1-2.md",
     "school/biology/Photorespiration.md",
     "school/biology/Links For Diagram.md",
@@ -249,21 +265,6 @@
     "school/biology/membraneflowchart.png",
     "school/biology/Enzyme Specificity.md",
     "school/compsci/The Digital Divide.md",
-    "school/biology/Cytochrome Complex.md",
-    "school/biology/Exergonic Reactions.md",
-    "school/history/unit5-answers-full.md",
-    "school/biology/Aerobic Respiration.md",
-    "personal/Vihan Meeting Notes 12-30.md",
-    "school/biology/Links For Diagram 1.md",
-    "school/biology/Cellular Respiration.md",
-    "school/biology/Endosymbiotic Theory.md",
-    "school/biology/Photophosphorylation.md",
-    "school/biology/Endergonic Reactions.md",
-    "school/compsci/Impacts of Computing.md",
-    "school/biology/Bio Midterm To Study.md",
-    "school/biology/organelles-info-chart.md",
-    "school/biology/Oxygen as a Byproduct.md",
-    "school/compsci/Responsible Computing.md",
     "school/history/Hammond Mudsill Theory.pdf",
     "school/biology/Pasted image 20250102102315.png",
     "school/biology/Pasted image 20250102102315 1.png",
@@ -275,8 +276,6 @@
     "school/history",
     "school/compsci",
     "school/math and spanish",
-    "Dashboard.canvas",
-    "school/grade-11/AP CSA",
     "school/grade-10/biology/Pasted image 20250102102315 1.png",
     "school/grade-10/biology/Pasted image 20250102102315.png",
     "Pasted image 20250102102315.png",
