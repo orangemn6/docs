@@ -47,3 +47,7 @@
 		- Democracy works best so that the most possible people's interests are served
 		- National groups like the NAACP that try to push policies and organize votes
 	- Elite
+- **Dinner With Democracy**
+	- Dining with neighbors is people talking about themselves
+	- If you are a representative, you need to help ALL people, and there is a lot of pressure
+		- Less empathy and connection, more of a battle to keep job

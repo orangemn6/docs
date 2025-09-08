@@ -18,5 +18,5 @@ Many notes that I take are on paper, and are later [[chatgpt|post-processed]].
 
 ## For [[Personal]]
 
-My [[personal/misc/index|personal]] notes are mostly writings about my productivity or collections of things I find on the internet. I aim to keep an obsidian-compliant notebook with linked [[A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum|notes and tags]]. The [[resources|resources]] page is where I dump links I need to look at later. If I am reading an article and something stands out to me, I may make a new note with my thoughts, while also saving the article to [[personal/saved/index|saved]].
+My [[personal/misc/index|personal]] notes are mostly writings about my productivity or collections of things I find on the internet. I aim to keep an obsidian-compliant notebook with linked [[A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum|notes and tags]]. The [[personal/misc/resources|resources]] page is where I dump links I need to look at later. If I am reading an article and something stands out to me, I may make a new note with my thoughts, while also saving the article to [[personal/saved/index|saved]].
 

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHome",
       "LiFlag",
       "LiHouse",
       "LiComputer",
-      "LiBeaker",
-      "LiApple"
+      "LiBeaker"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "school/grade-11/AP Chem": "LiBeaker",
   "school/grade-11/AP CSA": "LiComputer",
   "school/grade-11/AP GoPo": "LiHouse",
-  "school/grade-11/AP US History": "LiFlag"
+  "school/grade-11/AP US History": "LiFlag",
+  "Dashboard.canvas": "LiHome"
 }
