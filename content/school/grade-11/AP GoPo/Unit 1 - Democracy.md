@@ -51,3 +51,7 @@
 	- Dining with neighbors is people talking about themselves
 	- If you are a representative, you need to help ALL people, and there is a lot of pressure
 		- Less empathy and connection, more of a battle to keep job
+- **DOI -> Goals in Question**
+	- Articles of Confederation are the first answer
+	- Constitution becomes "the answer" to the goals set out in the DOI
+- 

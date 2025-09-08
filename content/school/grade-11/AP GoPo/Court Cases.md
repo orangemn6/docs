@@ -19,6 +19,6 @@ Summary: In [Texas v. Johnson](https://www.google.com/search?sca_esv=fe03dc12a9
 
 # Kelo vs New London
 
-**Summary**: Kelo v. City of New London (2005) was a landmark Supreme Court case where the city of New London, Connecticut, used eminent domain to seize private homes for a private economic development project, arguing it served a "public use".The Court ruled 5-4 in favor of the city, establishing that economic development could qualify as public use under the Fifth Amendment's Takings Clause. This decision sparked significant public backlash, leading to over 40 states enacting laws to restrict eminent domain for private development
+**Summary**: Kelo v. City of New London (2005) was a landmark Supreme Court case where the city of New London, Connecticut, used eminent domain to seize private homes for a private economic development project, arguing it served a "public use".The Court ruled 5-4 in favor of the city, establishing that economic development could qualify as public use xunder the Fifth Amendment's Takings Clause. This decision sparked significant public backlash, leading to over 40 states enacting laws to restrict eminent domain for private development
 
 **This is an example of Elite democracy because the decisions were made by a city government without being started by the people, and being sold to private contractors.**
