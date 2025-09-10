@@ -68,3 +68,33 @@
 	- Creates a friendship between the states but has some centralized powers
 	- System of government designed to not do anything
 		- Congress -> State governments actually have the power
+	- Congress only had select powers:
+		- Foreign policy, war, coin, weights, punish pirates, appoint officers, borrow money
+	- States could do everything else
+		- Taxation, enforcement of laws, courts, regulate trade in their state
+	- Unicameral congress that can only do what is said in the AoC
+	- For all legislative laws, 9/13 states had to approve
+		- But, it was up to the states to execute the laws
+	- To amend the AoC, it needed unanimously all 13 states
+	- Limited powers to prevent tyranny
+	- Central government cannot tax
+		- No way to raise money except for the national fund
+		- All taxation occurred at the state level
+	- States enforce all laws, there is no president
+	- No judicial branch, states decide everything
+		- Can't regulate interstate commerce
+- # Shays Rebellion
+	- Debt from war (debtor)
+	- Could land in debtor prison, fought for the country but could be jailed
+		- Would lose his right to vote that he fought for
+	- Blame is on national government for not paying back war bonds
+		- Congress doesn't have money to pay these bonds 
+		- Economy is tanked because there is no money and too many currencies
+	- State government is dominated by rich men from Boston
+		- They have their own issues with debt at the state level and decide to tax people based on the amount of land they own
+			- Falls on farmers, who have no money
+		- County courts begin proceedings to seize farmers' land because they can't pay back their debt and taxes
+	- Shays and like-minded people rebel and begin seizing courthouses and stopping the functions of government
+	- Federal government/Congress do not have any power/money to quell the rebellion
+	- Wealthy people in Boston get together and hire a private army to put the rebellion down
+		- Not how government should function

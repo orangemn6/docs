@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/grade-11/AP GoPo/Court Cases.md",
+                "file": "school/grade-11/AP GoPo/Unit 1 - Democracy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Court Cases"
+              "title": "Backlinks for Unit 1 - Democracy"
             }
           },
           {
@@ -115,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school/grade-11/AP GoPo/Unit 1 - Democracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Unit 1 - Democracy"
             }
           },
           {
@@ -143,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/grade-11/AP GoPo/Unit 1 9-3-25.md",
-                "followCursor": false,
+                "file": "school/grade-11/AP GoPo/Unit 1 - Democracy.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 1 9-3-25"
+              "title": "Outline of Unit 1 - Democracy"
             }
           },
           {
@@ -163,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "5d5fd09595ba18a3",
