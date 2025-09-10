@@ -54,4 +54,17 @@
 - **DOI -> Goals in Question**
 	- Articles of Confederation are the first answer
 	- Constitution becomes "the answer" to the goals set out in the DOI
-- 
+- Putnam has a bleak view on participatory democracy
+	- Fearmongering by the media creates fear and negative social capital
+- # Articles of Confederation
+	- Creates a confederacy
+		- System of government with weak federal and strong state governments
+		- Direct reaction to British tyrannical government
+	- People in the south and north have distrust and different economies, cultures, etc
+		- Want to govern themselves but want the benefit of being one nation
+	- This is participatory government because it is a more intimate relationship in between the citizens and the government
+		- More likely to speak to lowest level that is closer to you
+		- Government is responsive to the people
+	- Creates a friendship between the states but has some centralized powers
+	- System of government designed to not do anything
+		- Congress -> State governments actually have the power
