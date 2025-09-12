@@ -98,3 +98,57 @@
 	- Federal government/Congress do not have any power/money to quell the rebellion
 	- Wealthy people in Boston get together and hire a private army to put the rebellion down
 		- Not how government should function
+	- Wealthy planters would benefit off stronger government
+		- No taxation
+		- State controlled trade, no regulations
+	- Going into constitutional convention with ideas of strengthening the government
+- # Constitutional Convention
+	- Met in Philadelphia, 1787
+	- 55 Delegates behind closed doors
+	- Encourages free expression with no media contact
+	- **Virginia Plan**
+		- Developed by James Madison
+		- Calls for 3 branch bicameral 
+		- Legislature based off of population of state
+			- Benefits larger states but represents the population better
+		- Rejects state sovereignty
+			- National government has supremacy over state governments
+	- **New Jersey Plan**
+		- Every state gets one vote no matter their population
+		- Unicameral legislature
+		- Gives additional powers to Congress
+			- Regulating commerce, raising revenue
+		- National Supremacy
+	- **Connecticut Plan - Compromise**
+		- Takes the two plans and combines them
+		- Bicameral legislature
+			- Senate: 2 votes per state
+			- House of Representatives: votes based off of population
+		- National Supremacy
+		- Congress gets additional powers
+	- A compromise between the large and small states
+- **Slavery**
+	- A large portion of the southern population is slaves
+	- Aren't considered citizens and can't vote
+	- Southern states want the slaves to be included in the population count, but it is a fundamental hypocrisy
+		- Leads to 3/5 compromise, where a slave is worth 3/5 people
+		- Boosts Southern numbers and the amount of Southern representatives
+	- **Slave Trade Compromise**
+		- Cannot discuss or ban slave importation for 20 years
+		- Fugitive slave clause 
+			- Regardless of what state a slave flees to, state lines can be passed to catch them
+- # Constitutional Principles
+	- Protect the way that the government can affect the people's rights
+	- Separation of powers
+		- Legislative
+		- Executive
+		- Judicial
+		- Designed so that the federal government doesn't become a tyranny
+		- Each branch checks and balances the power of the others
+			- Cannot act independently of each other
+	- Federalism
+		- Separation of powers between the state and federal governments
+	- Limited Government
+		- Government can only do what the law says
+	- Popular Sovereignty
+		- Government exists for the people and their power rests with the people
