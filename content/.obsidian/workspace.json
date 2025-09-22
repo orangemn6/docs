@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constitution.md",
+                "file": "school/grade-11/AP GoPo/Unit 1/Constitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Constitution"
             }
+          },
+          {
+            "id": "e6bbc482ffc2ec73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/grade-11/AP GoPo/Unit 1/Unit 1 Important Documents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit 1 Important Documents"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "47351516cfa257ca",
@@ -254,12 +267,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3904d3f0b1b6c0e3",
+  "active": "e6bbc482ffc2ec73",
   "lastOpenFiles": [
-    "school/grade-11/AP GoPo/Unit 1 - Democracy.md",
-    "Constitution.md",
-    "school/grade-11/AP GoPo/Court Cases.md",
-    "school/grade-11/AP GoPo/gopo-moc.md",
+    "school/grade-11/AP GoPo/Unit 1",
+    "school/grade-11/AP GoPo/Unit 1/Constitution.md",
+    "school/grade-11/AP GoPo/Unit 1/Unit 1 Important Documents.md",
+    "school/grade-11/AP GoPo/Unit 1/Unit 1 - Democracy.md",
+    "school/grade-11/AP GoPo/Unit 1/Court Cases.md",
+    "school/grade-11/AP GoPo/Unit 1/gopo-moc.md",
     "personal/saved/A Guide On Links vs. Tags In Obsidian - Knowledge management - Obsidian Forum.md",
     "Dinner With Democracy.md",
     "school/grade-10/history/Test 5 FRQ.md",
@@ -282,8 +297,6 @@
     "school/biology/Photorespiration.md",
     "school/biology/Links For Diagram.md",
     "school/biology/Activation Energy.md",
-    "school/history/unit7-pt3-teacher.md",
-    "school/biology/Antenna Complexes.md",
     "school/biology/membraneflowchart.png",
     "school/history/Hammond Mudsill Theory.pdf",
     "school/biology/Pasted image 20250102102315.png",

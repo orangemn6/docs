@@ -1,0 +1,32 @@
+
+
+## Federalists
+- Federalist Papers
+	- Madison, Hamilton, Jay
+- Most famous is **Federalist 10**
+	- Factions have always existed and are necessary for people to have choice
+	- Concerned about violent factions like the KKK
+		- Only want what is good for their faction
+	- Discusses how factions are essential for liberty
+	- Can't be removed, but must be controlled
+	- Solution is to have a large republic that will control the effects of factions
+		- In a direct democracy, a faction could become a majority and take control
+	- Opinions have to pass through a moderating effect from representatives
+	- Madison wants a strong participatory model of democracy
+	- If you expand the country over different environments you will have different cultures 
+		- Natural enemies and factions that oppose each other
+- **Federalist 51**
+	- Checks and balances and separation of powers
+	- ambition must be made to counteract ambition
+		- We need to be wary of ambitious politicians and create a system that limits their powers and ambitions
+		- Done through power limitation
+	- Government must be enabled to control the governed
+	- Precautions must be taken to prevent tyranny
+	- Argues for federalism
+- **Brutus 1**
+	- Consolidation of power in the federal government
+		- Necessary and Proper clause
+		- Supremacy clause
+- **Antifederalist 9**
+	- Satires the government for being too aristocratical and elite
+	- Senate was chosen by state legislature
