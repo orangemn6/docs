@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Unit 1 Important Documents"
             }
+          },
+          {
+            "id": "bb2b88adf2b7691c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/grade-11/AP GoPo/Unit 2/Federalism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Federalism"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,11 +281,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e6bbc482ffc2ec73",
+  "active": "bb2b88adf2b7691c",
   "lastOpenFiles": [
+    "school/grade-11/AP GoPo/Unit 1/Unit 1 Important Documents.md",
+    "school/grade-11/AP GoPo/Unit 2/Federalism.md",
+    "school/grade-11/AP GoPo/Unit 2",
     "school/grade-11/AP GoPo/Unit 1",
     "school/grade-11/AP GoPo/Unit 1/Constitution.md",
-    "school/grade-11/AP GoPo/Unit 1/Unit 1 Important Documents.md",
     "school/grade-11/AP GoPo/Unit 1/Unit 1 - Democracy.md",
     "school/grade-11/AP GoPo/Unit 1/Court Cases.md",
     "school/grade-11/AP GoPo/Unit 1/gopo-moc.md",
@@ -307,8 +323,6 @@
     "school/biology",
     "personal/daily",
     "school/history",
-    "school/compsci",
-    "school/math and spanish",
     "school/grade-10/biology/Pasted image 20250102102315 1.png",
     "school/grade-10/biology/Pasted image 20250102102315.png",
     "Pasted image 20250102102315.png",
