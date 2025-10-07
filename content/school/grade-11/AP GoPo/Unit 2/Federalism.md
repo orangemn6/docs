@@ -157,4 +157,10 @@ Dobbs vs Jackson Womens Health
 	- Made sure underachieving schools were put on notice
 		- Forced to reorganize
 	- Enforcing national standards and forcing states to adhere ot them by tying money to it
-- 
+- Every Student Succeeds Act 2015
+	- Gives more latitutde to the states than the NCLB
+	- Testing grades 3-8 and junior year
+- Zelman v Simmons-Harris
+- Trends more towards the states leverage to be able to decide their own standards
+- Government gets more involved in state issues during the new deal and the great society using the commerce clause
+- In the early 200s and 2010s the federal govenrment gets more involved in education
