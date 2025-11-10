@@ -164,3 +164,26 @@ Dobbs vs Jackson Womens Health
 - Trends more towards the states leverage to be able to decide their own standards
 - Government gets more involved in state issues during the new deal and the great society using the commerce clause
 - In the early 200s and 2010s the federal govenrment gets more involved in education
+
+# Democratic Arguments
+- Representatives make laws on behalf of their state because they know what is happening and can make better legislation
+- Today, the internet allows spread of information through states much faster and cheaply
+- Fly to congresses, go to state website, etc
+
+# Expansion of Federal Power
+- Federal power expands over time 
+- We go from dual federalism to more of a cooperative federalism
+- Using federal power to making peoples lives better
+
+# Nixon-Clinton Devolution
+- Block grants -> more authority on how to use the money
+- Revenue sharing
+	- Ends in 1986
+	- Money is shared without any strings attached
+- Clinton
+	- Welfare reform
+	- Republican Revolution ends in 1994
+	- Newt Gingrich 
+	- Use of federal government to make people's lives better
+- Welfare Reform
+	- Welfare is government funds providing to people in need
