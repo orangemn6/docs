@@ -30,4 +30,36 @@
 - Crisis management
 	- Creates and leads teams of peoole
 	- Inspiration for the people
-- 
+- Political Party Leader
+	- Campaigns and is the figurehead of the party
+	- Nominated by the party to lead them
+	- Even if people start to go against them, the president is still the face of the party
+		- For example House republicans vs Maga trump
+
+# Powers of the President
+
+## Formal Powers
+- Listed specifically in the constitution
+- Make sure that laws are executed
+- Nominates officials
+	- With senate confirmaiton
+- Request written opinions from administrative officials
+- Fill administrational vacancies during congressional recess
+- Foreign Policy (head of state)
+	- Commander in chief or army
+	- Make treaties with other countries
+	- nominate + receive ambassadors
+	- confer diplomatic recognition on other governments
+- Judicial
+	- Grant pardons and reprieves for everything except impeachment
+	- Nominate federal judges
+- Legislative - head of government
+	- Recommend legislation to Congress
+	- Present information in state of the union address
+	- Convene congress on extraordinary occasions
+	- Adjourn Congress if House and Senate cannot agree
+	- Veto legislation
+		- Formal rejection by president of a bill that has passed both houses, has 10 days or else it is passed. 
+		- Vetos can be overridden with a 2/3 vote.
+	- Pocket Veto
+		- An indirect veto where the president doesnt sign a bill over the time which Congress isn't in session.
