@@ -1,5 +1,5 @@
 > Alexander Hamilton's Federalist No. 70 argues for a single, energetic executive to effectively govern the new U.S. government. The essay explains that a unitary executive is necessary for national defense, law enforcement, and protecting liberty because a single leader can act decisively, unlike a plural executive which is prone to conflict and inaction
-
+#gopo 
 
 ## The President
 - Head of the executive branch and tasked with carrying out the nation's laws
@@ -63,3 +63,71 @@
 		- Vetos can be overridden with a 2/3 vote.
 	- Pocket Veto
 		- An indirect veto where the president doesnt sign a bill over the time which Congress isn't in session.
+
+# Informal Powers
+- Unilateral Presidential Action
+	- Bargaining and persuasion
+		- Sets priorities for congress and attempts to get their own agenda passed
+	- Bully pulpit: go to the public and speak to get support
+	- Issuing executive orders
+		- Regulations to run the government and direct the bureaucracy. These are the presidents instructions on how to implement a law or policy. Executive orders dont require congressional approval and expire at the end of the presidents term
+	- Issuing signing statements
+		- Gives the presidents intended interpretation of a bill signed by congres
+	- Negotiating executive agreements
+		- Agreements with heads of foreign governments that arent approved by the senate. Not as durable as a treaty and expire when the presidents term is over
+		- Often kept secret from the public and congress
+	- Executive Privilege
+		- Right claimed by president to keep information and records confidential from Congres and the public
+			- Usually details that led to decision made by the president
+
+# The Cabinet
+- Group of presidential advisers including the heads of the executive departments, vice president, attorney general, and other officials chosen by the president
+- Cabinet heads are confirmed by the senate
+- Cabinet members act as a link between the president and federal beuareucracy and will often leave at the end of a presidents itme in office
+- In choosing cabinet members presidents have to consider a lot of factors
+	- Don't want to challenge their own executive power but also need someone popular with the people
+	- Good base to be seen as representing the people and considerate of all political opinions
+
+# Modern Presidency (FDR forward)
+- The president now regularly initiates legislation
+- The president now has greater authority over trade policy and war
+- The president is now the focus of greater public attention
+- Large staff working for the president housed in the **EOP** (executive office of the president)
+	- Created by FDR to meet the demands of the great depression
+	- Includes:
+		- Office of management and budget
+		- National Security Council
+		- Council of Economic Advisors
+- Vice President
+	- Serves as president of Senate but cannot debate, votes in case of a tie
+	- Assumes the office of president if the sitting president can no longer serve
+	- 25th amendment allows the vice president to take power if the president cant perform their duties
+	- Politically VP candidates are chosen to round otu a presidential ticket or to win battleground states. For example, Trump chose Pence because it could win him evangelical christian states
+	- Can't be from the same state as the president
+- First Spouse (Lady)
+	- Wife or husband of the president doesnt have a formal role but is a key advisor
+	- Chooses policy areas to use their influence and visibility to call attention to certain issues
+		- Michelle Obama chose to focus on nutrition and obesity while Melania Trump focused on bullying
+# Limits on Executive Power
+
+- Divided government
+- Senate checks on judicial, cabinet, executive branch office picks, treaties (2/3 of senate vote)
+- Override vetoes (2/3 of both houses of Congress)
+- Judicial Review
+
+# War Powers Resolution (1973)
+
+- President may only introduce armed forces into conflict if:
+	- Declaration of war by Congress
+	- Specific statutory authorization by Congress
+	- National emergency is created by an attack on the US or its forces
+- The President is required to notify Congress within 48 hours of:
+	- The circumstances necessitating the introduction of the armed forces
+	- The scope and duration of hostilities or involvement
+- The President must withdraw in 60 days (+possible 30 day extension) unless:
+	- Congress has declared war
+	- Congress has passed a specific authorization
+	- Congress has extended the notification deadline
+	- Congress is physically unable to meet
+
+Rallying around the flag - when the president is involved in justified military action there is a surge in nationalism and popularity

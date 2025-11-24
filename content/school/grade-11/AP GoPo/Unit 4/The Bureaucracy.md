@@ -1,0 +1,14 @@
+# The Bureaucracy
+- Bureaucrats - officials employed with government agencies
+- The Age of Jackson
+	- Political patronage (spoils system)
+		- Administrative positions given as a reward for political support rather than solely on merit
+		- Out of necessity, the bureaucracy becomes more impartial, neutral, and driven by standard operating procedures and technical expertise
+- Pendleton Act, 1863
+	- Creates the Civil Service Commission
+		- Tasked with drawing up and enforcing rules on hiring, promotion, and tenure of office
+			- Federal civil service
+			- Merit based bureaucracy
+				- Merit system - competitive testing, educational attainment, etc basis for hiring instead of political connections
+			- Excludes the military anxd political appointments
+			- Hatch Act
