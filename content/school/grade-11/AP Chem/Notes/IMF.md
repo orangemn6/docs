@@ -1,0 +1,49 @@
+
+Tref - normal freezing point pulling energy out of the system
+Attractive forces win and lock the molecules into crystal structure
+mental boiling etc pumps energy back in
+- endothermic processes
+- need to have enough energy to ignore neighbors and not form bonds
+- ice -> steam most of the energy goes into vaporization
+	- Melting takes less energy than vaporizing
+- liquid to vapor completely breaks all of the forces
+- Water moleculesa re extremely sticky
+- Types of bonds
+	- Nonpolar molecules: london dispersion forces
+		- Weakest, but present in everything
+		- Electrons arent static, they zip around creating a temporary dipole as they interact with each other
+			- Temporary static cling
+		- The scale of it scales with polarizability. The bigger the atom, the bigger electron cloud
+		- Cl2 and I2, I2 is bigger so it forms a solid
+			- Temporary LDFs are strong enoigh to form it into a solid
+			- Surface area is also important - structural isomer comparison
+		- Straight chain vs bent chain, higher surface area means it has more spots to interact with its neighbors
+			- Pentane is liquid at room temperature while propane is a gas
+			- LDFs are strong enough to keep it a liquid
+	- Dipole-Dipole forces
+		- You can get a permanent dipole through polar shapes
+		- Aceton and Butane, almost same molar mass
+			- Acetone is polar while Butane is non polar
+				- Functional group makes it very polar and permanent dipole
+			- Polar molecules are "stickier", the attraction is always on
+	- Strongest non-bonding force is Ion Dipole forces
+		- Full ion interacts with a molecule like water
+			- Full charge, not a partial one
+	- Hydrogen bond
+		- Incredibly strong type of dipole-dipole force
+		- Very specific, hydrogen atom that is covalently bonded to N,O,F
+			- These three are so electronegative that they pull the electron cloud away from the hydrogen
+			- Very concentrated charge
+		- Trend based on size is broken once the hydrogen bonds break
+			- That's where most of the enrgy in breaking water goes
+	- If you see CH4, it isn't a hydrogen bond because there is no N,O,F, it is just a LDF
+- Vapor Pressure
+	- Liquids ina sealed container have an inverse relationship
+	- Stronger IMF means lower vapor pressure
+	- As long as there is liquid in the flask, the vapor pressure stays the same
+		- Dynamic equilibrium
+		- System self corrects to maintain constant pressure determined by the substance
+- Metals have sea of electrons where the outer ones are delocalized
+	- Make it a conductor
+- Solid is usually denser than liquid, except for water where ice is less dense than liquid
+- If H bonding is what gives water its high boiling point, how does that same hydrogen bond network, when it freezes into ice, force the molecules to become farther apart in a liquid
