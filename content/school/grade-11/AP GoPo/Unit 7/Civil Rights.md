@@ -50,9 +50,6 @@
 		- King's Response - Letter from Birmingham Jail
 		- White moderate
  
-
-
-
 # Affrimative Action
 ~~Fill in~~
 - Fisher v UT Austin
@@ -78,4 +75,22 @@
 - Voting Rights act of 1965
 	- Outlawed literacy tests and authorized the Justice Department to send federal officers to register voters in uncooperative locations. Southern states needed pre-clearance from the federal government before they changed their voting laws and practices
 		- Pre-clearance overturned in 2013 by Supreme Court as a violation of the Tenth Amendment
-	- 
+
+# Women's Rights
+- First Wave
+	- Involved womens suffrage
+	- 19th amendment gave women the right to vote in 1920
+- Second Wave
+	- Addressed inequalities, violence, and sexual harassment
+	- Betty Friedan "The Feminine Mystique" - 1963
+		- National Organization for Women
+			- From anti discrimination to full participation in society
+			- Title IX - 1972
+				- On the basis of sex, no person shall be excluded from participation or denied the benefits from any educational activity receiving federal funding - women's sports
+			- Equal Right's Amendment - 1971 - not passed
+				- 14th amendment and title 7
+			- Supreme Court and Gender
+				- Intermediate scrutiny - for the law in question to survive, the govt must prove that there is a legitimate govt objective and that the law is substantially leading to that govt objective
+					- Military draft registration
+				- Sexual Harassment and the court
+					- Quid pro quo (sex for jobs or benefits) and hostile work environment (employer knows but doesn't try to stop it)

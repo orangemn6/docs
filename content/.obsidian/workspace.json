@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "af8f801b5cb0a43c",
+        "id": "b5225680a4528963",
         "type": "tabs",
         "children": [
           {
-            "id": "e2a5f40596e33f88",
+            "id": "1ae171fd75d442df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school/grade-11/AP Chem/Notes/Chemical Equilibrium.md",
+                "file": "school/grade-11/AP Chem/Notes/Electrochemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemical Equilibrium"
-            }
-          },
-          {
-            "id": "f8c0db9531577715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Open Directories.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Open Directories"
+              "title": "Electrochemistry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "47351516cfa257ca",
@@ -159,13 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school/grade-11/AP Chem/Notes/Chemical Kinetics.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chemical Kinetics"
+              "title": "Outline"
             }
           },
           {
@@ -190,10 +173,14 @@
             "id": "f4d98d20fd32556d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "school/grade-10/biology/ATP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ATP"
             }
           },
           {
@@ -202,7 +189,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "school/grade-11/AP GoPo/Unit 1 9-3-25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,10 +216,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unit 1 9-3-25"
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,55 +241,55 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f8c0db9531577715",
+  "active": "1ae171fd75d442df",
   "lastOpenFiles": [
-    "school/grade-11/AP Chem/Notes/Chemical Equilibrium.md",
     "Open Directories.md",
-    "school/grade-11/AP GoPo/Unit 7/Civil Rights.md",
-    "school/grade-11/solutions.md",
-    "school/grade-11/AP Chem/misc/Screenshot 2025-12-05 at 13.57.24@2x.png",
-    "school/grade-11/AP Chem/Notes/Chemical Kinetics.md",
-    "school/grade-11/AP Chem/misc/chem lab 1.md",
-    "school/grade-11/AP GoPo/Unit 7",
-    "school/grade-10/biology/Activation Energy.md",
-    "school/grade-10/biology/Catalysts.md",
-    "Untitled.canvas",
-    "school/grade-11/AP Chem/Notes/Intermolecular Forces.md",
-    "school/grade-11/AP GoPo/Unit 6/Civil Liberties.md",
-    "school/grade-11/AP Chem/Notes/IMF.md",
-    "school/grade-11/AP GoPo/Unit 6",
-    "school/grade-11/AP GoPo/Unit 5/Modes of Interpretation.md",
-    "school/grade-11/AP GoPo/Unit 5/The Judiciary.md",
+    "school/grade-11/AP Chem/Notes/Electrochemistry.md",
+    "Homelab.md",
+    "school/grade-11/AP GoPo/Unit 10/Political Participation and Political Parties.md",
+    "APUSH Questions.md",
+    "chem frq.md",
+    "school/grade-11/AP Chem/Notes/Acids and Bases.md",
+    "APUSH.md",
+    "graph_visualization.md",
+    "narwhals_r_us_solution.md",
+    "school/grade-11/AP GoPo/Unit 10",
+    "school/grade-11/AP GoPo/Unit 9/Political Ideology.md",
+    "school/grade-10/biology/Thermodynamics.md",
+    "school/grade-10/biology/Electron Transport Chain.md",
+    "personal/misc/Note Maker GPT Prompt.md",
     "school/grade-11/AP Chem/misc/Resources.md",
+    "school/grade-10/biology/Second Law of Thermodynamics.md",
+    "school/grade-10/biology/Entropy.md",
+    "school/grade-11/AP GoPo/Unit 4/The Great American Bubble Machine.md",
+    "school/grade-10/biology/Photosynthesis MOC.md",
+    "school/grade-11/AP GoPo/Unit 9",
+    "school/grade-11/AP GoPo/Unit 8/Public Opinion.md",
+    "Screenshot 2026-03-06 at 23.53.24@2x.png",
+    "school/grade-11/AP GoPo/Unit 7/Civil Rights.md",
+    "school/grade-10/biology/ATP.md",
+    "school/grade-10/history/unit12-pt3.md",
+    "school/grade-10/history/unit12-pt2.md",
+    "school/grade-10/history/unit10-pt2.md",
+    "school/grade-10/history/unit10-pt4.md",
+    "school/grade-11/AP GoPo/Unit 8",
+    "school/grade-11/AP Chem/misc/Screenshot 2025-12-05 at 13.57.24@2x.png",
+    "school/grade-11/AP GoPo/Unit 7",
+    "Untitled.canvas",
+    "school/grade-11/AP GoPo/Unit 6",
     "school/grade-11/AP Chem/misc",
     "school/grade-11/AP Chem/Notes",
-    "school/grade-11/AP Chem/Notes/Gases.md",
     "school/grade-11/AP GoPo/Unit 5",
-    "school/grade-11/AP GoPo/Unit 4/The Bureaucracy.md",
-    "school/grade-11/AP GoPo/Unit 4/The Great American Bubble Machine.md",
     "school/grade-11/AP Chem/misc/Screenshot 2025-12-05 at 13.22.35@2x.png",
-    "school/grade-11/AP GoPo/Unit 4/Executive Branch.md",
     "school/grade-11/AP Chem/misc/Screenshot 2025-12-04 at 13.47.40@2x.png",
-    "school/grade-11/AP Chem/misc/chem lab.md",
-    "personal/Workout.md",
-    "personal/saved/5.2 Calorimetry - Chemistry 2e  OpenStax.md",
-    "Clippings/5.2 Calorimetry - Chemistry 2e  OpenStax.md",
     "Clippings",
-    "school/grade-11/AP GoPo/Unit 3/Congressional Leadership.md",
     "school/grade-11/AP GoPo/Unit 4",
-    "school/grade-11/AP GoPo/Unit 3/Unit 3 Court Cases.md",
-    "Jifioehiofhoeih.md",
-    "school/grade-11/AP GoPo/Unit 2/Federalism.md",
-    "school/grade-11/AP GoPo/Unit 3",
-    "school/grade-11/AP GoPo/Unit 2",
-    "school/grade-11/AP GoPo/Unit 1",
     "Dashboard.canvas",
     "school/biology/membraneflowchart.png",
     "school/biology/Pasted image 20250102102315.png",
     "school/biology/Pasted image 20250102102315 1.png",
     "school/grade-10/biology/Pasted image 20250102102315 1.png",
     "school/grade-10/biology/Pasted image 20250102102315.png",
-    "Pasted image 20250102102315.png",
-    "school/grade-10/biology/membraneflowchart.png"
+    "Pasted image 20250102102315.png"
   ]
 }

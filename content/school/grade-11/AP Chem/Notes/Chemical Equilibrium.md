@@ -78,3 +78,12 @@ ICE Table for equilibrium?
 
 # Reaction Quotient
 - We often want to know which direction a reaction is going to shift based on current conditions. To determine this we calculate 
+
+Entropies are always positive
+
+Thermodynamic Control vs Kinetic Control
+
+When at equilibrium, what is true about the concentraiton of reactants and products?
+- Constant delta G = 0
+As a result there is no change in the free energy when at equilibrium
+

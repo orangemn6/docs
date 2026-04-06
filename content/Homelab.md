@@ -1,0 +1,18 @@
+
+Hard Drives:
+[3tb for $20](https://www.ebay.com/itm/336449129044?_skw=hard+drives&itmmeta=01KK3074TMPY9C09HX3STB9APF&hash=item4e55ee4a54:g:stAAAeSwJllpnNqM&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCI4YBDq32QGcyficxfRXnd0titkB%2FjWqixvBXn5LukRiIjOvd0wjPdUS6dvWWEUXDQj36pOSQkijuHX5n3qbj6PwKSc3H%2FcwNGnke1HoQR2eKdtD5DWF63Wvxda5rMwP1hOy0eTqjsIROJ9EzFP0SFphkMfuxBxSTXCKfs626gOaRCfrG7p54JLZEoXcngMn2Pls2MKT4j62QIo00FGaH5NzPq0mDJ1YLe2zgx4fL3lRUcBo9Z1mdmn6%2FALRpgSrs%3D%7Ctkp%3ABk9SR9zNnOCYZw)
+[4tb for $45](https://www.ebay.com/itm/205900352139?_skw=hard+drives&itmmeta=01KK3074TNKRB8VTET62G7CM85&hash=item2ff09e0a8b:g:lyYAAeSwZzFpM3ez&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCnBAiwegF2NPLeWhMYHANQoE3wmRGVJdlTRawpfVPw8zPlLX1t%2FZs9wd8gL7ckJYsYIHb5X6A6rLFKtTgMv36U2dvK65JSubwUjss%2FgHFdpPuXD9kDmUQ%2F0ZC6WVdxSPBvHszyvLc%2FZ8ECSj3BE2A3M%2BOYIYUYrACyL6mszoguOCtuXVJ81Asv%2BVwcTxJh%2BUXj6UO9bwPD2uW%2Fxob6gISyvlDpcyfm9W2ly1qOuXNFYe4uRWCEDPpkTvkPPCFUwf4%3D%7Ctkp%3ABk9SR9zNnOCYZw)
+
+Mini pcs?
+ [Lenovo Thinkcentre M910Q i5-7500T 8gb Ram 256gb NVME for $110](https://www.ebay.com/itm/358270517083?_skw=homelab&itmmeta=01KK3763SC0P0DKZEY8CMZHV2G&hash=item536a963f5b:g:FzIAAeSwviJpmiAp&itmprp=enc%3AAQALAAAAwGfYFPkwiKCW4ZNSs2u11xAnxUzAUnKNGEVmBneGm3GcF60yiVfBsxzU0xJQ5QdEnsnbBBlINseveY1qiaZXnqICV%2FV2mahx5OaRiHYOMv56TQ6bXbe%2B1XdT%2FdSSBiquDsARYzj11Fi0emP395un%2FOg%2BMu%2FLHZhdU1dDUMBTDjP4bi8Fqt%2BMgF%2BbggrEmeiF4w75%2B1nX72eRdXZnxVkJqUsPDJU7aR7KFHGyriGKtvOqf1VKX%2BK9FhTufto4R3QPWg%3D%3D%7Ctkp%3ABk9SR_i8mOeYZw)
+
+Networking switches router
+
+[Bundle with metgear gs108p, tl r6000vpn, netgear gs316](https://www.ebay.com/itm/317732732603?_skw=homelab&itmmeta=01KK37YCD4TW5NK8Q1FQDA5SXY&hash=item49fa58bebb:g:GWQAAeSwFRZpWxl8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBpcSiCjJILnGuKQsDjYZRJkxGd59%2Bi7fA3BNOpfxLylre2mO6VdhQEjJSx%2B63n5NzY%2FB8uLKDZyLXWwqxzeCOfR0Djk0KEx4IbvGTY3kzaV0qqEV8uEua6BaDe1ZUsvKWzpW9YqreFwQXeaPK%2B1cPWUvhae%2FLp2jRuRSz9ftfYFgLoz9vPhVPwvISKA2Kjv13%2F0vFGpoNRi5FREGB%2F1rhQEmaYg7ZBbm0%2F2K%2Btf0f%2BNd%2BvRQlMBrHtXYavDjv%2BwMt2Eq3MnnuYvVAynsqilpE9%7Ctkp%3ABk9SR_TG-eeYZw)
+
+![[Screenshot 2026-03-06 at 23.53.24@2x.png]]
+
+qnap tr004 nas
+i5 dell mini pc
+
+
